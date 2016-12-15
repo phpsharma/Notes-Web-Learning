@@ -1,0 +1,3754 @@
+s3cmd put -r dir1 s3://sc-wp-uploads/2016/01/
+
+s3cmd put -r 01 s3://sc-wp-uploads/2016/
+
+www.stylecraze.com/articles/amazing-health-benefits-of-mangosteen/
+www.stylecraze.com/articles/amazing-benefits-of-coconut-water-for-skin-hair-and-health/
+www.stylecraze.com/articles/3-wonderful-benefits-of-methi-seeds-for-hair/
+www.stylecraze.com/articles/benefits-of-amla-juice-for-skin-hair-and-health/
+www.stylecraze.com/articles/top-10-health-benefits-of-dates/
+
+https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]
+
+https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]
+
+https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video3&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]
+
+https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video4&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]
+
+https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video5&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]
+
+
+
+
+sudo varnishadm "ban req.url ~ /?amp=1"
+
+
+"Create a new Job (Required for every video)
+Select Pipeline created above.
+Select the input filename. (this should be in the input bucket)
+Select the output folder's name. (prefer the same as input file and append a ""/"")
+Output Details - 
+  - Preset - ""System preset: HLS 2M"", 
+  - Segment Duration (secs) - 10
+  - Outputkey - ""hls_2m_"" 
+  - Default settings for other options
+Click on add another ouput and repeat above step for HLS 1.5M, 1M, 600k, 400k. 10 secs for all and relavant output keys
+Create Playlist
+  - Name is ""index""
+  - Playlist format ""HLSv3""
+  - Outputs in Master Playlist - use the + button to add all the above 5 formats (2m, 1.5m, 1m, 600k, 400k)
+  - Create job
+"
+
+
+
+ambika:9032589574
+
+1) I have installed a plugin for fancier author box plugin for author bio.
+2) when I access the post via rest api, the plugin filter is displaying unwanted data.
+3) how to stop certain filters to stop running rest requests.
+
+Thanks,
+sharma
+
+http://localhost/StyleCraze/wp-api/wp/v2/posts/5131?_embed=true
+http://localhost/StyleCraze/wp-json/posts/5131?_embed=true
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This is for momjunction facebook ads restrictions
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+http://www.momjunction.com/articles/unexpected-benefits-and-risks-of-postpartum-tubal-ligation_00120659/
+http://www.momjunction.com/articles/unexpected-causes-swollen-breasts-newborns_0084605/
+http://www.momjunction.com/articles/unexpected-signs-and-symptoms-of-egg-allergy-in-babies_0087502/?ref=end
+http://www.momjunction.com/articles/ways-to-make-your-baby-smart-and-intelligent_00119767/?ref=content/
+http://www.momjunction.com/articles/vesicoureteral-reflux-in-children_00368067/
+
+if (!is_single(array(120659,84605,87502,119767,368067))) {
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+//Detect Mobile
+window.isMobile = false;
+(function(d, w, l) {
+  function is_mobile(){
+    var check = false;
+    (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))){check = true; if(/opera m(ob|in)i|uc(web| browser|browser)/i.test(a)) check = false;}})(navigator.userAgent||navigator.vendor||window.opera);
+    return check;
+  }
+  if ( is_mobile () ) {
+    window.isMobile = true;
+
+})(document, window, window.location);
+/* ]]> */
+
+console.log(window.isMobile);
+console.log("mobile check");
+</script>
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+sudo mysqldump -uroot -psconaws stylecraze > stylecraze-aug-08-2016.sql
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+214183,105845,1822,258174
+
+
+is_single(array(214735,214183,105845,1822,258174))
+
+
+http://www.stylecraze.com/articles/10-homemade-tips-for-dark-circles/
+
+http://www.stylecraze.com/articles/2-simple-ways-to-apply-red-lipstick-perfectly/
+
+http://www.stylecraze.com/articles/3-simple-and-quick-hairstyles-for-all-occasions/
+ 
+http://www.stylecraze.com/articles/amazing-benefits-of-christian-meditation/
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=
+
+
+
+
+
+Special offer for Bridalbox readers!<br />
+Participate in Lakme Salon "The Show Stopping Bride" Contest to grace the cover of Femina Magazine. Also lots of prizes to be won. Click here"
+
+
+http://pubads.g.doubleclick.net/gampad/clk?id=408092814&iu=/25351654/RON_TEXT
+
+
+
+
+$lybratetexts = array('fullsite' => array('Problems in conceiving? Get help from IVF specialists and Gynecologists on Lybrate. <a href="%s" target="_blank">Click here to consult.</a>','Get free advice on IVF from trusted Doctors at Lybrate. <a href="%s" target="_blank">Click here.</a>'),
+    );
+
+
+===================sasank notes momjunction======================
+momjunction:  1)clear cache directory in wp-content  step by step 2) check for watch uptime 3) clear varnishadm step by step, check for watch uptime 4) run screaming frog software from seo 5) after all above 4 confirmation clear cloudfront cache
+[4:09:22 PM] Sasank.styleCraze: so now screaming frog and cloudfront part are left
+[4:09:26 PM] Sasank.styleCraze: you’ll do them?
+[4:09:43 PM] Sasank.styleCraze: also ask abhishek to check orign before these two things
+[4:14:58 PM] sharma chelluri: ok thanks for your great info.
+[4:24:06 PM] sharma chelluri: i will do
+[4:27:40 PM] sharma chelluri: I am providing mj urls to abhishek and his team will screaming it
+[4:27:48 PM] Sasank.styleCraze: ok
+[4:28:09 PM] Sasank.styleCraze: ask them to do it at a slow pace
+[4:28:14 PM] Sasank.styleCraze: 3-4 urls per sec
+[4:28:30 PM] sharma chelluri: yeah..sure..i already informed about it
+[4:32:46 PM] sharma chelluri: i think we need to access origin.momjunction.com/articles/......
+
+===================sasank notes momjunction======================
+
+
+===================stylecraze cache clear=========================
+/articles/
+/trending/
+/social/
+/members/
+*/?amp=*
+
+
+/articles/*
+/trending/*
+/social/*
+/members/*
+*/?amp=*
+/?amp=*
+
+
+ sudo varnishadm "ban req.url ~ /articles/"
+ sudo varnishadm "ban req.url ~ /trending/"
+ sudo varnishadm "ban req.url ~ /social/"
+
+  sudo varnishadm "ban req.url == '/'"
+===================stylecraze cache clear=========================
+
+array('Special offer for StyleCraze readers! Get FREE consultation with a certified Weight loss expert to solve all your Weight loss queries. <a href="%s" target="_blank">Click Here>></a>','Special offer for StyleCraze readers! Get FREE consultation with a certified Weight loss expert to solve all your Weight loss queries. <a href="%s" target="_blank">Click Here>></a>'),
+
+
+
+
+
+   googletag.pubads().setTargeting("article_length","long");
+
+googletag.pubads().setTargeting("experiment","lakme");
+
+
+experiment" "lakme
+
+
+
+
+http://www.thebridalbox.com/articles/beauty-products-to-include-on-your-wedding-day_0051370/
+
+http://www.thebridalbox.com/articles/celebrity-brides-on-the-femina-cover_0051128/
+
+http://www.thebridalbox.com/articles/how-to-prevent-a-wedding-day-beauty-meltdown_0051000/
+
+http://www.thebridalbox.com/articles/chic-ways-to-dress-your-bridesmaids_0051285/
+
+http://www.thebridalbox.com/articles/checklist-for-bride-before-hiring-a-makeup-artist_0050995/
+
+
+
+51370,51128,51000,51285,50995
+
+
+<-------------Bridal Box----------------------->
+
+a:29:{i:0;s:43:"akfeatured-post-widget/ak_featured_post.php";i:1;s:30:"amaozon-e-com/amazon-e-com.php";i:2;s:41:"anp-inc-lockerdome/anp-inc-lockerdome.php";i:3;s:61:"anp-inc-optinmonster-country/anp-inc-optinmonster-country.php";i:4;s:39:"anp-inc-shopalyst/anp-inc-shopalyst.php";i:5;s:38:"apester-interactive-content/qmerce.php";i:6;s:67:"better-rest-api-featured-images/better-rest-api-featured-images.php";i:8;s:32:"disqus-comment-system/disqus.php";i:9;s:29:"fancier-author-box/ts-fab.php";i:10;s:53:"fixed-social-total-addon/fixed-social-total-addon.php";i:11;s:63:"fixed-wp-social-share-buttons/fixed-wp-social-share-buttons.php";i:12;s:19:"jetpack/jetpack.php";i:13;s:24:"json-rest-api/plugin.php";i:14;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:15;s:37:"optinmonster/optin-monster-wp-api.php";i:16;s:21:"pagefrog/pagefrog.php";i:17;s:27:"redirection/redirection.php";i:18;s:19:"rest-api/plugin.php";i:19;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:20;s:33:"w3-total-cache/w3-total-cache.php";i:21;s:24:"wordpress-seo/wp-seo.php";i:22;s:24:"wordpress-seo/wp-seo.php";i:23;s:25:"wp-better-emails/wpbe.php";i:24;s:23:"wp-headjs/wp_headjs.php";i:25;s:33:"wp-smtp-config/wp-smtp-config.php";i:26;s:17:"wp-spa/wp-spa.php";i:27;s:35:"wp-youtube-lyte/wp-youtube-lyte.php";i:28;s:36:"wysija-newsletters-premium/index.php";i:29;s:28:"wysija-newsletters/index.php";}
+
+
+http://wordpress.stackexchange.com/questions/137732/change-menu-items-url
+
+function change_menu($items){
+
+if(!is_front_page()){
+
+  foreach($items as $item){
+
+
+    $item->url = get_bloginfo("url") . "/" .  $item->url;
+
+
+  }
+
+}
+
+  return $items;
+
+}
+
+add_filter('wp_nav_menu_objects', 'change_menu');
+
+
+
+var conn = document.createElement("script");
+        conn.type = 'text/javascript';
+        conn.src = "http://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+        conn.async = true;
+        conn.setAttribute('data-connatix-token', '451cae7b-4f17-4a9c-8d39-a124d6670762');
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(conn, node);
+
+<script async type='text/javascript'>
+
+        var conn1 = document.createElement("script");
+          conn1.type = 'text/javascript';
+          conn1.src = "http://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+          conn1.async = true;
+          conn1.setAttribute('data-connatix-token', '452fc214-6e8b-40f7-b76a-9127f3e33596');
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(conn1, node);
+
+
+          var conn2 = document.createElement("script");
+          conn2.type = 'text/javascript';
+          conn2.src = "http://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+          conn2.async = true;
+          conn2.setAttribute('data-connatix-token', 'da65a5fb-f2d7-41ff-979c-00b8dbbc55d1');
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(conn2, node);        
+
+
+      var conn3 = document.createElement("script");
+          conn3.type = 'text/javascript';
+          conn3.src = "http://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+          conn3.async = true;
+          conn3.setAttribute('data-connatix-token', '7afb6243-c607-41fe-beba-7bfd999e676f');
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(conn3, node);
+
+           var conn4 = document.createElement("script");
+          conn4.type = 'text/javascript';
+          conn4.src = "http://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+          conn4.async = true;
+          conn4.setAttribute('data-connatix-token', '451cae7b-4f17-4a9c-8d39-a124d6670762');
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(conn4, node);
+
+
+</script>
+
+<script async type='text/javascript' src='//cdn.connatix.com/min/connatix.renderer.infeed.min.js' data-connatix-token='452fc214-6e8b-40f7-b76a-9127f3e33596'></script>
+<script async type='text/javascript' src='//cdn.connatix.com/min/connatix.renderer.infeed.min.js' data-connatix-token='da65a5fb-f2d7-41ff-979c-00b8dbbc55d1'></script>
+<script async type='text/javascript' src='//cdn.connatix.com/min/connatix.renderer.infeed.min.js' data-connatix-token='7afb6243-c607-41fe-beba-7bfd999e676f'></script>    
+
+
+
+
+_yoast_wpseo_meta-robots-noindex
+_yoast_wpseo_meta-robots-nofollow
+
+
+SELECT posts.ID, posts.post_title, meta.meta_key, meta.meta_value FROM wp_posts as posts
+INNER JOIN wp_postmeta as meta
+      ON posts.ID = meta.post_id
+WHERE meta.meta_key IN ('_yoast_wpseo_meta-robots-noindex','_yoast_wpseo_meta-robots-nofollow') AND meta.meta_value = 1;
+
+
+SELECT distinct posts.post_name FROM wp_posts as posts
+INNER JOIN wp_postmeta as meta
+      ON posts.ID = meta.post_id
+WHERE meta.meta_key IN ('_yoast_wpseo_meta-robots-noindex','_yoast_wpseo_meta-robots-nofollow') AND meta.meta_value = 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT posts.ID, posts.post_title, meta.meta_key, meta.meta_value FROM wp_posts as posts
+INNER JOIN wp_postmeta as meta
+      ON posts.ID = meta.post_id
+WHERE meta.meta_key IN ('_yoast_wpseo_meta-robots-noindex','_yoast_wpseo_meta-robots-nofollow');
+
+
+
+
+select * from wp_postmeta where meta_key = "_yoast_wpseo_meta-robots-noindex" and meta_value =1; <> 1 and _yoast_wpseo_meta-robots-nofollow <> 1;
+
+
+SELECT p.*, (select pm.* from wp_postmeta AS pm WHERE pm.post_id = p.ID)
+    FROM wp_posts p 
+    WHERE wp_.post_type = 'product' and wp_post_status = 'publish'
+
+
+SELECT  wp_posts.post_title, wp_posts.ID, mt1.meta_value as field_1, mt2.meta_value as field_2 
+
+FROM wp_posts  
+
+LEFT JOIN wp_postmeta AS mt1 ON (wp_posts.ID = mt1.post_id AND mt1.meta_key='somekey1')
+
+LEFT JOIN wp_postmeta AS mt2 ON (wp_posts.ID = mt2.post_id  AND mt2.meta_key='somekey2') 
+
+WHERE wp_posts.post_type = 'post' 
+
+AND (wp_posts.post_status = 'publish'  OR wp_posts.post_status = 'private')  
+
+AND ((mt1.meta_key = 'somekey1') OR (mt2.meta_key = 'somekey2' )) 
+
+GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC
+
+
+
+Hello Sharma Sir,
+ 
+Please add the DFP codes on the Following Calculator Pages:
+http://www.momjunction.com/pregnancy-weight-gain-calculator/   http://www.momjunction.com/wp-admin/post.php?post=401821&action=edit
+http://www.momjunction.com/bmi-calculator/  http://www.momjunction.com/wp-admin/post.php?post=378422&action=edit
+http://www.momjunction.com/period-calculator/  http://www.momjunction.com/wp-admin/post.php?post=400475&action=edit
+
+http://www.momjunction.com/baby-eye-color-calculator/ http://www.momjunction.com/wp-admin/post.php?post=401197&action=edit
+http://www.momjunction.com/implantation-calculator/ http://www.momjunction.com/wp-admin/post.php?post=401199&action=edit
+http://www.momjunction.com/breast-milk-calculator/  http://www.momjunction.com/wp-admin/post.php?post=400460&action=edit
+http://www.momjunction.com/contraction-calculator/  http://www.momjunction.com/wp-admin/post.php?post=401825&action=edit
+ 
+Regards,
+Sumant
+
+
+
+<div id='div-gpt-ad-1427445229106-0' style="text-align: center;"><script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-0'); });
+</script>
+</div>
+
+
+ <h3><script id="mNCC" language="javascript">  medianet_width="600";  medianet_height= "250";  medianet_crid="343627897";  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUC11S48" language="javascript"></script></h3>
+
+    <div id='div-gpt-ad-1427445229106-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-3'); });
+</script>
+</div>
+
+
+
+
+****************************************************************
+cd ~/sharma-jun-2016/mj-29062016-plugins-live/
+sudo mv /var/www/wp-content/plugins/wp-better-emails/ .
+
+cd ../plugins-sc-move-mj/
+sudo cp -r wp-better-emails/ /var/www/wp-content/plugins/
+
+
+cd /var/www/wp-content/plugins/
+ sudo chown nginx:nginx -R wp-better-emails/
+ sudo chmod 775 -R wp-better-emails/
+
+
+*******************************************************************
+
+cd ~/sharma-jun-2016/mj-29062016-plugins-live/
+sudo mv /var/www/wp-content/plugins/json-rest-api/ .
+
+cd ../plugins-sc-move-mj/
+sudo cp -r json-rest-api/ /var/www/wp-content/plugins/
+
+
+cd /var/www/wp-content/plugins/
+ sudo chown nginx:nginx -R json-rest-api/
+ sudo chmod 775 -R json-rest-api/
+
+
+
+*******************************************************************
+
+
+
+
+
+sudo tar -czvf stylecraze-452.plugins.tar.gz /var/www/plugins/
+
+
+tar -xvf thumbnails-14-09-12.tar.gz
+
+tar -xvf stylecraze-452.plugins.tar.gz
+
+www.stylecraze.com/stylecraze-452.plugins.tar.gz
+
+w3-total-cache
+++++++++++++++++++++++++++++++++++
+sudo mv /var/www/wp-content/plugins/w3-total-cache/ .
+sudo cp -r w3-total-cache/ /var/www/wp-content/plugins/
+
+ sudo chown nginx:nginx -R w3-total-cache/
+sudo chmod 775 -R w3-total-cache/
+
+wp-better-emails
+++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+What is th current ram?
+Current RAM for instance c3.large is 3.75GB.
+
+What is the option - instance type, to upgrade instance?
+The next option to upgrade in this series are two
+c3.xlarge, c3.2xlarge
+
+What is the RAM available in the next instance which is available?
+c3.xlarge 4vCPU 7.5GB RAM
+c3.2xlarge  8vCPU 15GB RAM
+
+What is the cost difference for on demand instance? Both for current and the next upgrade.
+
+
+The cost difference for current instance and next istance c3.xlarge monthly is $97.157 ($193.583 - $96.426)
+
+
+
+
+
+c3.large  2 7 3.75  2 x 16 SSD  $0.132 per Hour
+c3.xlarge 4 14  7.5 2 x 40 SSD  $0.265 per Hour
+
+ubuntu@ip-172-31-28-215:/var/www$  sudo chown nginx:nginx -R wp-admin/
+ubuntu@ip-172-31-28-215:/var/www$  sudo chown nginx:nginx -R wp-includes/
+ubuntu@ip-172-31-28-215:/var/www$  sudo chmod 775 -R wp-admin/
+ubuntu@ip-172-31-28-215:/var/www$  sudo chmod 775 -R wp-includes
+ubuntu@ip-172-31-28-215:/var/www$ 
+
+
+
+
+
+
+
+
+
+
+
+https://www.facebook.com/ 
+
+
+
+
+
+sudo cp -R ~/sharma-jun-2016/wordpress/wp-admin/ .
+
+
+
+sudo cp -R ~/sharma-jun-2016/wordpress/wp-includes/ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /25351654/HB//Sidebar//ATF//300x600 -->
+
+<div id='div-gpt-ad-1464342861043-4'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-4'); });</script></div>
+
+
+<?php if (is_single(188375)) { ?>
+<div id='div-gpt-ad-1464342861043-4'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-4'); });</script></div>
+
+<?php } else { ?>
+
+<div id='div-gpt-ad-1408359871629-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); 
+setInterval(function(){googletag.pubads().refresh([gptAdSlots[0]]);}, 60000);
+});
+</script>
+</div>
+
+<?php } ?>
+
+<?php if (is_single(188375)) { ?>
+<div id='div-gpt-ad-1464342861043-5'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-5'); });</script></div>
+
+<?php } else { ?>
+<div id='div-gpt-ad-1408359871629-101'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-101'); });
+</script>
+</div>
+
+<?php } ?>
+
+<!-- /25351654/HB//Sticky//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-5'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-5'); });</script></div>
+
+
+originall sticky
+================
+
+
+http://www.stylecraze.com/wp-admin/post.php?post=188375&action=edit
+
+
+
+
+var my_div = document.getElementById('text-6');
+my_div.innerHTML = my_div.innerHTML + "<div class=\"textwidget\"><div id='div-gpt-ad-1464342861043-4'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-4'); });</script></div></div>";
+
+
+
+<div id="573f97b0e4b0f2c768b60943" class="vdb_player vdb_573f97b0e4b0f2c768b6094356bcd17ce4b018167fea5539" vdb_params="m.o2inline=inview&m.position=9&m.selector=%23post-353453%20p"><script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=573f97b0e4b0f2c768b60943/56bcd17ce4b018167fea5539_bein.js?m.selector=%23post-353453%20p&m.position=9"></script>
+
+
+<div id="div-gpt-ad-1408359871629-2">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); 
+setInterval(function(){googletag.pubads().refresh([gptAdSlots[0]]);}, 60000);
+});
+</script>
+</div>
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<!-- TAG START { player: "Outstream Demo (ad only)"} -->
+<div class="vdb_player vdb_568927c7e4b098feda361f34554203dbe4b064656db31e16" vdb_params="m.o2inline=inview&m.selector=%23article%20p&m.position=9">
+   <script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=568927c7e4b098feda361f34/554203dbe4b064656db31e16_bein.js?m.o2inline=inview&m.selector=%23article%20p&m.position=9"></script>
+</div>
+<!-- TAG END -->  
+
+<div id="573f97b0e4b0f2c768b60943" class="vdb_player vdb_573f97b0e4b0f2c768b6094356bcd17ce4b018167fea5539" vdb_params="m.o2inline=inview&m.position=9&m.selector=%23post-353453%20p"><script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=573f97b0e4b0f2c768b60943/56bcd17ce4b018167fea5539_bein.js?m.selector=%23post-353453%20p&m.position=9"></script>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+sudo varnishadm "ban req.url ~ ^/$"
+
+sudo mysqldump -uroot -pmjonaws momjunction > momjunction-june212016.sql
+sudo mysqldump -uroot -p momjunction > momjunction_june212016.sql
+
+a:31:{i:0;s:71:"advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php";i:1;s:43:"akfeatured-post-widget/ak_featured_post.php";i:2;s:30:"amaozon-e-com/amazon-e-com.php";i:3;s:11:"amp/amp.php";i:4;s:38:"apester-interactive-content/qmerce.php";i:5;s:19:"bbpress/bbpress.php";i:6;s:69:"browse-content-by-my-solr-server/browse-content-by-my-solr-server.php";i:7;s:31:"buddypress-followers/loader.php";i:8;s:57:"buddypress-pending-activations/bp-pending-activations.php";i:9;s:24:"buddypress/bp-loader.php";i:10;s:33:"disable-search/disable-search.php";i:11;s:32:"disqus-comment-system/disqus.php";i:12;s:56:"easy-social-share-buttons3/easy-social-share-buttons.php";i:13;s:29:"fancier-author-box/ts-fab.php";i:14;s:35:"fb-login-widget/fb-login-widget.php";i:15;s:9:"hello.php";i:16;s:19:"jetpack/jetpack.php";i:17;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:18;s:37:"optinmonster/optin-monster-wp-api.php";i:19;s:21:"pagefrog/pagefrog.php";i:20;s:27:"redirection/redirection.php";i:21;s:42:"rename-wp-login-master/rename-wp-login.php";i:22;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:23;s:45:"tiny-compress-images/tiny-compress-images.php";i:24;s:33:"w3-total-cache/w3-total-cache.php";i:25;s:24:"wordpress-seo/wp-seo.php";i:26;s:45:"wordpress-social-login123/wp-social-login.php";i:27;s:29:"wp-dbmanager/wp-dbmanager.php";i:28;s:26:"wp-fb-autoconnect/Main.php";i:29;s:36:"wysija-newsletters-premium/index.php";i:30;s:28:"wysija-newsletters/index.php";}
+
+a:28:{i:0;s:71:"advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php";i:1;s:43:"akfeatured-post-widget/ak_featured_post.php";i:2;s:30:"amaozon-e-com/amazon-e-com.php";i:3;s:11:"amp/amp.php";i:4;s:38:"apester-interactive-content/qmerce.php";i:5;s:69:"browse-content-by-my-solr-server/browse-content-by-my-solr-server.php";i:6;s:31:"buddypress-followers/loader.php";i:7;s:24:"buddypress/bp-loader.php";i:8;s:33:"disable-search/disable-search.php";i:9;s:32:"disqus-comment-system/disqus.php";i:10;s:56:"easy-social-share-buttons3/easy-social-share-buttons.php";i:11;s:29:"fancier-author-box/ts-fab.php";i:12;s:19:"jetpack/jetpack.php";i:13;s:24:"json-rest-api/plugin.php";i:14;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:15;s:21:"pagefrog/pagefrog.php";i:16;s:27:"redirection/redirection.php";i:17;s:42:"rename-wp-login-master/rename-wp-login.php";i:19;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:20;s:33:"w3-total-cache/w3-total-cache.php";i:21;s:24:"wordpress-seo/wp-seo.php";i:22;s:25:"wp-better-emails/wpbe.php";i:23;s:51:"wp-custom-post-template/wp-custom-post-template.php";i:24;s:23:"wp-headjs/wp_headjs.php";i:25;s:33:"wp-postratings/wp-postratings.php";i:26;s:33:"wp-smtp-config/wp-smtp-config.php";i:27;s:36:"wysija-newsletters-premium/index.php";i:28;s:28:"wysija-newsletters/index.php";}
+
+
+
+UPDATE `momjunction`.`wp_options` SET `option_value`='a:28:{i:0;s:71:\"advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php\";i:1;s:43:\"akfeatured-post-widget/ak_featured_post.php\";i:2;s:30:\"amaozon-e-com/amazon-e-com.php\";i:3;s:11:\"amp/amp.php\";i:4;s:38:\"apester-interactive-content/qmerce.php\";i:5;s:69:\"browse-content-by-my-solr-server/browse-content-by-my-solr-server.php\";i:6;s:31:\"buddypress-followers/loader.php\";i:7;s:24:\"buddypress/bp-loader.php\";i:8;s:33:\"disable-search/disable-search.php\";i:9;s:32:\"disqus-comment-system/disqus.php\";i:10;s:56:\"easy-social-share-buttons3/easy-social-share-buttons.php\";i:11;s:29:\"fancier-author-box/ts-fab.php\";i:12;s:19:\"jetpack/jetpack.php\";i:13;s:24:\"json-rest-api/plugin.php\";i:14;s:50:\"multiple-post-thumbnails/multi-post-thumbnails.php\";i:15;s:21:\"pagefrog/pagefrog.php\";i:16;s:27:\"redirection/redirection.php\";i:17;s:42:\"rename-wp-login-master/rename-wp-login.php\";i:19;s:47:\"sasank-inc-lybrateads/sasank-inc-lybrateads.php\";i:20;s:33:\"w3-total-cache/w3-total-cache.php\";i:21;s:24:\"wordpress-seo/wp-seo.php\";i:22;s:25:\"wp-better-emails/wpbe.php\";i:23;s:51:\"wp-custom-post-template/wp-custom-post-template.php\";i:24;s:23:\"wp-headjs/wp_headjs.php\";i:25;s:33:\"wp-postratings/wp-postratings.php\";i:26;s:33:\"wp-smtp-config/wp-smtp-config.php\";i:27;s:36:\"wysija-newsletters-premium/index.php\";i:28;s:28:\"wysija-newsletters/index.php\";}' WHERE `option_id`='35';
+
+
+
+
+
+Momjunction
+
+
+<div id='div-gpt-ad-1427445229106-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-2'); });
+</script>
+</div>
+
+<div id='stickyad'>
+<div id='div-gpt-ad-1427445229106-101'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-101'); });
+</script>
+</div>
+</div>
+
+
+
+
+SELECT * FROM wp_options WHERE option_name = 'active_plugins';
+
+UPDATE wp_options SET option_value = '' WHERE option_name = 'active_plugins';
+
+sudo chown nginx:nginx -R plugins/
+sudo chown nginx:nginx -R twentysixteen/
+ sudo cp -R /var/www/wp-admin/ .
+ sudo cp -R /var/www/wp-includes/ .
+
+ sudo varnishadm "ban req.url ~ /votre*"
+ sudo varnishadm "ban req.url ~ /marketplace*"
+
+
+/votre
+/marketplace
+
+
+
+
+<div id='div-gpt-ad-1408359871629-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); 
+setInterval(function(){googletag.pubads().refresh([gptAdSlots[0]]);}, 60000);
+});
+</script>
+</div>
+
+
+
+
+
+
+<div id='div-gpt-ad-1408359871629-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); });
+</script>
+</div>
+
+<div id='div-gpt-ad-1408359871629-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); 
+setInterval(function(){googletag.pubads().refresh(['/25351654/SC_category_sidebar_ATF']);}, 60000);
+});
+</script>
+</div>
+
+
+
+<!-- TAG START { player: "Outstream Demo (ad only)"} -->
+<div class="vdb_player vdb_568927c7e4b098feda361f34554203dbe4b064656db31e16" vdb_params="m.o2inline=inview&m.selector=%23article%20p&m.position=9">
+   <script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=568927c7e4b098feda361f34/554203dbe4b064656db31e16_bein.js?m.o2inline=inview&m.selector=%23article%20p&m.position=9"></script>
+</div>
+<!-- TAG END -->  
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+sidebar sticky ---googlead code
+<div id="stickyad">
+<div id='div-gpt-ad-1408359871629-101'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-101'); });
+</script>
+</div>
+</div>
+
+
+sidebarb top---googlead code --big vertical banner code
+<div id='div-gpt-ad-1408359871629-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-2'); });
+</script>
+</div>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+1. Log in to your Zepo dashboard.
+2. Go to settings -> payment options.
+3. Click on Indian payment gateways -> turn on.
+4. Select the payment gateway,PayU Biz.
+5. Enter super in Account Name
+6. Enter Merchant ID in Account Id.
+7. Enter Salt Key in Secret/Salt Key.  ( Salt Key can be found once you login in to PayU dashboard, Under settings SaltKey can be found.
+8. Execution Mode-> live.
+9. Click Update.
+
+
+
+User Name:  super
+Key/Alias:  ci37jC
+Password Link:  Create New Password
+Current Salt: Click here
+
+
+https://info.payu.in/merchant/salt
+
+Dafni2016$#
+
+eAxLP8Qx
+
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkZfRpjLQKhFP0vt0u+GvEjbj5zgCUiswn3qth4IcRDJSEUPwtJWE/BaX5q/zVoNd37xRNRJ4sRMRXhYI7BdSmFoJwKTiBzUzchJQPH6cn293m6ylhncwW4ZWhO5kAcl3RlVVF5VmW2zM/6y+suXV5G8jWL+32S1bH2Zxa7RPogIT3PWyk3sY3YUnN4yCMVylC8zdgdo22NYWj4+eAyHfJUROEaR2YebkIceBINNIx6793WlcPThZ6sG1aXt/9TDTYvcrYQ2CCcHY6CGYd89g0KFVL/KlO2ZhbqSj+7Ewqe+NYBEzYbAn6ST9gbuWEpM0M1zxRvYbPIfM3icCcA0YLAgMBAAECggEBAI3eniloDwb0Yy9WdrHOF9IrK3IH4GBP1xahBe0VQfnojVISQU0EcQNd8HmhfjMs9kS9wRtdF9LEFVwiDty4j2Y1DqOULvt1G9tBXjQe8LVo+/oG/lMLRdCJJANb1xGXoHb5E/mZjtKsn3GNmDrKYSH+ZDbSbdyZ723P0Sp2ZTPCMi1stmxoMN5zDEBEjGR1485g1s1w3Qf3aZUZn4NCZXfpTv+MF2lthSJKZveogiwzjvpo94sO19RrIrOzyxHFQ0enayjsz7PmSPGI16PYqcRpVoWfqOC1cLZdsAHBMNZ7hMh2fYbAO9Bw52HqVVY9jCk3shNzrGpP7CTvHWjfeMECgYEA2sk6ZWcn6Dpi+hA8ggsDASOpYtpmWcI5yH079Gg1Qj0BuOd3HTdvmxuIv62Y/4xijUUdhQRsFYijwl3oHjelUMP9+ufUfhlpwX697qZ12L2U340bqzPqo+H/kc8z7TL+UlRTMP0D5g1nDJOgAQvb3FPNCnpG1Ki6P8c+05Lu6gkCgYEAwFx6ChQhmI7fl3GHowuTTx8IMNXpezI6xtp86LL99WNlZNIprpZuA5BkMBNAQLWf0GpLOVY6noZgyskWBbwXKUJ9o/Cvzzubg9QInCoWfztkR9oLyKL9N04f+YEVOYHM2xFdd+uRQ/OiRGLhb7Q2tLBnaEWhY+xfvcX0jMjIBHMCgYEAlSQlhah7QMhEXlihFrjw9F7eAgAFU1yeTThpnWNIIv45ZVWMEkOO9fogDyIEsPd+2vRpehqYn1lE4KNpLugZ7mOch+RvKwKh4ABI8x1QKk6Z5IZpfRxn8A2ITVok+KYRTggjqbpgZPtv6tfbc7skxh3uIR1XmXHnfMCS6GE6MhkCgYButgrLODDp0/kd+Yp+LZBX7l1RdhxN+mfXwTI436PIkq9tqoOw5wVkabsv7DSDycS0OCkZU+ajDGYy8C8Ll+igp5MWQtV86SqlYeiesJ6IFc+uhvFXRW+FYCKJAGEN2wXjY4gvF9ZgjJ1szJhBKTB/KDQr0D+F+ipUV9VbHcf4vwKBgHXE/IQOq/7QSrfH3bDPke5VzVjy73/3s1qPawE64YMJtizPw21GGp8MqP3Yh2/R7M8Af8Eqq/ocIzR+EIkjb7mE5kBcbgXyDmxqh/yBWJOzSwSKKV+J6XjBtEa/D5JMmYj1EbkdKb/UdMj5qbo+/TDmV0hfcWb65a5cN03UuxEF
+
+<!-- TAG START { player: "14568-769816-IS: Outstream Test 20160520a", owner: "ONE Video by AOL", for: "ONE Video by AOL" - BEINJS } -->
+<div id="573f97b0e4b0f2c768b60943" class="vdb_player vdb_573f97b0e4b0f2c768b6094356bcd17ce4b018167fea5539" vdb_params="m.o2inline=inview&m.position=2&m.selector=%23lipsum%20p">    <script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=573f97b0e4b0f2c768b60943/56bcd17ce4b018167fea5539_bein.js?m.selector=%23article%20p&m.position=9"></script></div>
+<!-- TAG END { date: 05/20/16 } -->
+
+
+
+
+SELECT option_value FROM wp_options WHERE option_name="active_plugins"
+
+tar -czvf stylecraze-4.4.2-live-file.tar.gz /var/www/*.*
+
+tar -czvf stylecraze-452.plugis.tar.gz /var/www/plugins/
+
+tar -czvf sc-buddyboss.tar.gz buddyoss/
+
+Momjunction
+a:28:{i:0;s:71:"advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php";i:1;s:43:"akfeatured-post-widget/ak_featured_post.php";i:2;s:30:"amaozon-e-com/amazon-e-com.php";i:3;s:11:"amp/amp.php";i:4;s:38:"apester-interactive-content/qmerce.php";i:5;s:69:"browse-content-by-my-solr-server/browse-content-by-my-solr-server.php";i:6;s:31:"buddypress-followers/loader.php";i:7;s:24:"buddypress/bp-loader.php";i:8;s:33:"disable-search/disable-search.php";i:9;s:32:"disqus-comment-system/disqus.php";i:10;s:56:"easy-social-share-buttons3/easy-social-share-buttons.php";i:11;s:29:"fancier-author-box/ts-fab.php";i:12;s:19:"jetpack/jetpack.php";i:13;s:24:"json-rest-api/plugin.php";i:14;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:15;s:21:"pagefrog/pagefrog.php";i:16;s:27:"redirection/redirection.php";i:17;s:42:"rename-wp-login-master/rename-wp-login.php";i:18;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:19;s:33:"w3-total-cache/w3-total-cache.php";i:20;s:24:"wordpress-seo/wp-seo.php";i:21;s:25:"wp-better-emails/wpbe.php";i:22;s:51:"wp-custom-post-template/wp-custom-post-template.php";i:23;s:23:"wp-headjs/wp_headjs.php";i:24;s:33:"wp-postratings/wp-postratings.php";i:25;s:33:"wp-smtp-config/wp-smtp-config.php";i:26;s:36:"wysija-newsletters-premium/index.php";i:27;s:28:"wysija-newsletters/index.php";}
+
+
+
+
+//$content .= '<script type="text/javascript" src="http://www8.glam.com/js/widgets/glam_native.act?;afid=1778685943;glam_native_type=btp;"></script>';
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+nutritionguideexpert.com
+ ec2-52-35-28-240.us-west-2.compute.amazonaws.com
+ myasql root password for new website is welcome
+New address request succeeded
+Elastic IP: 52.40.208.42 View Elastic IP 
+
+
+ns-1301.awsdns-34.org 
+ns-837.awsdns-40.net 
+ns-457.awsdns-57.com 
+ns-2010.awsdns-59.co.uk
+
+
+CREATE USER wordpressuser@localhost IDENTIFIED BY 'welcome';
+
+
+mysql> create database wordpress;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> CREATE USER wordpressuser@localhost IDENTIFIED BY 'welcome';
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> GRANT ALL PRIVILEGES ON wordpress.* TO wordpressuser@localhost;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.00 sec)
+
+Nutrition Guide Expert
+ngeadmin
+fxnMXNhQgi^!!v00@J
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+if (is_single('188375')){
+       $inline1 = "";
+       $inline2 = "";
+       $inline3 = "";
+       $inline4 = "";
+       $inlinenew = "";
+       $inlineend = "";
+       } 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+a:27:{i:0;s:43:"akfeatured-post-widget/ak_featured_post.php";i:1;s:30:"amaozon-e-com/amazon-e-com.php";i:2;s:41:"anp-inc-lockerdome/anp-inc-lockerdome.php";i:3;s:61:"anp-inc-optinmonster-country/anp-inc-optinmonster-country.php";i:4;s:39:"anp-inc-shopalyst/anp-inc-shopalyst.php";i:5;s:38:"apester-interactive-content/qmerce.php";i:6;s:24:"buddypress/bp-loader.php";i:7;s:32:"disqus-comment-system/disqus.php";i:8;s:29:"fancier-author-box/ts-fab.php";i:9;s:53:"fixed-social-total-addon/fixed-social-total-addon.php";i:10;s:63:"fixed-wp-social-share-buttons/fixed-wp-social-share-buttons.php";i:11;s:19:"jetpack/jetpack.php";i:12;s:24:"json-rest-api/plugin.php";i:13;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:14;s:37:"optinmonster/optin-monster-wp-api.php";i:15;s:21:"pagefrog/pagefrog.php";i:16;s:27:"redirection/redirection.php";i:17;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:18;s:33:"w3-total-cache/w3-total-cache.php";i:19;s:24:"wordpress-seo/wp-seo.php";i:20;s:24:"wordpress-seo/wp-seo.php";i:21;s:25:"wp-better-emails/wpbe.php";i:22;s:23:"wp-headjs/wp_headjs.php";i:23;s:33:"wp-smtp-config/wp-smtp-config.php";i:24;s:35:"wp-youtube-lyte/wp-youtube-lyte.php";i:25;s:36:"wysija-newsletters-premium/index.php";i:26;s:28:"wysija-newsletters/index.php";}
+
+
+SCraze2016$#
+
+
++++++++++++++++++++++++++++++++++++++++++
+
+
+			 $inline1 = "<div id='div-gpt-ad-1464342861043-0'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-0'); });</script></div>";
+			 $inline2 = "";
+
+			 $inline2 = "<div id='div-gpt-ad-1464342861043-2'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-2'); });</script></div>";
+
+			 $inlineend = "<div id='div-gpt-ad-1464342861043-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-1'); });</script></div>";
+
+			 $inline3 = "";
+			 $inline4 = "";
+			 
+
+188375
+
+
+
+
+Header Script:
+
+
+
+<script type="text/javascript" src="http://preamp-clients.header.tech/Stylecraze.js"></script>
+
+
+
+Body Tags:
+
+
+
+<!-- /25351654/Hb//Inline//ATF//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-0'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-0'); });
+
+</script>
+
+</div>
+
+
+
+<!-- /25351654/HB//Inline//End//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-1'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-1'); });
+
+</script>
+
+</div>
+
+
+
+<!-- /25351654/HB//Inline//Middle//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-2'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-2'); });
+
+</script>
+
+</div>
+
+
+
+<!-- /25351654/HB//Inline//Mobile//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-3'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-3'); });
+
+</script>
+
+</div>
+
+
+
+<!-- /25351654/HB//Sidebar//ATF//300x600 -->
+
+<div id='div-gpt-ad-1464342861043-4'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-4'); });
+
+</script>
+
+</div>
+
+
+
+<!-- /25351654/HB//Sticky//300x250 -->
+
+<div id='div-gpt-ad-1464342861043-5'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464342861043-5'); });
+
+</script>
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Last login: Fri May 27 08:58:50 2016 from 183.82.100.53
+ubuntu@ip-172-31-44-47:~$  sudo vi /etc/nginx/nginx.conf
+ubuntu@ip-172-31-44-47:~$  cd /etc/nginx/conf.d/
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$ ls
+default.conf  default.conf.bak  default.conf.dec112015  drop  example_ssl.conf
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo vi default.conf
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo vi /etc/php5/
+cli/            fpm/            mods-available/ 
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo vi /etc/php5/
+cli/            fpm/            mods-available/ 
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo vi /etc/php5/fpm/
+conf.d/       php-fpm.conf  php.ini       pool.d/       
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo vi /etc/php5/fpm/php.ini 
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo service php5-fpm reload 
+ubuntu@ip-172-31-44-47:/etc/nginx/conf.d$  sudo service nginx reload
+
+
+
+a:27:{i:0;s:43:"akfeatured-post-widget/ak_featured_post.php";i:1;s:30:"amaozon-e-com/amazon-e-com.php";i:2;s:41:"anp-inc-lockerdome/anp-inc-lockerdome.php";i:3;s:61:"anp-inc-optinmonster-country/anp-inc-optinmonster-country.php";i:4;s:39:"anp-inc-shopalyst/anp-inc-shopalyst.php";i:5;s:38:"apester-interactive-content/qmerce.php";i:6;s:24:"buddypress/bp-loader.php";i:7;s:32:"disqus-comment-system/disqus.php";i:8;s:29:"fancier-author-box/ts-fab.php";i:9;s:53:"fixed-social-total-addon/fixed-social-total-addon.php";i:10;s:63:"fixed-wp-social-share-buttons/fixed-wp-social-share-buttons.php";i:11;s:19:"jetpack/jetpack.php";i:12;s:24:"json-rest-api/plugin.php";i:13;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:14;s:37:"optinmonster/optin-monster-wp-api.php";i:15;s:21:"pagefrog/pagefrog.php";i:16;s:27:"redirection/redirection.php";i:17;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:18;s:33:"w3-total-cache/w3-total-cache.php";i:19;s:24:"wordpress-seo/wp-seo.php";i:20;s:24:"wordpress-seo/wp-seo.php";i:21;s:25:"wp-better-emails/wpbe.php";i:22;s:23:"wp-headjs/wp_headjs.php";i:23;s:33:"wp-smtp-config/wp-smtp-config.php";i:24;s:35:"wp-youtube-lyte/wp-youtube-lyte.php";i:25;s:36:"wysija-newsletters-premium/index.php";i:26;s:28:"wysija-newsletters/index.php";}
+
+351482
+  
+/votre/
+/dafni-incredibly-fast/
+/dafni/
+
+
+Stylecraze cache  clear
+ sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/combined1.min.css"
+ sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/js/single.min.js"
+
+
+momjunction:
+ sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/babynames/style.min.css"
+ sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/babynames/style.css"
+
+ www.momjunction.com/wp-content/themes/buddyboss-child/babynames/style.min.css
+www.momjunction.com/wp-content/themes/buddyboss-child/babynames/style.css
+cd /var/log/nginx/
+tail -n 25 error.log
+
+/var/www/wp-content/cache/page_enhanced/www.stylecraze.com
+
+Last login: Mon May 23 06:38:31 2016 from 183.82.100.53
+/articles/
+/trending/
+/social/
+ sudo varnishadm "ban req.url ~ /articles/"
+ sudo varnishadm "ban req.url ~ /trending/"
+ sudo varnishadm "ban req.url ~ /social/"
+
+sudo rm -rf /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/dafni-incredibly-fast/
+
+<script async type='text/javascript' src='//cdn.connatix.com/min/connatix.renderer.infeed.min.js' data-connatix-token='d2b6a53c-9230-46a8-bfb7-d52ab310d455'></script>
+
+
+ Friday 20 May 2016
+[1:57:41 PM] dyuthichand.incnut.UI Developer: http://highonpoems.com/spa
+[1:57:46 PM] dyuthichand.incnut.UI Developer: http://www.popsugar.com/
+[1:57:50 PM] dyuthichand.incnut.UI Developer: http://www.healthbeckon.com/
+[1:58:02 PM] sharma chelluri: no healthbeckon
+[1:59:41 PM] sharma chelluri: please don't test healthbeckon.
+
+
+
+sudo varnishadm "ban req.url  == /votre/"
+sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+sudo varnishadm "ban req.url  == /dafni/"
+
+<span style="float: left;font-size: 10px;
+">Sponsored Search</span>
+
+
+
+    float: left;
+    /* color: green; */
+    font-size: 10px;
+
+Employee ID 500602 AP//34934/879
+
+AXXPS5325G Name CHELLURI SUBRANMANYA SARMA
+
+HYD Cost Center CONSULTING
+
+P F A/c No.
+
+Location
+
+PAN No
+
+
+1 APHYD10263810000000012
+
+UPDATE campaign SET ga_conversion_factor = 2 where website_id = 6;
+UPDATE campaign SET ga_conversion_factor = 2 where website_id = 8;
+
+
+12:36:59	UPDATE campaign SET ga_conversion_factor = 2 where website_id = 6	Error Code: 1205. Lock wait timeout exceeded; try restarting transaction	51.610 sec
+
+
+Thursday 28 April 2016 01:25:31 PM IST 
+aws cloudfront create invalidation example
+ sudo aws cloudfront create-invalidation --cli-input-json file://./invbatch.json
+{
+    "Invalidation": {
+        "Status": "InProgress", 
+        "InvalidationBatch": {
+            "Paths": {
+                "Items": [
+                    "/articles/enema-labour-everything-need-know_00100383/", 
+                    "/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/"
+                ], 
+                "Quantity": 2
+            }, 
+            "CallerReference": "clitestingsharma28042016207"
+        }, 
+        "Id": "IXZS2K2WOWM7", 
+        "CreateTime": "2016-04-28T08:59:58.636Z"
+    }, 
+    "Location": "https://cloudfront.amazonaws.com/2015-07-27/distribution/ER71GUPRJKOVC/invalidation/IXZS2K2WOWM7"
+}
+
+
+
+
+
+
+sudo aws cloudfront create-invalidation --cli-input-json file://./invbatch.json
+https://chankongching.wordpress.com/2015/07/16/how-to-use-aws-cli-for-cloudfront-invalidation/
+http://stackoverflow.com/questions/28894743/what-does-the-json-for-batch-invalidation-of-a-cloudfront-distribution-look-like
+
+
+Access Key ID:
+AKIAIGXH3AH4WUH43VZQ
+Secret Access Key:
+pxLred9KLNad7hwVhMijaX5byyUQHd5HCk5buxJA
+
+
+/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+/articles/enema-labour-everything-need-know_00100383/
+/articles/natural-effective-ways-to-speed-up-your-labor_0093408/
+/articles/ways-to-prevent-preterm-labour_0079292/
+/articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/
+
+
+
+aws cloudfront create-invalidation --distribution-id ER71GUPRJKOVC \ --paths /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+
+
+aws cloudfront create-invalidation --invalidation-batch invbatch.json --distribution-id ER71GUPRJKOVC
+
+
+{
+  "Paths": {
+    "Quantity": 2,
+    "Items": ["/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/", "/articles/enema-labour-everything-need-know_00100383/"]
+  },
+  "CallerReference": "my-invalidation-2015-09-01"
+}
+
+
+
+
+mestri:9705145469
+/reviews/himalaya-herbals-protein-conditioner-repair-and-regeneration-review/
+/reviews/bajaj-brahmi-amla-hair-oil-review/
+/reviews/vaadi-herbals-anti-acne-soap-review/
+/reviews/keo-karpin-non-sticky-hair-oil-review/
+/reviews/himalaya-herbals-acne-n-pimple-cream/
+/reviews/garnier-white-complete-multi-action-fairness-cream-review/
+/reviews/banjaras-multani-with-aloe-vera-face-pack-review/
+Tuesday 12 April 2016 12:25:19 PM IST 
+sudo varnishadm 'ban req.url ==  /articles/yoga-asanas-to-cure-tinnitus-hearing-problems/'
+sudo varnishadm 'ban req.url ==  /articles/amazing-benefits-of-tadasana-yoga-for-your-body/'
+sudo varnishadm 'ban req.url ==  /articles/effective-ramdev-yoga-asans-to-cure-rheumatoid-arthritis/'
+sudo varnishadm 'ban req.url ==  /articles/fight-away-white-hair-with-7-yoga-poses/'
+sudo varnishadm 'ban req.url ==  /articles/7-yoga-exercises-for-black-and-healthy-hair/'
+
+Friday 01 April 2016 04:23:43 PM IST 
+
+
+caculators ad codes
+$inline1 = "<div id='div-gpt-ad-1427445229106-0'><script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-0'); });
+</script>
+</div>";
+
+			$inlineend = "<div id='div-gpt-ad-1427445229106-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427445229106-3'); });
+</script>
+</div>";
+
+$inline2 = '<script id="mNCC" language="javascript">  medianet_width="600";  medianet_height= "250";  medianet_crid="343627897";  </script>  <script id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CUC11S48" language="javascript"></script>';
+
+
+
+
+
+http://www.stylecraze.com/trending/diy-body-scrubs/ - bodyscrubs
+http://www.stylecraze.com/trending/diy-hair-masks-for-hair-growth-and-volume/ - hairvolume
+http://www.stylecraze.com/trending/ashtanga-yoga-poses-for-weight-loss/ - ashtangayoga
+http://www.stylecraze.com/trending/yoga-asanas-to-reduce-belly-fat-2/ - bellyyoga
+
+
+
+Thursday 31 March 2016 03:21:57 PM IST 
+
+/trending/easy-and-simple-mehndi-design-ideas/
+/trending/videos-that-make-the-ultimate-bridal-guide-for-skin-hair/
+ubuntu@ip-172-31-9-60:~/wordpress442/wp-content/plugins$ mv /var/www/wp-content/plugins/buddypress/ /home/ubuntu/bkps422/plugins/
+
+
+
+sudo varnishadm 'ban req.url ==  /articles/home-remedies-to-treat-ear-congestion/'
+sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-cure-constipation/'
+sudo varnishadm 'ban req.url ==  /articles/how-to-get-rid-of-a-hickey/'
+sudo varnishadm 'ban req.url ==  /articles/effective-tips-to-get-rid-of-cellulite-fast/'
+sudo varnishadm 'ban req.url ==  /articles/easy-ways-to-get-rid-of-blackheads-on-nose/'
+
+stylecraze.com/trending/favorite-celebrity-hairstyles/ - celebritystyle  343459
+stylecraze.com/trending/weight-loss-videos-you-must-definitely-watch/ - wlvideos 343468
+stylecraze.com/trending/tips-get-clear-skin-home/ - clearskin 343463
+stylecraze.com/trending/home-remedies-clear-acne-free-skin/ - acnefreeskin 343689
+stylecraze.com/trending/awesome-short-hairstyles-videos/ - hairstyleVideo
+
+
+/trending/favorite-celebrity-hairstyles/
+/trending/weight-loss-videos-you-must-definitely-watch/
+/trending/tips-get-clear-skin-home/
+/trending/home-remedies-clear-acne-free-skin/
+/trending/awesome-short-hairstyles-videos/
+
+Wednesday 30 March 2016 12:55:38 PM IST 
+
+tar cvzf MyImages-14-09-12.tar.gz /home/MyImages
+
+tar cvzf sc424wp-admin.tar.gz /var/www/wp-admin/
+tar cvzf sc424wp-includes.tar.gz /var/www/wp-includes/
+
+tar cvzf sc424wp-core.tar.gz /var/www/*.php /var/www/*.txt 
+
+tar -xvf thumbnails-14-09-12.tar.gz
+
+
+www.stylecraze.com/
+
+/opt/lampp/htdocs/StyleCraze/wp-content/plugins/wordpress-seo/inc/class-sitemaps.php
+
+line 1208:
+			$output .= "\t\t<xhtml:link rel='alternate' href='android-app://com.stylecraze/" . str_replace(":/","",$url['loc']) . "' />\n";
+
+
+sudo mysqldump -uroot -psconaws stylecraze > stylecraze-march-29-2016.sql
+sudo mysqldump -uroot -pmjonaws momjunction > momjunction-june212016.sql
+
+sudo mysqldump -uroot -pmjonaws momjunction > momjunction-may-26-2016.sql
+sudo tar cvzf momjunction-may-26-2016-sql.tar.gz momjunction-may-26-2016.sql
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Monday 28 March 2016 05:10:07 PM IST 
+
+$revocontentfood = '<div id="rcjsload_9b456a"></div><script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = \'rc_\' + Math.floor(Math.random() * 1000);rcel.type = \'text/javascript\';rcel.src = "http://trends.revcontent.com/serve.js.php?w=27879&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_9b456a"); rcds.appendChild(rcel);})();</script>';
+
+http://www.stylecraze.com/articles/top-10-acne-control-products/
+http://www.stylecraze.com/articles/hair-spa-products-and-benefits/
+
+<div id="rcjsload_9b456a"></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=27879&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_9b456a"); rcds.appendChild(rcel);
+})();
+</script>
+
+Friday 18 March 2016 02:24:59 PM IST 
+
+<script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = \'rc_\' + Math.floor(Math.random() * 1000);rcel.type = \'text/javascript\';rcel.src = "http://trends.revcontent.com/serve.js.php?w=20693&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_99ceb7"); rcds.appendChild(rcel);})();</script>
+
+
+http://www.momjunction.com/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/#articlesection3 - pregnancycellulites
+
+http://www.momjunction.com/articles/enema-labour-everything-need-know_00100383/ - enemalabor
+
+http://www.momjunction.com/articles/natural-effective-ways-to-speed-up-your-labor_0093408/ - speeduplabor
+
+http://www.momjunction.com/articles/ways-to-prevent-preterm-labour_0079292/ - pretermlabor
+
+http://www.momjunction.com/articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/ - pregnancysymptoms
+
+
+
+
+			$inline3 ="<div id='div-gpt-ad-1457438783186-0'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438783186-0'); });</script></div>";
+			$inline4 = "<div id='div-gpt-ad-1457438783186-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438783186-1'); });</script></div>";
+
+<!-- /25351654/MJ_Mobile_Inline3 -->
+<div id='div-gpt-ad-1457438783186-0'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438783186-0'); });</script></div>
+
+<!-- /25351654/MJ_Mobile_Inline4 -->
+<div id='div-gpt-ad-1457438783186-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438783186-1'); });</script></div>
+
+
+
+  googletag.defineSlot('/25351654/MJ_Mobile_Inline3', [336, 280], 'div-gpt-ad-1457438783186-0').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/MJ_Mobile_Inline4', [336, 280], 'div-gpt-ad-1457438783186-1').addService(googletag.pubads());
+
+
+
+
+    <div id='div-gpt-ad-1458280934655-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458280934655-0'); });
+</script>
+</div>
+
+
+<div id='div-gpt-ad-1458280934655-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458280934655-0'); });
+</script>
+</div>
+
+Wednesday 16 March 2016 06:35:02 PM IST 
+<div id="rcjsload_9c6b16"></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=26595&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_9c6b16"); rcds.appendChild(rcel);
+})();
+</script>
+
+
+
+
+Tuesday 15 March 2016 02:23:05 PM IST 
+
+
+
+
+
+
+
+
+
+openssl genrsa 2048 > healthbeckon.pem
+
+openssl req -new -key www.domain.com.key -out www.domain.com.csr
+openssl req -new -key healthbeckon.pem -out healthbeckon.csr
+
+www.healthbeckon.com
+
+Monday 14 March 2016 04:26:00 PM IST 
+
+1) generate private key
+openssl genrsa -out www.domain.com.key 2048
+
+2) generate the CSR
+
+This command will prompt for the following X.509 attributes of the certificate. 
+Make sure to use same Common Name as your domain name.
+
+openssl req -new -key www.domain.com.key -out www.domain.com.csr
+3) Backup your private key
+
+
+
+
+godaddy - vineetha.kasthuri - M@g@zine2018
+rant	Prajwal Mandala 
+e-Kartz Online Retail Private Limited	#573, 1ST FLOOR, 
+20TH MAIN, KORAMANGALA 8TH BLOCK,
+BANGALORE, Karnataka 560095
+India	Tel +91.9885291665
+healthbeckon@gmail.com
+ 	Edit Registrant
+Administrator	Prajwal Mandala 
+e-Kartz Online Retail Private Limited	#573, 1ST FLOOR, 
+20TH MAIN, KORAMANGALA 8TH BLOCK,
+BANGALORE, Karnataka 560095
+India	Tel +91.9885291665
+healthbeckon@gmail.com
+ 	Edit Administrator
+Technical	Prajwal Mandala 
+e-Kartz Online Retail Private Limited	#573, 1ST FLOOR, 
+20TH MAIN, KORAMANGALA 8TH BLOCK,
+BANGALORE, Karnataka 560095
+India	Tel +91.9885291665
+healthbeckon@gmail.com
+ 	Edit Technical
+Billing	Prajwal Mandala 
+e-Kartz Online Retail Private Limited	#573, 1ST FLOOR, 
+20TH MAIN, KORAMANGALA 8TH BLOCK,
+BANGALORE, Karnataka 560095
+India	Tel +91.9885291665
+healthbeckon@gmail.com
+
+
+
+<script type="text/javascript">
+ jQuery(document).ready(function() {var isMobile = window.matchMedia("only screen and (max-width: 760px)");
+ var newurl_mobile = encodeURI("http://pubads.g.doubleclick.net/gampad/clk?id=371825814&iu=/25351654/RON_TEXT");
+ var newurl_desktop = encodeURI("http://pubads.g.doubleclick.net/gampad/clk?id=371825694&iu=/25351654/RON_TEXT");
+
+ var newurl_mobile_kama = encodeURI("http://pubads.g.doubleclick.net/gampad/clk?id=372105054&iu=/25351654/RON_TEXT");
+ var newurl_desktop_kama = encodeURI("http://pubads.g.doubleclick.net/gampad/clk?id=372104454&iu=/25351654/RON_TEXT");
+
+    if (isMobile.matches) {
+	$("a.myButton").attr('href', newurl_mobile);
+	$("a.puradorlink").attr('href', newurl_mobile);  
+	$("a.ayurveda").attr('href', newurl_mobile_kama); 
+
+	$("body.open-right #mobilepopuphome_footer").css({"-webkit-transform":"translate3d(-240px,0,0)", "-webkit-animation":"openRight .4s ease-in-out", "-moz-transform":"translate3d(-240px,0,0)", "-moz-animation":"openRight .4s ease-in-out", "transform":"translate3d(-240px,0,0)", "animation":"openRight .4s ease-in-out"});
+	document.getElementById('mobilepopuphome_footer').style.display = 'block'; 
+           var fix_position = function(event) {
+            var scroll = jQuery(window).scrollTop();
+            if (scroll > 300) {
+              jQuery("#wpbfsb").prependTo("body");
+              jQuery("#wpbfsb").css("position", "fixed");
+		if(isAndroid && jQuery('#mobilepopuphome').is(':visible')) {	
+			jQuery("#wpbfsb").css ("top", "108px");
+		}else{
+			jQuery("#wpbfsb").css ("top", "50px");
+		}
+            } else {
+              jQuery("#wpbfsb").prependTo("#primary");
+              jQuery("#wpbfsb").css("position", "static");
+              jQuery("#wpbfsb").css ("top", "0px");
+            }
+        }
+        fix_position();
+       	 $("#wpbfsb").css("display", "block");
+       	 jQuery(window).scroll(fix_position);
+    }else{
+	$("a.myButton").attr('href', newurl_desktop);  
+	$("a.puradorlink").attr('href', newurl_desktop);   
+	$("a.ayurveda").attr('href', newurl_desktop_kama);
+     }
+});
+
+</script>
+
+
+<script type="text/javascript">
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+if(isAndroid) {	
+	$("body.open-right #mobilepopuphome").css({"-webkit-transform":"translate3d(-240px,0,0)", "-webkit-animation":"openRight .4s ease-in-out", "-moz-transform":"translate3d(-240px,0,0)", "-moz-animation":"openRight .4s ease-in-out", "transform":"translate3d(-240px,0,0)", "animation":"openRight .4s ease-in-out"});
+	document.getElementById('mobile-header').style.top = '63px';
+        document.getElementById('main-wrap').style.top = '95px';              
+	function hide(target) {
+          document.getElementById(target).style.display = 'none';
+          document.getElementById('mobile-header').style.top = '5px';
+          document.getElementById('main-wrap').style.top = '0px';
+        }
+ document.getElementById('mobilepopuphome').style.display = 'block'; 
+}
+</script>
+
+
+Friday 11 March 2016 02:48:11 PM IST 
+.wrapeshare {
+    width: auto !important;
+    height: auto !important;
+    position: initial !important;
+}
+
+img.pin_image_share.aligncenter {
+    position: relative;
+    right: -240px;
+    top: -70px;
+}
+
+
+img.pin_image_share.aligncenter {
+    position: relative;
+    right: -5px;
+    top: -10px;
+}
+
+
+    position: absolute;
+    right: 15%;
+    bottom: 1%;
+=========================================================
+style="right: -240px;bottom: 71px;position: relative;"
+
+
+http://localhost/StyleCraze/wp-content/themes/buddyboss-child/images/pinit.png
+
+ <img src="/wp-content/themes/buddyboss-child/images/pinit.png"
+
+
+
+
+    right: -240px;bottom: 71px;position: relative;
+
+.cls
+
+
+element.style {
+    left: 180px;
+    top: 137px;
+    display: block;
+}
+
+.imgshare_buttons .imgshare_pin, .imgshare_buttons .imgshare_fb, .imgshare_buttons img {
+    -webkit-transition: opacity .2s ease-out;
+    -moz-transition: opacity .2s ease-out;
+    transition: opacity .2s ease-out;
+}
+@media screen and (min-width: 1025px)
+.imgshare_buttons .imgshare_pin {
+    background-image: url('http://img.stylecraze.com/wp-content/themes/buddyboss-child/imgshare/pinterest.jpg');
+    /* width: 250px; */
+    /* height: 78px; */
+    position: absolute;
+    /* margin-left: -1px; */
+    /* opacity: 0; */
+    cursor: pointer;
+    display: none;
+}
+
+
+Thursday 10 March 2016 07:14:01 PM IST 
+<a data-pin-do="buttonBookmark" data-pin-color="red" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a>
+
+
+
+    position: relative;
+    top: -50px;
+    right: -525px;
+
+
+
+<span style="/* left: 225px; *//* top: 99.5px; *//* display: block; */">
+  <img src="http://localhost/StyleCraze/wp-content/themes/buddyboss-child/images/imgpsh_fullsize.png" onclick="ga('send','social', 'Pinterest', 'ImagePin', 'http://www.stylecraze.com/articles/mehandi-designs-for-hands-to-inspire-you/');pin_this(event, 'http://pinterest.com/pin/create/button/?url=http://www.stylecraze.com/articles/mehandi-designs-for-hands-to-inspire-you/&amp;media=http://i.ytimg.com/vi/nRkZZeDumi4/0.jpg&amp;description=36 Mehendi Designs For Hands To Inspire You – The Complete Guide')" style="
+    position: relative;
+    top: -50px;
+    right: -525px;
+">
+            </span>
+
+
+Wednesday 09 March 2016 05:38:00 PM IST 
+<!-- /25351654/SC_Mobile_Inline3 -->
+<div id='div-gpt-ad-1457438709796-0' style='height:280px; width:336px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438709796-0'); });</script></div>
+
+<!-- /25351654/SC_Mobile_Inline4 -->
+<div id='div-gpt-ad-1457438709796-1' style='height:280px; width:336px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457438709796-1'); });</script></div>
+
+
+Friday 04 March 2016 10:13:20 AM IST 
+sudo varnishadm 'ban req.url == /articles/learning-activities-for-your-toddlers_0077807/'
+sudo varnishadm 'ban req.url == /articles/tips-enhance-pre-reading-skills-toddler-toddler-development_0074188/'
+sudo varnishadm 'ban req.url == /articles/simple-ways-handle-toddler-home_0015831/'
+
+<?php if(is_single(array('77807','74188','15831'))) { ?>
+		googletag.pubads().setTargeting("experiment","Flinto");
+<?php } ?>
+
+http://www.momjunction.com/articles/learning-activities-for-your-toddlers_0077807/ 
+
+http://www.momjunction.com/articles/tips-enhance-pre-reading-skills-toddler-toddler-development_0074188/
+
+http://www.momjunction.com/articles/simple-ways-handle-toddler-home_0015831/
+
+
+
+
+/articles/foods-you-should-avoid-feeding-your-baby_00375525/
+/articles/water-safety-tips-for-babies_00356470/
+
+stylecraze
+/articles/bollywood-bridal-mehendi-designs-you-can-try/
+/articles/tried-and-tested-tips-to-make-mehndi-dark/
+
+
+Tuesday 01 March 2016 01:25:44 PM IST 
+<div id="sticky_purador">[kama_ayurveda_add_func2] </div>
+
+
+/articles/simple-home-remedies-for-removing-pregnancy-stretch-marks/
+/articles/home-remedies-to-treat-vaginal-odour-problem/
+/articles/effective-home-remedies-to-get-rid-of-laryngitis/
+/articles/home-remedies-to-control-hair-fall/
+/articles/benefits-of-zucchini-for-skin-hair-and-health/
+/articles/fight-itchy-scalp-with-home-remedies/
+/articles/benefits-of-oxygen-facial-to-get-glowing-skin/
+/articles/health-benefits-of-chamomile-tea/
+/articles/effective-home-remedies-to-cure-asthma/
+/articles/fishtail-braid-tutorial-picture-guide/
+/articles/get-rid-of-acne-scars-naturally/
+/articles/7-homemade-tips-to-cover-up-grey-hair/
+/articles/simple-tips-to-increase-height-naturally/
+/articles/effective-yoga-asanas-delivery-try/
+/articles/simple-home-remedies-to-remove-pimples-overnight/
+/articles/home-remedies-to-stop-peeling-fingertips/
+/articles/amazing-benefits-of-tea-tree-oil-for-skin-hair-and-health/
+/articles/the-lemonade-detox-diet-a-simple-recipe-for-weight-loss/
+/articles/effective-home-remedies-to-treat-dry-nose/
+/articles/health-benefits-of-cardamom/
+/articles/effective-home-remedies-for-hiccups/
+
+Monday 29 February 2016 09:15:40 AM IST 
+
+sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-treat-cellulite/'
+sudo varnishadm 'ban req.url ==  /articles/proven-tips-to-help-reduce-cellulite-formation/'
+sudo varnishadm 'ban req.url ==  /articles/4-simple-beauty-tips-for-dull-skin/'
+sudo varnishadm 'ban req.url ==  /articles/remove-tan-from-hands-in-one-night/'
+sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-get-white-teeth/'
+sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-for-yellow-teeth/'
+sudo varnishadm 'ban req.url ==  /articles/white-smile/'
+sudo varnishadm 'ban req.url ==  /articles/effective-ways-to-use-aloe-vera-for-weight-loss/'
+sudo varnishadm 'ban req.url ==  /articles/party-hairstyles-for-long-hair/'
+
+
+
+sudo varnishadm 'ban req.url ==  /articles/easy-ways-to-gain-weight-quickly/'
+sudo varnishadm 'ban req.url ==  /articles/serious-side-effects-of-soy/'
+sudo varnishadm 'ban req.url ==  /articles/right-way-to-use-a-primer/'
+sudo varnishadm 'ban req.url ==  /articles/amazing-abdominal-exercises-for-women/'
+
+sudo varnishadm 'ban req.url ==  /articles/fitness-expert-tips-to-lose-weight/'
+sudo varnishadm 'ban req.url ==  /articles/9-best-and-effective-ways-to-lose-weight/'
+sudo varnishadm 'ban req.url ==  /articles/extremely-effective-weight-loss-tips/'
+sudo varnishadm 'ban req.url ==  /articles/kick-start-your-weight-loss-journey-health/'
+sudo varnishadm 'ban req.url ==  /articles/tips-to-lose-weight-permanently/'
+sudo varnishadm 'ban req.url ==  /articles/best-tips-to-keep-weight-off-for-good/'
+sudo varnishadm 'ban req.url ==  /articles/are-you-really-ready-to-lose-weight/'
+sudo varnishadm 'ban req.url ==  /articles/how-to-lose-weight-naturally-and-healthily/'
+sudo varnishadm 'ban req.url ==  /articles/simple-effective-ways-to-lose-weight-everyday/'
+sudo varnishadm 'ban req.url ==  /articles/fitness-experts-on-twitter-in-india/'
+
+rewrite /articles/effective-home-remedies-to-treat-cellulite/ http://www.stylecraze.com/articles/effective-tips-to-get-rid-of-cellulite-fast/ permanent;
+rewrite /articles/proven-tips-to-help-reduce-cellulite-formation/ http://www.stylecraze.com/articles/effective-tips-to-get-rid-of-cellulite-fast/ permanent;
+rewrite /articles/4-simple-beauty-tips-for-dull-skin/ http://www.stylecraze.com/articles/effective-home-remedies-to-get-rid-of-dull-skin/ permanent;
+rewrite /articles/remove-tan-from-hands-in-one-night/ http://www.stylecraze.com/articles/7-simple-home-remedies-to-remove-tan-from-hands/ permanent;
+
+rewrite /articles/effective-home-remedies-to-get-white-teeth/ http://www.stylecraze.com/articles/how-to-whiten-teeth/ permanent;
+rewrite /articles/effective-home-remedies-for-yellow-teeth/ http://www.stylecraze.com/articles/how-to-whiten-teeth/ permanent;
+rewrite /articles/white-smile/ http://www.stylecraze.com/articles/how-to-whiten-teeth/ permanent;
+
+
+rewrite /articles/effective-ways-to-use-aloe-vera-for-weight-loss/ http://www.stylecraze.com/articles/aloe-vera-juice-help-in-weight-loss/ permanent;
+rewrite /articles/party-hairstyles-for-long-hair/ http://www.stylecraze.com/articles/party-hairstyles-for-long-hair-to-inspire-you/ permanent;
+
+
+
+rewrite /articles/easy-ways-to-gain-weight-quickly/ http://www.stylecraze.com/articles/the-ultimate-guide-to-gain-weight/ permanent;
+rewrite /articles/serious-side-effects-of-soy/ http://www.stylecraze.com/articles/serious-side-effects-soy-proteins/ permanent;
+rewrite /articles/right-way-to-use-a-primer/ http://www.stylecraze.com/articles/primer-tricks-you-have-never-heard-before/ permanent;
+rewrite /articles/amazing-abdominal-exercises-for-women/ http://www.stylecraze.com/articles/womens-exercises-for-abs/ permanent;
+
+rewrite /articles/fitness-expert-tips-to-lose-weight/	http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/9-best-and-effective-ways-to-lose-weight/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/extremely-effective-weight-loss-tips/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/kick-start-your-weight-loss-journey-health/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/tips-to-lose-weight-permanently/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/best-tips-to-keep-weight-off-for-good/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/are-you-really-ready-to-lose-weight/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/how-to-lose-weight-naturally-and-healthily/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/simple-effective-ways-to-lose-weight-everyday/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+rewrite /articles/fitness-experts-on-twitter-in-india/ http://www.stylecraze.com/articles/how-to-lose-weight-at-home-just-follow-these-25-simple-tips/ permanent;
+
+
+
+
+Friday 26 February 2016 02:04:18 PM IST 
+
+
+
+Thursday 25 February 2016 01:40:08 PM IST 
+
+sudo varnishadm 
+
+
+sudo varnishadm 'ban req.url ==  /trending/videos-you-have-to-watch-if-youre-trying-to-lose-weight/'
+
+sudo varnishadm 'ban req.url == /trending/diy-hair-masks-for-healthy-and-glossy-hair/'
+ALTER TABLE 'wp_combo' ADD 'metatitle' longtext;
+
+
+ALTER TABLE `wp_combo` ADD `metadescription` longtext
+ALTER TABLE `wp_combo` ADD `metatitle` longtextALTER TABLE `wp_combo` ADD `metadescription` longtext
+ALTER TABLE `wp_combo` ADD `metatitle` longtextALTER TABLE `wp_combo` ADD `metadescription` longtext
+ALTER TABLE `wp_combo` ADD `metatitle` longtext
+
+
+Wednesday 24 February 2016 08:13:06 PM IST 
+
+http://www.stylecraze.com/wp-admin/post.php?post=340461&action=edit
+ googletag.defineSlot('/25351654/5DIYHM_SC_Top', [[336, 280], [600, 300]], 'div-gpt-ad-1456233890716-0').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Middle', [336, 280], 'div-gpt-ad-1456233890716-1').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_End', [336, 280], 'div-gpt-ad-1456233890716-2').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Sidebar', [[336, 280], [300, 600]], 'div-gpt-ad-1456233890716-3').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Sticky', [300, 250], 'div-gpt-ad-1456233890716-4').addService(googletag.pubads());
+
+
+
+
+
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/25351654/5DIYHM_SC_Top', [[336, 280], [600, 300]], 'div-gpt-ad-1456233890716-0').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Middle', [336, 280], 'div-gpt-ad-1456233890716-1').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_End', [336, 280], 'div-gpt-ad-1456233890716-2').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Sidebar', [[336, 280], [300, 600]], 'div-gpt-ad-1456233890716-3').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5DIYHM_SC_Sticky', [300, 250], 'div-gpt-ad-1456233890716-4').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+------------------ End of Header Tag ----------------------------
+
+
+--------------------Start of Body tags (googletag.display)----------------
+
+
+<!-- /25351654/5DIYHM_SC_Top -->
+<div id='div-gpt-ad-1456233890716-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456233890716-0'); });
+</script>
+</div>
+
+<!-- /25351654/5DIYHM_SC_Middle -->
+<div id='div-gpt-ad-1456233890716-1' style='height:280px; width:336px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456233890716-1'); });
+</script>
+</div>
+
+<!-- /25351654/5DIYHM_SC_End -->
+<div id='div-gpt-ad-1456233890716-2' style='height:280px; width:336px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456233890716-2'); });
+</script>
+</div>
+
+<!-- /25351654/5DIYHM_SC_Sidebar -->
+<div id='div-gpt-ad-1456233890716-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456233890716-3'); });
+</script>
+</div>
+
+<!-- /25351654/5DIYHM_SC_Sticky -->
+<div id='div-gpt-ad-1456233890716-4' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456233890716-4'); });
+</script>
+</div>
+
+
+=========================================================================================
+http://www.stylecraze.com/wp-admin/post.php?post=340562&action=edit
+
+
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/25351654/5Vids_SC_Top', [600, 300], 'div-gpt-ad-1456234098499-0').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5Vids_SC_Middle', [336, 280], 'div-gpt-ad-1456234098499-1').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5Vids_SC_End', [336, 280], 'div-gpt-ad-1456234098499-2').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5Vids_SC_Sidebar', [[336, 280], [300, 600]], 'div-gpt-ad-1456234098499-3').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/5Vids_SC_Sticky', [300, 250], 'div-gpt-ad-1456234098499-4').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+--------------End of Header Tag ------------------------
+
+--------------Start of Body Tags (googletag.display)-------------------------------------
+
+<!-- /25351654/5Vids_SC_Top -->
+<div id='div-gpt-ad-1456234098499-0' style='height:300px; width:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456234098499-0'); });
+</script>
+</div>
+
+<!-- /25351654/5Vids_SC_Middle -->
+<div id='div-gpt-ad-1456234098499-1' style='height:280px; width:336px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456234098499-1'); });
+</script>
+</div>
+
+<!-- /25351654/5Vids_SC_End -->
+<div id='div-gpt-ad-1456234098499-2' style='height:280px; width:336px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456234098499-2'); });
+</script>
+</div>
+
+<!-- /25351654/5Vids_SC_Sidebar -->
+<div id='div-gpt-ad-1456234098499-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456234098499-3'); });
+</script>
+</div>
+
+<!-- /25351654/5Vids_SC_Sticky -->
+<div id='div-gpt-ad-1456234098499-4' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456234098499-4'); });
+</script>
+</div>
+
+----------------- End of Body tag ------------------------
+
+*******************************************************************************************
+
+
+
+
+
+
+
+
+
+<div>Now at Rs.769</div> <div>Avail 25% off, Limited period offer</div>
+
+
+<div><strike>Just For Rs.1,025/-</strike></div>
+<div>Avail 25% off, Limited period offer</div><div style="color: red;">Now at Rs.769/-</div>
+
+
+<div class="offerDisplay"><p>Treat your hair with one of the best luxury hair conditioners at the price of just Rs. 1,150, which is quite low for an ingredient as exotic as the Himalayan Deodar (also called the ‘Wood of God’ or Devadaru for its immense benefits for health and beauty!).</p><div class="middlepart-center"><img src="http://www.kamaayurveda.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/img_3453.jpg" height="300px" class="nopin"><div><strike>Just For Rs.1,025/-</strike></div>
+<div>Avail 25% off, Limited period offer</div><div style="color: red;">Now at Rs.769/-</div> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=372104454&amp;iu=/25351654/RON_TEXT" class="ayurveda" id="appenedurl">Buy Now </a></div><div style="clear:both;"></div></div>
+
+
+
+<div><strike>Just For Rs.4,999/-</strike></div>
+<div>Avail 25% off, Limited period offer</div><div style="color: red;">Now at Rs. 3,749/-</div>
+
+Friday 19 February 2016 02:24:42 PM IST 
+
+BHANU KUMARI NEELAM
+KrishnaManasa Bussala
+Dusari Bhaskar                                                                           
+A. Venugopal
+
+
+
+
+SELECT count(*) FROM wp_posts
+LEFT JOIN wp_term_relationships ON
+(wp_posts.ID = wp_term_relationships.object_id)
+LEFT JOIN wp_term_taxonomy ON
+(wp_term_relationships.term_taxonomy_id = wp_term_taxonomy.term_taxonomy_id)
+WHERE wp_posts.post_status = 'publish'
+AND wp_posts.post_type = 'post'
+AND wp_term_taxonomy.taxonomy = 'category'
+AND wp_term_taxonomy.term_id = 17453
+ORDER BY post_date DESC
+"
+
+
+
+Thursday 18 February 2016 04:01:30 PM IST 
+
+sudo varnishadm 'ban req.url ==  /articles/10-yoga-exercises-for-slimming-your-face/'
+sudo varnishadm 'ban req.url ==  /articles/7-simple-home-remedies-to-remove-tan-from-hands/'
+sudo varnishadm 'ban req.url ==  /articles/simple-tips-to-lose-weight-in-10-days/'
+sudo varnishadm 'ban req.url ==  /articles/effective-tips-to-get-rid-of-cellulite-fast/'
+sudo varnishadm 'ban req.url ==  /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+/articles/10-yoga-exercises-for-slimming-your-face/
+/articles/7-simple-home-remedies-to-remove-tan-from-hands/
+/articles/simple-tips-to-lose-weight-in-10-days/
+/articles/effective-tips-to-get-rid-of-cellulite-fast/
+/articles/best-exercises-to-help-you-burn-2000-calories-a-day/
+/articles/28-powerful-home-remedies-for-hair-growth/
+
+
+
+
+
+sudo varnishadm 'ban req.url ==  /articles/pictures-of-deepika-padukone-without-makeup/'
+sudo varnishadm 'ban req.url ==  /articles/top-10-make-up-brands-in-india/'
+sudo varnishadm 'ban req.url ==  /articles/10-puff-pony-hairstyles/' 
+sudo varnishadm 'ban req.url ==  /articles/mom-dad-tattoo-designs/' 
+sudo varnishadm 'ban req.url ==  /articles/creams-for-dark-spots-available-in-india/'
+sudo varnishadm 'ban req.url ==  /articles/olive-oil-brands-available-in-india/'
+sudo varnishadm 'ban req.url ==  /articles/best-baby-milk-powders-available-in-india/'
+sudo varnishadm 'ban req.url ==  /articles/top-10-anti-hair-fall-shampoos-in-india/' 
+sudo varnishadm 'ban req.url ==  /articles/top-10-skin-lightening-creams/'
+sudo varnishadm 'ban req.url ==  /articles/top-10-skin-creams-for-indian-skin/' 
+sudo varnishadm 'ban req.url ==  /articles/essential-makeup-items-in-the-bag-of-todays-woman/'
+sudo varnishadm 'ban req.url ==  /articles/simple-ways-to-lose-tummy-without-exercising/'
+sudo varnishadm 'ban req.url ==  /articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/'
+sudo varnishadm 'ban req.url ==  /articles/14-daily-fitness-diet-tips-for-people-who-hate-working-out/'
+sudo varnishadm 'ban req.url ==  /articles/natural-anti-aging-skin-care/'
+sudo varnishadm 'ban req.url ==  /articles/news/easy-diy-hairstyles-for-v-day/'
+
+
+a:26:{i:0;s:71:"advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php";i:1;s:43:"akfeatured-post-widget/ak_featured_post.php";i:2;s:69:"browse-content-by-my-solr-server/browse-content-by-my-solr-server.php";i:3;s:31:"buddypress-followers/loader.php";i:4;s:57:"buddypress-pending-activations/bp-pending-activations.php";i:5;s:24:"buddypress/bp-loader.php";i:6;s:33:"disable-search/disable-search.php";i:7;s:32:"disqus-comment-system/disqus.php";i:8;s:29:"fancier-author-box/ts-fab.php";i:9;s:19:"jetpack/jetpack.php";i:10;s:24:"json-rest-api/plugin.php";i:11;s:50:"multiple-post-thumbnails/multi-post-thumbnails.php";i:12;s:37:"optinmonster/optin-monster-wp-api.php";i:13;s:27:"redirection/redirection.php";i:14;s:42:"rename-wp-login-master/rename-wp-login.php";i:15;s:47:"sasank-inc-lybrateads/sasank-inc-lybrateads.php";i:16;s:33:"w3-total-cache/w3-total-cache.php";i:17;s:24:"wordpress-seo/wp-seo.php";i:18;s:42:"wordpress-social-login/wp-social-login.php";i:19;s:29:"wp-dbmanager/wp-dbmanager.php";i:20;s:26:"wp-fb-autoconnect/Main.php";i:21;s:23:"wp-headjs/wp_headjs.php";i:22;s:33:"wp-postratings/wp-postratings.php";i:23;s:33:"wp-smtp-config/wp-smtp-config.php";i:24;s:36:"wysija-newsletters-premium/index.php";i:25;s:28:"wysija-newsletters/index.php";}
+
+/articles/pictures-of-deepika-padukone-without-makeup/ 
+/articles/top-10-make-up-brands-in-india/ 
+/articles/10-puff-pony-hairstyles/ 
+/articles/mom-dad-tattoo-designs/ 
+/articles/creams-for-dark-spots-available-in-india/
+/articles/olive-oil-brands-available-in-india/ 
+/articles/best-baby-milk-powders-available-in-india/ 
+/articles/top-10-anti-hair-fall-shampoos-in-india/ 
+/articles/top-10-skin-lightening-creams/
+/articles/top-10-skin-creams-for-indian-skin/ 
+/articles/essential-makeup-items-in-the-bag-of-todays-woman/
+/articles/simple-ways-to-lose-tummy-without-exercising/
+/articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/
+/articles/14-daily-fitness-diet-tips-for-people-who-hate-working-out/
+/articles/natural-anti-aging-skin-care/
+/articles/news/easy-diy-hairstyles-for-v-day/
+
+http://www.stylecraze.com/articles/pictures-of-deepika-padukone-without-makeup/ 
+http://www.stylecraze.com/articles/top-10-make-up-brands-in-india/ 
+http://www.stylecraze.com/articles/10-puff-pony-hairstyles/ 
+http://www.stylecraze.com/articles/mom-dad-tattoo-designs/ 
+http://www.stylecraze.com/articles/creams-for-dark-spots-available-in-india/ 
+
+http://www.stylecraze.com/articles/olive-oil-brands-available-in-india/ 
+http://www.stylecraze.com/articles/best-baby-milk-powders-available-in-india
+/ 
+http://www.stylecraze.com/articles/top-10-anti-hair-fall-shampoos-in-india/ 
+http://www.stylecraze.com/articles/top-10-skin-lightening-creams/
+http://www.stylecraze.com/articles/top-10-skin-creams-for-indian-skin/ 
+http://www.stylecraze.com/articles/essential-makeup-items-in-the-bag-of-todays-woman/
+http://www.stylecraze.com/articles/simple-ways-to-lose-tummy-without-exercising/
+http://www.stylecraze.com/articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/
+http://www.stylecraze.com/articles/14-daily-fitness-diet-tips-for-people-who-hate-working-out/
+http://www.stylecraze.com/articles/natural-anti-aging-skin-care/
+
+
+
+
+Wednesday 17 February 2016 05:32:33 PM IST 
+
+
+sudo varnishadm 'ban req.url == /articles/gm-diet-have-an-india-version/'
+sudo varnishadm 'ban req.url == /articles/get-gorgeous-skin-with-healthy-eating-habits/'
+sudo varnishadm 'ban req.url == /articles/best-feminine-perfumes-you-can-try-right-now/'
+
+sudo varnishadm 'ban req.url == /articles/funky-short-hairstyles-for-girls/'
+sudo varnishadm 'ban req.url == /articles/5-flattering-hairstyles-for-round-face/'
+sudo varnishadm 'ban req.url == /articles/clever-tricks-to-enlarge-your-eyes-with-makeup/'
+sudo varnishadm 'ban req.url == /articles/simple-tips-for-fabulous-flawless-skin/'
+sudo varnishadm 'ban req.url == /articles/healthy-foods-that-will-detoxify-your-liver/'
+sudo varnishadm 'ban req.url == /articles/top-5-sunscreens-for-oily-skin-available-in-india/'
+
+
+rewrite /articles/funky-short-hairstyles-for-girls/ http://www.stylecraze.com/articles/10-funky-hairstyles-for-short-hair/ permanent;
+rewrite /articles/5-flattering-hairstyles-for-round-face/ http://www.stylecraze.com/articles/perfect-hairstyles-for-round-face/ permanent;
+rewrite /articles/clever-tricks-to-enlarge-your-eyes-with-makeup/ http://www.stylecraze.com/articles/tips-and-tricks-to-make-small-eyes-appear-bigger/ permanent;
+rewrite /articles/simple-tips-for-fabulous-flawless-skin/ http://www.stylecraze.com/articles/home-remedies-for-flawless-skin/ permanent;
+rewrite /articles/healthy-foods-that-will-detoxify-your-liver/ http://www.stylecraze.com/articles/foods-to-eat-for-a-healthy-liver/ permanent;
+rewrite /articles/top-5-sunscreens-for-oily-skin-available-in-india/ http://www.stylecraze.com/articles/best-sunscreen-lotions-for-oily-skin/ permanent;
+
+
+
+rewrite /articles/gm-diet-have-an-india-version/ http://www.stylecraze.com/articles/the-gm-diet-is-it-for-you/ permanent;
+rewrite /articles/get-gorgeous-skin-with-healthy-eating-habits/	http://www.stylecraze.com/articles/5-foods-for-naturally-glowing-skin/ permanent;
+rewrite /articles/best-feminine-perfumes-you-can-try-right-now/	http://www.stylecraze.com/articles/best-perfume-for-women-our-top-10/ permanent;
+
+
+
+
+Tuesday 16 February 2016 09:38:03 AM IST 
+
+
+Array
+(
+    [0] => text-25
+    [1] => 
+    [2] => 
+    [3] => subcatnav_sidebar-2
+    [4] => text-23
+    [5] => text-35
+    [6] => text-28
+    [7] => text-30
+    [8] => text-31
+    [9] => text-32
+    [10] => hotpicks_sidebar-2
+    [11] => anp_related_posts_side-2
+    [12] => subcatpop_widget-2
+    [13] => text-29
+    [14] => text-17
+    [15] => text-10
+    [16] => text-11
+    [17] => text-12
+    [18] => text-13
+    [19] => text-27
+)
+
+
+
+
+	<pre>Array
+(
+    [0] => text-25
+    [1] => 
+    [2] => 
+    [3] => subcatnav_sidebar-2
+    [4] => text-23
+    [5] => text-35
+    [6] => text-28
+    [7] => text-30
+    [8] => text-31
+    [9] => text-32
+    [10] => hotpicks_sidebar-2
+    [11] => anp_related_posts_side-2
+    [12] => subcatpop_widget-2
+    [13] => text-29
+    [14] => text-17
+    [15] => text-10
+    [16] => text-11
+    [17] => text-12
+    [18] => text-13
+    [19] => text-27
+)
+</pre>		<pre>Array
+(
+    [0] => text-25
+    [1] => 
+    [2] => 
+    [3] => subcatnav_sidebar-2
+    [4] => text-23
+    [5] => text-35
+    [6] => text-28
+    [7] => text-30
+    [8] => text-31
+    [9] => text-32
+    [10] => hotpicks_sidebar-2
+    [11] => anp_related_posts_side-2
+    [12] => subcatpop_widget-2
+    [13] => text-29
+    [14] => text-17
+    [15] => text-10
+    [16] => text-11
+    [17] => text-12
+    [18] => text-13
+    [19] => text-27
+)
+
+
+
+			if (is_single('299356')) {
+				$inline1 = "<div id='div-gpt-ad-1455091046446-0'><script type='text/javascript'>googletag.cmd.push(function(){ googletag.display('div-gpt-ad-1455091046446-0'); });</script></div>";
+			
+				$inlinenew = "<div id='div-gpt-ad-1455091046446-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-1'); });</script></div>";
+			
+				$inlineend ="<div id='div-gpt-ad-1455091046446-2'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-2'); });</script></div>";
+			}
+
+
+
+http://www.stylecraze.com/wp-admin/post.php?post=152940&action=edit
+http://www.stylecraze.com/wp-admin/post.php?post=261267&action=edit
+http://www.stylecraze.com/wp-admin/post.php?post=188375&action=edit
+
+
+152940,261267,188375
+
+
+
+
+
+			if (is_single('299356')) {
+				$inline1 = "<div id='div-gpt-ad-1455091046446-0'><script type='text/javascript'>googletag.cmd.push(function(){ googletag.display('div-gpt-ad-1455091046446-0'); });</script></div>";
+
+				$inline2 = "<div id='div-gpt-ad-1455091046446-1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-1'); });</script></div>";
+
+				$inlineend ="<div id='div-gpt-ad-1455091046446-2'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-2'); });</script></div>";
+			}
+
+
+
+<script>
+//<![CDATA[
+function r(e){/in/.test(document.readyState)?setTimeout("r("+e+")",9):e()}function initAdserver(){if(!pbjs.initAdserverSet){!function(){var e=document.createElement("script");e.async=!0;e.type="text/javascript";var t="https:"==document.location.protocol;e.src=(t?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)}();pbjs.initAdserverSet=!0}}var PREBID_TIMEOUT=700;window.log=function(){log.history=log.history||[];log.history.push(arguments);this.console&&console.log(Array.prototype.slice.call(arguments))};var googletag=googletag||{};googletag.cmd=googletag.cmd||[];setTimeout(initAdserver,PREBID_TIMEOUT);var pbjs=pbjs||{};pbjs.que=pbjs.que||[];!function(){var e=document,t=e.createElement("script");e.location.protocol;t.type="text/javascript";t.src="null";var n=document.getElementsByTagName("head")[0];n.insertBefore(t,n.firstChild)}();pbjs.que.push(function(){var e=[{"code":"div-gpt-ad-1455091046446-1","sizes":[300,250],"bids":[{"bidder":"sovrn","params":{"tagid":322157}}]},{"code":"div-gpt-ad-1455091046446-0","sizes":[300,250],"bids":[{"bidder":"sovrn","params":{"tagid":322158}}]},{"code":"div-gpt-ad-1455091046446-2","sizes":[300,250],"bids":[{"bidder":"sovrn","params":{"tagid":322159}}]},{"code":"div-gpt-ad-1455091046446-3","sizes":[300,600],"bids":[{"bidder":"sovrn","params":{"tagid":328317}}]},{"code":"div-gpt-ad-1455091046446-4","sizes":[300,250],"bids":[{"bidder":"sovrn","params":{"tagid":328318}}]}];pbjs.addAdUnits(e);pbjs.addCallback("adUnitBidsBack",function(e){log("ad unit bids back for : "+e)});pbjs.requestBids({bidsBackHandler:function(e){initAdserver()}});pbjs.bidderSettings={standard:{adserverTargeting:[{key:"hb_bidder",val:function(e){return e.bidderCode}},{key:"hb_adid",val:function(e){return e.adId}},{key:"hb_pb",val:function(e){return e.pbMg}}]}}});window.sovrn=window.sovrn||{};sovrn.auction=sovrn.auction||{};beaconFlag=!1;sovrn.auction={sendBeacon:function(){try{var e,t;if(beaconFlag)return!1;e="sovrn_beacon";t=sovrn.auction.createiFrame(e,1,1);t.src=sovrn.auction.getBeaconURL();document.body.appendChild(t);beaconFlag=!0}catch(n){log("error making beacon",n);return!1}return!0},createiFrame:function(e,t,n){var o,r,a,i,c,s;o=document.createElement("iframe");r=o.style;c={id:e,margin:"0",padding:"0",frameborder:"0",width:t+"",height:n+"",scrolling:"no",src:"about:blank"};s={margin:"0px",padding:"0px",border:"0px none",width:t+"px",height:n+"px",overflow:"hidden"};for(a in c)c.hasOwnProperty(a)&&o.setAttribute(a,c[a]);for(i in s)if(s.hasOwnProperty(i))try{r[i]=s[i]}catch(l){}return o},getBeaconURL:function(){urlString="http://gslbeacon.lijit.com/beacon?viewId=incnut_header_auction&rand="+Math.floor(9e3*Math.random())+"&informer=13162669&type=fpads&loc="+window.location.host+"&v=1.2";return urlString},sendContainer:function(){var e="sovrn_container",t=sovrn.auction.createiFrame(e,1,1);t.src="data:text/html;charset=utf-8, <html><body><script type='text/javascript' src='http://www.lijit.com/delivery/ct?id=17&aid=231256'/></body></html>";document.body.appendChild(t)}};r(function(){sovrn.auction.sendBeacon()});if(window.ActiveXObject||"-ms-ime-align"in document.documentElement.style){var reg=new RegExp("MSIE ([0-9]+[\\.0-9]*)");!reg.exec(navigator.userAgent)&&parseInt(RegExp.$1)<10&&(window.onload=function(){sovrn.auction.sendContainer()})}else window.onload=function(){sovrn.auction.sendContainer()};
+//]]>
+</script>
+
+
+
+<!-- /25351654/SC_Inline_ATF_HB --> div-gpt-ad-1408359871629-11
+<div id='div-gpt-ad-1455091046446-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-0'); });
+</script>
+</div>
+
+<!-- /25351654/SC_Inline_Middle_HB --> div-gpt-ad-1408359871629-1
+<div id='div-gpt-ad-1455091046446-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-1'); });
+</script>
+</div>
+
+<!-- /25351654/SC_Inline_End_HB --> div-gpt-ad-1408359871629-3
+<div id='div-gpt-ad-1455091046446-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-2'); });
+</script>
+</div>
+
+<!-- /25351654/SC_Sidebar_300x600//300x250_HB --> div-gpt-ad-1408359871629-2
+<div id='div-gpt-ad-1455091046446-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-3'); });
+</script>
+</div>
+
+<!-- /25351654/SC_Sidebar_Sticky_HB --> div-gpt-ad-1408359871629-101
+<div id='div-gpt-ad-1455091046446-4' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455091046446-4'); });
+</script>
+</div>
+
+
+
+
+
+http://www.stylecraze.com/articles/simple-and-safe-ways-to-remove-mehndi/
+http://www.stylecraze.com/articles/8-yoga-poses-for-glowing-skin/
+
+======================================================================================================
+
+add_filter( 'the_content', 'revcontent_content_filter', 14 );
+function revcontent_content_filter($content) {
+	if(is_single()){
+		$content .= '<div id="rcjsload_ad98ff"></div>';		
+	}
+	return $content;
+}
+
+
+
+
+
+<div id="rcjsload_ad98ff"></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=22391&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_ad98ff"); rcds.appendChild(rcel);
+})();
+</script>
+
+
+<script src="//cdn.optimizely.com/js/4972921652.js"></script>
+
+window.optimizely = window.optimizely || [];
+window.optimizely.push("activateUniversalAnalytics");
+
+'kama-ayurveda' => 'http://pubads.g.doubleclick.net/gampad/clk?id=372104454&iu=/25351654/RON_TEXT',
+'kama-ayurveda-mobile' => 'http://pubads.g.doubleclick.net/gampad/clk?id=372105054&iu=/25351654/RON_TEXT',
+
+
+
+o Desktop: http://pubads.g.doubleclick.net/gampad/clk?id=372104454&iu=/25351654/RON_TEXT
+o Mobile: http://pubads.g.doubleclick.net/gampad/clk?id=372105054&iu=/25351654/RON_TEXT
+ You could also use natural products like 'Kama Ayurveda Himalayan Deodar Hair Conditioner' made from pure essential oils from Himalayan deodar, Hibiscus extract and Aloe Vera juice.
+
+
+'kama-ayurveda' => array('You could also use natural products like <a href="%s" target="_blank">Kama Ayurveda Himalayan Deodar Hair Conditioner</a> made from pure essential oils from Himalayan deodar, Hibiscus extract and Aloe Vera juice.','You could also use natural products like  <a href="%s" target="_blank">Kama Ayurveda Himalayan Deodar Hair Conditioner</a> made from pure essential oils from Himalayan deodar, Hibiscus extract and Aloe Vera juice.'),
+
+'kama-ayurveda-mobile' => array('You could also use natural products like <a href="%s" target="_blank">Kama Ayurveda Himalayan Deodar Hair Conditioner</a> made from pure essential oils from Himalayan deodar, Hibiscus extract and Aloe Vera juice.','You could also use natural products like  <a href="%s" target="_blank">Kama Ayurveda Himalayan Deodar Hair Conditioner</a> made from pure essential oils from Himalayan deodar, Hibiscus extract and Aloe Vera juice.'),
+		
+
+
+
+Kushneet Kukreja
+kushneet@incnut.com
+
+
+
+echo "var isMobile = window.matchMedia('only screen and (max-width: 760px)');
+    if (isMobile.matches) { var lybratelink = 'http://pubads.g.doubleclick.net/gampad/clk?id=371825934&iu=/25351654/RON_TEXT';}";
+
+https://play.google.com/store/apps/details?id=com.stylecraze&referrer=utm_source%3Dstylecraze%26utm_medium%3Dmobilebanner%26anid%3Dadmob
+http://pubads.g.doubleclick.net/gampad/clk?id=371115414&iu=/25351654/RON_TEXT&t=url%3Dhttp://www.stylecraze.com//articles/28-powerful-home-remedies-for-hair-growth/
+http://pubads.g.doubleclick.net/gampad/clk?id=371115414&iu=/25351654/RON_TEXT&t=url%3Dhttp://www.stylecraze.com//articles/28-powerful-home-remedies-for-hair-growth/
+
+
+'purador-mobile' => ' http://pubads.g.doubleclick.net/gampad/clk?id=371825934&iu=/25351654/RON_TEXT',
+
+'purador-mobile' => array('Toss away your Hair Loss problems with <a href="%s" target="_blank">Pura d’or Premium Organic Argan Oil Anti-Hair Loss Shampoo (Gold Label)</a>','Toss away your Hair Loss problems with <a href="%s" target="_blank">Pura d’or Premium Organic Argan Oil Anti-Hair Loss Shampoo (Gold Label)</a>'),
+
+
+
+
+http://m.store.stylecraze.com/Shampoo/Pura-d-or-Premium-Organic-Anti-Hair-Loss-Shampoo--Gold-Label---473ml-id-2086532.html
+
+http://pubads.g.doubleclick.net/gampad/clk?id=371825694&iu=/25351654/RON_TEXT
+http://pubads.g.doubleclick.net/gampad/clk?id=371825694&iu=/25351654/RON_TEXT
+
+
+
+
+
+
+
+
+
+/articles/treat-stretch-marks-loose-skin/
+/articles/28-powerful-home-remedies-for-hair-growth/
+
+
+
+
+
+'purador' => array('Toss away your Hair Loss problems with <a href="%s" target="_blank">Pura d’or Premium Organic Argan Oil Anti-Hair Loss Shampoo (Gold Label)</a>','Toss away your Hair Loss problems with <a href="%s" target="_blank">Pura d’or Premium Organic Argan Oil Anti-Hair Loss Shampoo (Gold Label)</a>'),
+
+
+'purador' => array('Want long locks? Consult a Dermatologist for free at Lybrate. <a href="%s" target="_blank">Get the right treatment for hair growth.</a>','Want trusted advice on hair growth? Ask experts at Lybrate for free.<a href="%s" target="_blank">Click here</a>'),
+
+
+
+
+<div class="language-titleright" style="/* width: 10%; */display: inline-block;vertical-align: middle;">
+			       <a href="http://www.stylecraze.com/articles/les-24-avantages-de-sante-de-jus-de-carotte/" style="margin-right: 5px"><img src="http://www.stylecraze.com/wp-content/themes/buddyboss-child/images/fr_new.png" alt="fr" style="margin:-2px 1px -2px 0; border:1px solid #333;width: 139px;" class="nopin"></a>       
+			       </div>
+
+http://www.stylecraze.com/articles/amazing-benefits-of-carrot-juice/
+
+
+HTTP
+HTTP Verbs
+
+Headers 
+Cookies
+
+JSON
+XML
+
+RPC and SOAP Services
+REST 
+Webhooks
+HTTP Tools
+
+Maintainable Web Services
+Making Service Design Decisons
+Building a Robust Service
+Publishing Your API
+
+Publishing your API
+
+
+There's a lot to learn, lets get to it.
+
+Action#1:Turn Your Goal into a Project
+Action#2: Schedule Time Every Day to work on Goals
+Action#3: Turn Goals into Important Tasks
+Action#4: Schedule time for single Actions
+Action#5: Track Your Goals
+Action#6
+
+
+
+ sudo varnishadm 'ban req.url == /articles/amazing-benefits-of-carrot-juice/' 
+ sudo varnishadm "ban req.url == /articles/patanjali-products-available-in-india/"
+ sudo varnishadm "ban req.url == /articles/immunity-boosting-products/"
+
+
+
+
+
+
+/articles/amazing-tattoo-designs-and-their-meanings/
+/articles/top-best-places-to-get-your-tatoos-inked-in-bangalore/
+/articles/mom-dad-tattoo-designs/
+/articles/hebrew-tattoo-designs/
+/articles/mindblowing-tattoo-designs-for-girls/
+/articles/best-egyptian-tattoos-our-top/
+/articles/best-small-tattoo-designs-our-top-10/
+/articles/sanskrit-tattoo-designs/
+/articles/best-breast-tattoo-designs-our-top/
+/articles/angeline-jolie-tattoos-and-their-meanings/
+/articles/best-places-to-get-a-tattoo-done-in-mumbai-our-top/
+/articles/safety-precautions-you-should-take-before-and-after-getting-a-tattoo/
+/articles/italian-tattoo-designs/
+/articles/best-places-to-get-your-tattoo-in-kolkata-our-top/
+/articles/best-leo-tattoos-our-top/
+/articles/best-places-to-get-a-tattoo-done-in-chennai/
+/articles/top-tattoo-parlours-in-india/
+/articles/top-best-places-to-get-your-tatoos-inked-in-hyderabad/
+/articles/best-indian-tattoo-designs-our-top/
+/articles/best-om-tattoo-designs-our-top-10/
+/articles/pisces-tattoo-designs/
+/articles/rihanna-tattoos-and-their-meanings/
+/articles/mayan-tattoo-designs/
+/articles/gypsy-tattoo-designs/
+
+
+
+rewrite /articles/8-tips-for-clear-skin/ http://www.stylecraze.com/articles/effective-home-remedies-for-clear-and-spotless-skin/ permanent;
+
+
+rewrite /articles/8-tips-for-clear-skin/ http://www.stylecraze.com/articles/effective-home-remedies-for-clear-and-spotless-skin/ permanent;
+
+
+179087
+
+
+Don’t let your hair pay the price. Save it if you love it. Pick your own bottle of Pura d’or Premium Organic Argan Oil Anti-Hair Loss Shampoo now at just Rs. 5,000. Every time you shampoo, you’re a step closer to fuller hair!
+
+
+
+
+sudo varnishadm 'ban req.url ==  /articles/amazing-tattoo-designs-and-their-meanings/'
+sudo varnishadm 'ban req.url ==  /articles/top-best-places-to-get-your-tatoos-inked-in-bangalore/'
+sudo varnishadm 'ban req.url ==  /articles/mom-dad-tattoo-designs/'
+sudo varnishadm 'ban req.url ==  /articles/hebrew-tattoo-designs/'
+sudo varnishadm 'ban req.url ==  /articles/mindblowing-tattoo-designs-for-girls/'
+sudo varnishadm 'ban req.url ==  /articles/best-egyptian-tattoos-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/best-small-tattoo-designs-our-top-10/'
+sudo varnishadm 'ban req.url ==  /articles/sanskrit-tattoo-designs/'
+sudo varnishadm 'ban req.url ==  /articles/best-breast-tattoo-designs-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/angeline-jolie-tattoos-and-their-meanings/'
+sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-a-tattoo-done-in-mumbai-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/safety-precautions-you-should-take-before-and-after-getting-a-tattoo/'
+sudo varnishadm 'ban req.url ==  /articles/italian-tattoo-designs/'
+sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-your-tattoo-in-kolkata-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/best-leo-tattoos-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-a-tattoo-done-in-chennai/'
+sudo varnishadm 'ban req.url ==  /articles/top-tattoo-parlours-in-india/'
+sudo varnishadm 'ban req.url ==  /articles/top-best-places-to-get-your-tatoos-inked-in-hyderabad/'
+sudo varnishadm 'ban req.url ==  /articles/best-indian-tattoo-designs-our-top/'
+sudo varnishadm 'ban req.url ==  /articles/best-om-tattoo-designs-our-top-10/'
+sudo varnishadm 'ban req.url ==  /articles/pisces-tattoo-designs/'
+sudo varnishadm 'ban req.url ==  /articles/rihanna-tattoos-and-their-meanings/'
+sudo varnishadm 'ban req.url ==  /articles/8-tips-for-clear-skin/'
+sudo varnishadm 'ban req.url ==  /articles/how-to-get-glowing-skin/'
+
+
+
+
+
+
+gptAdSlots[0] = googletag.defineSlot('/25351654/SC_category_sidebar_ATF', [300, 600], 'div-gpt-ad-1408359871629-2').defineSizeMapping(sidebarmapping).addService(googletag.pubads());
+	gptAdSlots[1] = googletag.defineSlot('/25351654/SC_category_Inline_Middle', [[600, 300], [336, 280]], 'div-gpt-ad-1408359871629-1').defineSizeMapping(inlinemiddlemapping).addService(googletag.pubads());
+	gptAdSlots[2] = googletag.defineSlot('/25351654/SC_category_Inline_End', [[600, 300], [336, 280]], 'div-gpt-ad-1408359871629-3').defineSizeMapping(inlineendmapping).addService(googletag.pubads());
+	gptAdSlots[3] = googletag.defineSlot('/25351654/SC_floating_affinity', [1, 1], 'div-gpt-ad-1408359871629-111').addService(googletag.pubads());
+	gptAdSlots[4] = googletag.defineSlot('/25351654/SC_category_inline_ATF', [[600, 300], [336, 280]], 'div-gpt-ad-1408359871629-11').defineSizeMapping(inlinetopmapping).addService(googletag.pubads());
+	gptAdSlots[5] = googletag.defineSlot('/25351654/SC_Sidebar_Sticky', [300, 250], 'div-gpt-ad-1408359871629-101').addService(googletag.pubads());
+
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408359871629-11'); });
+</script>
+
+
+=============================================================================
+
+gptAdSlots[0] = googletag.defineSlot('/25351654/SC_Sidebar_TestPage', [300, 600], 'div-gpt-ad-1454671973697-3').defineSizeMapping(sidebarmapping).addService(googletag.pubads());
+	gptAdSlots[1] = googletag.defineSlot('/25351654/SC_Inline_Middle_TestPage', [336, 280], 'div-gpt-ad-1454671973697-2').defineSizeMapping(inlinemiddlemapping).addService(googletag.pubads());
+	gptAdSlots[2] = googletag.defineSlot('/25351654/SC_Inline_end_TestPage', [336, 280], 'div-gpt-ad-1454671973697-1').defineSizeMapping(inlineendmapping).addService(googletag.pubads());
+	gptAdSlots[3] = googletag.defineSlot('/25351654/SC_floating_affinity', [1, 1], 'div-gpt-ad-1408359871629-111').addService(googletag.pubads());
+	gptAdSlots[4] = googletag.defineSlot('/25351654/Inline_Top_TestPage', [[600, 300], [336, 280]], 'div-gpt-ad-1454671973697-0').defineSizeMapping(inlinetopmapping).addService(googletag.pubads());
+	gptAdSlots[5] = googletag.defineSlot('/25351654/SC_StickySidebar_TestPage', [300, 250], 'div-gpt-ad-1454671973697-4').addService(googletag.pubads());
+
+Top
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454671973697-0'); });
+</script>
+
+Middle
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454671973697-2'); });
+</script>
+
+End
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454671973697-1'); });
+</script>
+
+Sidebar
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454671973697-3'); });
+</script>
+
+Sticky
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454671973697-4'); });
+</script>
+
+
+
+googletag.cmd.push(function() {
+    googletag.defineSlot('/25351654/Inline_Top_TestPage', [[600, 300], [336, 280]], 'div-gpt-ad-1454671973697-0').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/SC_Inline_end_TestPage', [336, 280], 'div-gpt-ad-1454671973697-1').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/SC_Inline_Middle_TestPage', [336, 280], 'div-gpt-ad-1454671973697-2').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/SC_Sidebar_TestPage', [300, 600], 'div-gpt-ad-1454671973697-3').addService(googletag.pubads());
+    googletag.defineSlot('/25351654/SC_StickySidebar_TestPage', [300, 250], 'div-gpt-ad-1454671973697-4').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+
+
+
+
+
+
+
+
+
+=======================================================================
+
+
+
+
+/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+/articles/enema-labour-everything-need-know_00100383/
+/articles/natural-effective-ways-to-speed-up-your-labor_0093408/
+/articles/ways-to-prevent-preterm-labour_0079292/
+/articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/
+
+
+
+aws cloudfront create-invalidation --distribution-id ER71GUPRJKOVC \ --paths /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+
+
+aws cloudfront create-invalidation --invalidation-batch invbatch.json --distribution-id ER71GUPRJKOVC
+
+
+{
+  "Paths": {
+    "Quantity": 2,
+    "Items": ["/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/", "/articles/enema-labour-everything-need-know_00100383/"]
+  },
+  "CallerReference": "my-invalidation-2015-09-01"
+}
+
+
+sudo aws cloudfront create-invalidation --invalidation-batch=invbatch.json --distribution-id ER71GUPRJKOVC
+
+
+{
+  "DistributionId": "ER71GUPRJKOVC",
+  "InvalidationBatch": {
+    "Paths": {
+      "Quantity": 2,
+      "Items": [
+        "/articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/", "/articles/enema-labour-everything-need-know_00100383/"
+      ]
+    },
+  "CallerReference": "cli testing"
+  }
+}
+
+
+
+sudo aws cloudfront create-invalidation --cli-input-json /home/ubuntu/invbatch.json 
+
+sudo aws cloudfront create-invalidation --cli-input-json invbatch.json
+
+ sudo aws cloudfront create-invalidation --cli-input-json file://./invbatch.json
+
+
+
+
+ sudo mv stylecraze-4.4.2-live-file.tar.gz stylecraze-4.4.2-live-file-june-08-2016.tar.gz
+ sudo mv stylecraze-4.4.2-live-file-wp-admin.tar.gz stylecraze-4.4.2-live-file-wp-admin-june-08-2016.tar.gz
+ sudo mv stylecraze-4.4.2-live-file-wp-includes.tar.gz stylecraze-4.4.2-live-file-wp-includes-june-08-2016.tar.gz
+
+
+ubuntu@ip-172-31-9-60:/var/www$  sudo chown nginx:nginx -R wp-admin/
+ubuntu@ip-172-31-9-60:/var/www$  sudo chown nginx:nginx -R wp-includes/
+
+
+
+
+
+
+use stylecraze;
+
+select * from wp_weightloss_lead where email = 'sharma99@incnut.com';
+
+
+SELECT * FROM wp_posts
+LEFT JOIN wp_term_relationships ON
+(wp_posts.ID = wp_term_relationships.object_id)
+LEFT JOIN wp_term_taxonomy ON
+(wp_term_relationships.term_taxonomy_id = wp_term_taxonomy.term_taxonomy_id)
+WHERE wp_posts.post_status = 'publish'
+AND wp_posts.post_type = 'post'
+AND wp_term_taxonomy.taxonomy = 'category'
+AND wp_term_taxonomy.term_id = 17453
+ORDER BY post_date DESC;
+
+SELECT ID, post_name FROM wp_posts
+LEFT JOIN wp_term_relationships ON
+(wp_posts.ID = wp_term_relationships.object_id)
+LEFT JOIN wp_term_taxonomy ON
+(wp_term_relationships.term_taxonomy_id = wp_term_taxonomy.term_taxonomy_id)
+WHERE wp_posts.post_status = 'publish'
+AND wp_posts.post_type = 'post'
+AND wp_term_taxonomy.taxonomy = 'category'
+AND wp_term_taxonomy.term_id = 17453
+ORDER BY post_date DESC;
+
+
+SELECT 
+t1.ID,
+t1.post_title,
+t1.post_name,
+t1.post_date,
+t1.post_modified,
+t1.post_author,
+t1.comment_count,
+t2.display_name,
+t2.user_email,
+LENGTH(t1.post_content) - LENGTH(REPLACE(t1.post_content, ' ', ''))+1 AS "word_count",
+(SELECT group_concat(wp_terms.name separator ', ') 
+  FROM wp_terms 
+  INNER JOIN wp_term_taxonomy on wp_terms.term_id = wp_term_taxonomy.term_id 
+  INNER JOIN wp_term_relationships wpr on wpr.term_taxonomy_id = wp_term_taxonomy.term_taxonomy_id 
+  WHERE taxonomy= 'category' and t1.ID = wpr.object_id 
+) AS "Categories" 
+FROM wp_posts t1 
+RIGHT JOIN wp_users t2 
+ON t1.post_author = t2.ID 
+WHERE t1.post_type='post' AND t1.post_status='publish';
+
+
+
+
+
+
+
+<?php
+
+// include("abc.js");
+ ?>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is a test for js</title>
+  <script type="text/javascript" src="abc.js"></script>
+</head>
+<body>
+<?php
+echo "I am in php file";
+?>
+
+
+<?php
+
+add_filter( 'sidebars_widgets', 'my_disable_widget_manu' );
+ 
+function my_disable_widget_manu( $sidebars_widgets ) {
+ 
+    /* disable it only singular pages */
+    if ( is_single('188375') ){
+ 
+        /* get each sidebar / widget area */
+        foreach( $sidebars_widgets as $widget_area => $widget_list ){
+ 
+            /* get all widget list in the area */
+            foreach( $widget_list as $pos => $widget_id ){
+ 
+                /* widget with id "meta-3" */
+                if ( $widget_id == 'text-6'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets[$widget_area][$pos] );
+                }
+
+
+        if ( $widget_id == 'text-10'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets[$widget_area][$pos] );
+                }
+
+
+            }
+ 
+        }
+    }
+ 
+    return $sidebars_widgets;
+}
+
+
+
+
+
+
+
+add_filter( 'sidebars_widgets', 'my_disable_widget_manu_not' );
+ 
+function my_disable_widget_manu_not( $sidebars_widgets1 ) {
+ 
+    /* disable it only singular pages */
+    if ( !is_single('188375') ){
+ 
+        /* get each sidebar / widget area */
+        foreach( $sidebars_widgets1 as $widget_area => $widget_list1 ){
+ 
+            /* get all widget list in the area */
+            foreach( $widget_list1 as $pos => $widget_id1 ){
+ 
+                /* widget with id "meta-3" */
+                if ( $widget_id1 == 'text-11'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets1[$widget_area][$pos] );
+                }
+
+
+        if ( $widget_id1 == 'text-12'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets1[$widget_area][$pos] );
+                }
+
+
+            }
+ 
+        }
+    }
+ 
+    return $sidebars_widgets1;
+}
+
+?>
+
+
+
+add_filter( 'sidebars_widgets', 'my_disable_widget_manu' );
+ 
+function my_disable_widget_manu( $sidebars_widgets ) {
+ 
+    /* disable it only singular pages */
+    if ( is_single('188375') ){
+ 
+        /* get each sidebar / widget area */
+        foreach( $sidebars_widgets as $widget_area => $widget_list ){
+ 
+            /* get all widget list in the area */
+            foreach( $widget_list as $pos => $widget_id ){
+ 
+                /* widget with id "text" */
+                if ( $widget_id == 'text-6'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets[$widget_area][$pos] );
+                }
+    
+ if ( $widget_id == 'text-10'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets[$widget_area][$pos] );
+                }
+
+
+            }
+ 
+        }
+    }
+ 
+    return $sidebars_widgets;
+}
+
+
+
+add_filter( 'sidebars_widgets', 'my_disable_widget_manu_not' );
+ 
+function my_disable_widget_manu_not( $sidebars_widgets1 ) {
+ 
+    /* disable it only singular pages */
+    if ( !is_single('188375') ){
+ 
+        /* get each sidebar / widget area */
+        foreach( $sidebars_widgets1 as $widget_area => $widget_list1 ){
+ 
+            /* get all widget list in the area */
+            foreach( $widget_list1 as $pos => $widget_id1 ){
+ 
+                /* widget with id "meta-3" */
+                if ( $widget_id1 == 'text-11'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets1[$widget_area][$pos] );
+                }
+
+
+        if ( $widget_id1 == 'text-12'){
+ 
+                    /* remove it */
+                    unset( $sidebars_widgets1[$widget_area][$pos] );
+                }
+
+
+            }
+ 
+        }
+    }
+ 
+    return $sidebars_widgets1;
+}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last login: Wed Jun 29 03:12:15 2016 from 49.206.207.5
+ubuntu@ip-172-31-28-215:~$  cd sharma-jun-2016/
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016$  sudo mkdir mj-29062016-plugins-live
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016$  cd mj-29062016-plugins-live/
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/mj-29062016-plugins-live$  sudo mv /var/www/wp-content/plugins/wordpress-s
+wordpress-seo/             wordpress-social-login123/
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/mj-29062016-plugins-live$  sudo mv /var/www/wp-content/plugins/wordpress-seo/ .
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/mj-29062016-plugins-live$ ls
+wordpress-seo
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/mj-29062016-plugins-live$ cd ..
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016$ ls
+backup-june2016-livesite  mj-29062016-plugins-live       var
+buddyboss                 plugins-sc-move-mj             wordpress
+latest.tar.gz             sc-buddyboss.tar.gz
+latest.zip                stylecraze-452.plugins.tar.gz
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016$ cd plugins-sc-move-mj/
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/plugins-sc-move-mj$ ls
+akfeatured-post-widget           optinmonster
+amaozon-e-com                    pagefrog
+anp-inc-lockerdome               redirection
+anp-inc-optinmonster-country     rename-wp-login-master______
+anp-inc-shopalyst                rest-api
+apester-interactive-content      sasank-inc-lybrateads
+better-rest-api-featured-images  w3-total-cache
+bp-custom.php                    wordpress-seo
+buddypress                       wp-better-emails
+buddypress-followers             wp-dbmanager
+disqus-comment-system            WP-FB-AutoConnect-Premium.php
+fancier-author-box               wp-headjs
+fixed-social-total-addon         wp-smtp-config
+fixed-wp-social-share-buttons    wp-spa
+index.php                        wp-youtube-lyte
+jetpack                          wysija-newsletters
+json-rest-api                    wysija-newsletters-premium
+multiple-post-thumbnails
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/plugins-sc-move-mj$  sudo cp -r wordpress-seo/ /var/www/wp-content/plugins/
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/plugins-sc-move-mj$  cd /var/www/wp-content/plugins/
+ubuntu@ip-172-31-28-215:/var/www/wp-content/plugins$ ls -la
+total 296
+drwxrwxr-x 41 nginx nginx   4096 Jun 29 04:48 .
+drwxrwxr-x  9 nginx nginx   4096 Jun 29 04:43 ..
+drwxrwxr-x  8 nginx nginx   4096 Apr  3  2014 advanced-search-by-my-solr-server
+drwxrwxr-x  2 nginx nginx   4096 Aug  4  2014 akfeatured-post-widget
+drwxrwxr-x  2 nginx nginx   4096 May 11 09:43 amaozon-e-com
+drwxrwxr-x  6 nginx nginx   4096 Jun  7 12:27 amp
+drwxrwxr-x  5 nginx nginx   4096 Mar  3 08:20 apester-interactive-content
+drwxrwxr-x  5 nginx nginx   4096 Dec  9  2015 bbpress
+-rwxrwxr-x  1 nginx nginx   2200 Apr  8  2014 bp-custom.php
+drwxrwxr-x  5 nginx nginx   4096 Apr  3  2014 browse-content-by-my-solr-server
+drwxrwxr-x 15 nginx nginx   4096 Nov 18  2015 buddypress
+drwxrwxr-x  4 nginx nginx   4096 Aug  4  2014 buddypress-followers
+drwxrwxr-x 13 nginx nginx   4096 Nov 18  2015 buddypress_old
+drwxrwxr-x  3 nginx nginx   4096 Apr  8  2014 buddypress-pending-activations
+drwxrwxr-x  4 nginx nginx   4096 Jun 15  2015 disable-search
+drwxrwxr-x  6 nginx nginx   4096 Oct  9  2014 disqus-comment-system
+drwxrwxr-x  5 nginx nginx   4096 Jul 16  2015 easy-social-share-buttons3
+drwxrwxr-x  7 nginx nginx   4096 Mar 28  2014 fancier-author-box
+drwxrwxr-x  2 nginx nginx   4096 Mar 28  2014 fb-login-widget
+-rwxrwxr-x  1 nginx nginx   2255 Mar 27  2014 hello.php
+-rwxrwxr-x  1 nginx nginx     30 Mar 28  2014 index.php
+drwxrwxr-x 13 nginx nginx   4096 Jun  4  2015 jetpack
+drwxrwxr-x  4 nginx nginx   4096 Jan  5 09:44 json-rest-api
+drwxrwxr-x  5 nginx nginx   4096 Jun  4  2015 multiple-post-thumbnails
+drwxrwxr-x  4 nginx nginx   4096 Sep  7  2015 optinmonster
+drwxrwxr-x  7 nginx nginx   4096 Apr 20 10:07 pagefrog
+drwxrwxr-x 10 nginx nginx   4096 Nov  9  2015 redirection
+drwxrwxr-x  2 nginx nginx   4096 Dec  2  2015 rename-wp-login-master
+drwxrwxr-x  2 nginx nginx   4096 Oct 28  2015 sasank-inc-lybrateads
+drwxrwxr-x  6 nginx nginx   4096 May 25  2015 tiny-compress-images
+drwxrwxr-x 10 nginx nginx   4096 Aug 26  2014 w3-total-cache
+drwxr-xr-x 11 root  root    4096 Jun 29 04:48 wordpress-seo
+drwxrwxr-x  8 nginx nginx   4096 Feb 18 10:57 wordpress-social-login123
+drwxrwxr-x  7 nginx nginx   4096 Mar 28  2014 wp-better-emails
+drwxrwxr-x  3 nginx nginx   4096 Apr 13 12:42 wp-custom-post-template
+drwxrwxr-x  2 nginx nginx   4096 Jun  4  2015 wp-dbmanager
+drwxrwxr-x  4 nginx nginx   4096 Jun  4  2015 wp-fb-autoconnect
+-rwxrwxr-x  1 nginx nginx 120897 Mar 28  2014 WP-FB-AutoConnect-Premium.php
+drwxrwxr-x  2 nginx nginx   4096 Mar 28  2014 wp-headjs
+drwxrwxr-x  6 nginx nginx   4096 Feb 18 06:52 wp-monalisa
+drwxrwxr-x  3 nginx nginx   4096 Jan 21 13:21 wp-postratings
+drwxrwxr-x  2 nginx nginx   4096 Mar 28  2014 wp-smtp-config
+drwxrwxr-x 14 nginx nginx   4096 Jan 22  2015 wp-ultimate-csv-importer
+drwxrwxr-x 22 nginx nginx   4096 Jul 13  2015 wysija-newsletters
+drwxrwxr-x  6 nginx nginx   4096 Jul 13  2015 wysija-newsletters-premium
+ubuntu@ip-172-31-28-215:/var/www/wp-content/plugins$  sudo chown nginx:nginx -R wordpress-seo/
+ubuntu@ip-172-31-28-215:/var/www/wp-content/plugins$  sudo chmod 775 -R wordpress-seo/
+ubuntu@ip-172-31-28-215:/var/www/wp-content/plugins$ 
+
+
+
+sc plugins list 
+-------------------
+ubuntu@ip-172-31-28-215:~/sharma-jun-2016/plugins-sc-move-mj$ ls -la
+total 264
+drwxrwxr-x 34 nginx  nginx    4096 Jun 16 06:46 .
+drwxr-xr-x  8 root   root     4096 Jun 29 04:46 ..
+drwxrwxr-x  2 nginx  nginx    4096 Jan 28  2014 akfeatured-post-widget
+drwxrwxr-x  2 ubuntu ubuntu   4096 May 10 12:51 amaozon-e-com
+drwxrwxr-x  2 ubuntu ubuntu   4096 Sep  8  2015 anp-inc-lockerdome
+drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 10  2015 anp-inc-optinmonster-country
+drwxrwxr-x  2 ubuntu ubuntu   4096 Sep  4  2015 anp-inc-shopalyst
+drwxrwxr-x  5 nginx  nginx    4096 Dec 10  2015 apester-interactive-content
+drwxrwxr-x  3 nginx  nginx    4096 Jun 16 06:46 better-rest-api-featured-images
+-rwxrwxr-x  1 nginx  nginx    2259 Jan 29  2014 bp-custom.php
+drwxrwxr-x 15 nginx  nginx    4096 Sep  9  2015 buddypress
+drwxrwxr-x  4 nginx  nginx    4096 Jan 27  2014 buddypress-followers
+drwxrwxr-x  6 nginx  nginx    4096 Jul  9  2015 disqus-comment-system
+drwxrwxr-x  7 nginx  nginx    4096 Jul  9  2015 fancier-author-box
+drwxrwxr-x  2 ubuntu ubuntu   4096 Aug 20  2015 fixed-social-total-addon
+drwxrwxr-x  4 ubuntu ubuntu   4096 Jul 28  2015 fixed-wp-social-share-buttons
+-rwxrwxr-x  1 nginx  nginx      30 Jan 29  2014 index.php
+drwxrwxr-x 11 ubuntu ubuntu   4096 Jul 10  2015 jetpack
+drwxrwxr-x  4 nginx  nginx    4096 Jun 17  2015 json-rest-api
+drwxrwxr-x  5 nginx  nginx    4096 Jul  9  2015 multiple-post-thumbnails
+drwxrwxr-x  4 nginx  nginx    4096 Sep  3  2015 optinmonster
+drwxrwxr-x  7 nginx  nginx    4096 Apr 20 11:40 pagefrog
+drwxrwxr-x 10 nginx  nginx    4096 Nov  9  2015 redirection
+drwxrwxr-x  2 ubuntu ubuntu   4096 Dec  2  2015 rename-wp-login-master______
+drwxrwxr-x  3 ubuntu ubuntu   4096 Jun  8 12:30 rest-api
+drwxrwxr-x  2 nginx  nginx    4096 Oct 21  2015 sasank-inc-lybrateads
+drwxrwxr-x 10 nginx  nginx    4096 Mar 21 20:39 w3-total-cache
+drwxrwxr-x 11 nginx  nginx    4096 Jun 14 11:54 wordpress-seo
+drwxrwxr-x  7 nginx  nginx    4096 Jul  9  2015 wp-better-emails
+drwxrwxr-x  2 nginx  nginx    4096 Jul  9  2015 wp-dbmanager
+-rwxrwxr-x  1 nginx  nginx  122877 Jan 29  2014 WP-FB-AutoConnect-Premium.php
+drwxrwxr-x  2 nginx  nginx    4096 Jan 27  2014 wp-headjs
+drwxrwxr-x  2 nginx  nginx    4096 Jan 27  2014 wp-smtp-config
+drwxrwxr-x  3 ubuntu ubuntu   4096 Jun 10 12:41 wp-spa
+drwxrwxr-x  5 nginx  nginx    4096 Jul  9  2015 wp-youtube-lyte
+drwxrwxr-x 22 nginx  nginx    4096 Sep 16  2015 wysija-newsletters
+drwxrwxr-x  6 nginx  nginx    4096 Sep 16  2015 wysija-newsletters-premium
+
+
+
+cd ~/sharma-jun-2016/mj-29062016-plugins-live/
+sudo mv /var/www/wp-content/plugins/json-rest-api/ .
+
+cd ../plugins-sc-move-mj/
+sudo cp -r json-rest-api/ /var/www/wp-content/plugins/
+
+
+cd /var/www/wp-content/plugins/
+ sudo chown nginx:nginx -R json-rest-api/
+ sudo chmod 775 -R json-rest-api/
+
+
+
+buddypress
+
+ cd ~/sharma-jun-2016/mj-29062016-plugins-live/
+ sudo mv /var/www/wp-content/plugins/buddypress/ .
+
+ cd ../plugins-sc-move-mj/
+ sudo cp -r buddypress/ /var/www/wp-content/plugins/
+
+
+ cd /var/www/wp-content/plugins/
+ sudo chown nginx:nginx -R buddypress/
+ sudo chmod 775 -R buddypress/
+
+rest-api
+
+ cd ../plugins-sc-move-mj/
+ sudo cp -r rest-api/ /var/www/wp-content/plugins/
+  sudo chown nginx:nginx -R rest-api/
+ sudo chmod 775 -R rest-api/
+
+wp-spa
+
+cd ../plugins-sc-move-mj/
+ sudo cp -r wp-spa/ /var/www/wp-content/plugins/
+
+ sudo chown nginx:nginx -R wp-spa/
+ sudo chmod 775 -R wp-spa/
+
+sudo cp -r better-rest-api-featured-images/ /var/www/wp-content/plugins/
+
+  sudo chown nginx:nginx -R better-rest-api-featured-images/
+ sudo chmod 775 -R better-rest-api-featured-images/
+
+
+
+cd ~/sharma-jun-2016/mj-29062016-plugins-live/
+sudo mv /var/www/wp-content/plugins/wp-better-emails/ .
+
+cd ../plugins-sc-move-mj/
+sudo cp -r wp-better-emails/ /var/www/wp-content/plugins/
+
+
+cd /var/www/wp-content/plugins/
+ sudo chown nginx:nginx -R wp-better-emails/
+ sudo chmod 775 -R wp-better-emails/
+
+
+
+json-rest-api
+
+
+
+
+
+
+<?php get_header(); 
+$finalproblem = ""; 
+global $current_user;
+get_currentuserinfo();
+ ?>
+<?php if($_POST) :  
+  $myemail = "service@stylecraze.com";
+  $clientname = check_input($_POST['id_name'], "Enter your name");
+  $email = check_input($_POST['id_email'], "Enter your E-Mail", true);
+  $message = check_input($_POST['id_message'], "Write your message");
+  $violation = check_input($_POST['id_violtype'], "Choose a Violation Type");
+  $pageurl = $_POST['id_pageurl'];
+  $pagetitle = $_POST['id_pagetitle'];
+  if(file_get_contents("http://www.opencaptcha.com/validate.php?ans=".$_POST['id_captchacode']."&img=".$_POST['id_captchaimg'])!='pass') {
+     show_error("Invalid Captcha Code!");
+  } 
+  
+  if($finalproblem == "") : 
+    
+  $message = "Name: $clientname
+E-mail: $email
+URL: $pageurl
+Title: $pagetitle
+Violation Type: $violation
+Message:
+$message";
+  
+  $headers = "From: " . $clientname ."<" . $email . "> \r\n";
+
+  wp_mail($myemail, "Violation Report - ". $clientname, $message, $headers);
+  $successmsg = "Thanks for the submission! We are working on it.";
+  endif;
+endif; ?>
+  <div id="primary" class="site-content">
+        <div id="content" role="main">
+          <?php if (have_posts()) : while (have_posts()) : the_post(); ?>           
+            <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+              <header class="entry-header">
+                <h1 class="entry-title">Report a Web Page or Violation</h1>
+              </header>
+              <?php if($successmsg != "") { ?>
+                <div class="entry-content">
+                  <p>Thank you for the submission! We are working on it.</p>
+                </div>
+              <?php } else { ?>
+                <div class="entry-content">
+                  <p>We are here to answer any questions you may have about STYLECRAZE. Reach out to us and we'll respond as soon as we can.</p>
+                  <form id="contact-form" class="styled-form" action="" method="post" accept-charset="utf-8">
+                    <?php if($finalproblem != "") : ?> <p class="row" style="color:red;"><?php echo $finalproblem; ?></p> <?php endif; ?>
+                      <p class="row half first">
+                        <label for="id_name">Name: <span class="required">*</span></label>
+                        <span class="field"><input type="text" name="id_name" id="id_name" value="<?php if($finalproblem != "") { echo $clientname; } else { echo $current_user->display_name; }?>"></span>
+                      </p>
+                      <p class="row half">
+                        <label for="id_email">Email: <span class="required">*</span></label>
+                        <span class="field"><input type="text" name="id_email" id="id_email" value="<?php if($finalproblem != "") { echo $email; } else { echo $current_user->user_email; }?>"></span>
+                      </p>
+                      <?php $pageid = url_to_postid($_SERVER['HTTP_REFERER']); 
+                      if($pageid) : $title = get_the_title($pageid); ?>
+                        <p class="row">
+                          <label for id="id_pageurl">URL of the page/post: <span class="required">*</span></label>
+                          <span class="field"><input type="text" name="id_pageurl" id="id_pageurl" value="<?php echo $_SERVER['HTTP_REFERER'];?>" readonly /></span>
+                        </p>
+                        <p class="row">
+                          <label for id="id_pagetitle">Title of the page/post: <span class="required">*</span></label>
+                          <span class="field"><input type="text" name="id_pagetitle" id="id_pagetitle" value="<?php echo $title;?>" readonly /></span>
+                        </p>
+                    <?php endif; ?>
+                      <p class="row">
+                        <label for id="id_violtype">Type of Violation: <span class="required">*</span></label>
+                        <span class="field"><select name="id_violtype" id="id_violtype">
+                          <option value="1">Report a Bad Web Page</option>
+                        <option value="2">Miscategorized Web Page</option>
+                        <option value="3">Disputes</option>
+                        <option value="4">Privacy Policy</option>
+                        <option value="5">Trademark Policy</option>
+                        <option value="6">Community Rules Violation</option>
+                        <option value="7">Report Abuse</option>
+                        <option value="8">Other</option>
+                        </select></span>
+                      </p>
+                      <p class="row">
+                        <label for="id_message">Message: <span class="required">*</span></label>
+                        <span class="field"><textarea cols="40" rows="10" name="id_message" id="id_message"><?php if($finalproblem != "") { echo $message; } ?></textarea></span>
+                      </p>
+                      <p class="row">
+                        <label for="id_captcha">Enter the code in the Image:  <span class="required">*</span></label> <?php
+                        $date = date("Ymd");
+                      $rand = rand(0,9999999999999);
+                      $img    = "$date$rand-80-240.jpgx";
+                      echo "<input type='hidden' name='id_captchaimg' value='$img'>";
+                      echo "<img src='http://www.opencaptcha.com/img/$img' height='80' alt='captcha' width='240' border='0' /><br />"; ?>
+                      <input type="text" name="id_captchacode" value="" style="width:45%" />
+                      </p>
+                      <p class="submit-row">
+                        <button type="submit" class="lbtn" style="background: #d55908;border: 0;">SEND</button>
+                      </p>
+                    </form>
+                  </div>
+              <?php } ?>
+            </article>
+          <?php endwhile; endif;?>
+    </div><!-- primary -->
+  </div><!-- #content -->
+<?php get_sidebar(); ?>
+<?php get_footer(); ?>
+<?php 
+  function check_input($data, $problem='', $email=FALSE) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    if ($problem && strlen($data) == 0) {
+      show_error($problem);
+    }
+    if($email && strlen($data)) {
+      if(!filter_var($data, FILTER_VALIDATE_EMAIL))
+        show_error("Enter a valid E-mail");
+    }
+    return $data;
+  }
+  function show_error($myError) {
+    global $finalproblem; 
+    $finalproblem .= $myError . "<br/>";
+  }
+  ?>
+
+<p class="row">
+                        <label for="id_captcha">Enter the code in the Image:  <span class="required">*</span></label> <?php
+                        $date = date("Ymd");
+                      $rand = rand(0,9999999999999);
+                      $img    = "$date$rand-80-240.jpgx";
+                      echo "<input type='hidden' name='id_captchaimg' value='$img'>";
+                      echo "<img src='http://www.opencaptcha.com/img/$img' height='80' alt='captcha' width='240' border='0' /><br />"; ?>
+                      <input type="text" name="id_captchacode" value="" style="width:45%" />
+                      </p>
+
+
+
+
+cd /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/articles
+
+
+   cd www.stylecraze.com/
+   ls
+   cd articles
+   cd ..
+   sudo rm -R articles
+
+   sudo rm -R a*
+   sudo rm -R b*
+   sudo rm -R c*
+   sudo rm -R d*
+   sudo rm -R e*
+   sudo rm -R f*
+   sudo rm -R g*
+   sudo rm -R h*
+   sudo rm -R i*
+   sudo rm -R j*
+   sudo rm -R k*
+   sudo rm -R l*
+   sudo rm -R m*
+   sudo rm -R n*
+   sudo rm -R o*
+   sudo rm -R p*
+   sudo rm -R q*
+   sudo rm -R r*
+   sudo rm -R s*
+   sudo rm -R t*
+   sudo rm -R u*
+   sudo rm -R v*
+   sudo rm -R x*
+   sudo rm -R y*
+   sudo rm -R z*
+   
+
+  cd ..
+  cd trending
+
+
+   sudo rm -R a*
+   sudo rm -R b*
+   sudo rm -R c*
+   sudo rm -R d*
+   sudo rm -R e*
+   sudo rm -R f*
+   sudo rm -R g*
+   sudo rm -R h*
+   sudo rm -R i*
+   sudo rm -R j*
+   sudo rm -R k*
+   sudo rm -R l*
+   sudo rm -R m*
+   sudo rm -R n*
+   sudo rm -R o*
+   sudo rm -R p*
+   sudo rm -R q*
+   sudo rm -R r*
+   sudo rm -R s*
+   sudo rm -R t*
+   sudo rm -R u*
+   sudo rm -R v*
+   sudo rm -R x*
+   sudo rm -R y*
+   sudo rm -R z*
+   
+
+
+sudo varnishadm "ban req.url ~ /members/"
+
+  uptime
+   watch uptime
+   sudo varnishadm "ban req.url ~ /articles/a"
+   sudo varnishadm "ban req.url ~ /articles/b"
+   sudo varnishadm "ban req.url ~ /articles/c"
+   sudo varnishadm "ban req.url ~ /articles/d"
+   sudo varnishadm "ban req.url ~ /articles/e"
+   sudo varnishadm "ban req.url ~ /articles/f"
+   sudo varnishadm "ban req.url ~ /articles/g"
+   sudo varnishadm "ban req.url ~ /articles/h"
+   sudo varnishadm "ban req.url ~ /articles/i"
+   sudo varnishadm "ban req.url ~ /articles/j"
+    watch uptime
+   sudo varnishadm "ban req.url ~ /articles/k"
+   sudo varnishadm "ban req.url ~ /articles/l"
+   sudo varnishadm "ban req.url ~ /articles/m"
+   sudo varnishadm "ban req.url ~ /articles/n"
+   sudo varnishadm "ban req.url ~ /articles/o"
+   sudo varnishadm "ban req.url ~ /articles/p"
+   sudo varnishadm "ban req.url ~ /articles/q"
+   sudo varnishadm "ban req.url ~ /articles/r"
+   sudo varnishadm "ban req.url ~ /articles/s"
+   watch uptime
+   sudo varnishadm "ban req.url ~ /articles/t"
+   sudo varnishadm "ban req.url ~ /articles/u"
+   sudo varnishadm "ban req.url ~ /articles/v"
+   sudo varnishadm "ban req.url ~ /articles/w"
+   sudo varnishadm "ban req.url ~ /articles/y"
+   sudo varnishadm "ban req.url ~ /articles/z"
+   sudo varnishadm "ban req.url ~ /articles/"
+
+
+
+ sudo rm -R trending
+ sudo rm -R social
+
+
+   sudo varnishadm "ban req.url ~ /trending/a"
+   sudo varnishadm "ban req.url ~ /trending/b"
+   sudo varnishadm "ban req.url ~ /trending/c"
+   sudo varnishadm "ban req.url ~ /trending/d"
+   sudo varnishadm "ban req.url ~ /trending/e"
+   sudo varnishadm "ban req.url ~ /trending/f"
+   sudo varnishadm "ban req.url ~ /trending/g"
+   sudo varnishadm "ban req.url ~ /trending/h"
+   sudo varnishadm "ban req.url ~ /trending/i"
+   sudo varnishadm "ban req.url ~ /trending/j"
+   sudo varnishadm "ban req.url ~ /trending/k"
+   sudo varnishadm "ban req.url ~ /trending/l"
+   sudo varnishadm "ban req.url ~ /trending/m"
+   sudo varnishadm "ban req.url ~ /trending/n"
+   sudo varnishadm "ban req.url ~ /trending/o"
+   sudo varnishadm "ban req.url ~ /trending/p"
+   sudo varnishadm "ban req.url ~ /trending/q"
+   sudo varnishadm "ban req.url ~ /trending/r"
+   sudo varnishadm "ban req.url ~ /trending/s"
+   watch uptime
+   sudo varnishadm "ban req.url ~ /trending/t"
+   sudo varnishadm "ban req.url ~ /trending/u"
+   sudo varnishadm "ban req.url ~ /trending/v"
+   sudo varnishadm "ban req.url ~ /trending/w"
+   sudo varnishadm "ban req.url ~ /trending/y"
+   sudo varnishadm "ban req.url ~ /trending/z"
+   sudo varnishadm "ban req.url ~ /trending/"
+
+
+sudo varnishadm "ban req.url ~ /lodhradi-skin-repair/"
+
+
+
+
+  sudo rm -R /var/www/wp-content/spa-cache/wp/v2/posts/5131/
+  sudo varnishadm "ban req.url ~ /wp-api/wp/v2/posts/5131?_embed=true"
+ sudo rm -R /var/www/wp-content/spa-cache/wp/v2/posts/5131/
+ sudo varnishadm "ban req.url ~ /wp-api/wp/v2/posts/5131"
+
+ sudo rm -R /var/www/wp-content/spa-cache/wp/v2/posts/331149/
+ sudo varnishadm "ban req.url ~ /wp-api/wp/v2/posts/331149?_embed=true"
+
+ http://origin.stylecraze.com/wp-api/wp/v2/posts/331149?_embed=true
+
+
+
+jQuery(document).ready(function(){
+
+  var isMobile = window.matchMedia("only screen and (max-width: 760px)");
+    if (isMobile.matches) {
+        var fix_position = function(event) {
+        var scroll = jQuery(window).scrollTop();
+          if (scroll > 300) {
+            jQuery("#wpbfsb").prependTo("body");
+            jQuery("#wpbfsb").css("position", "fixed");
+            jQuery("#wpbfsb").css ("top", "50px");
+          } else {
+            jQuery("#wpbfsb").prependTo("#primary");
+            jQuery("#wpbfsb").css("position", "static");
+            jQuery("#wpbfsb").css ("top", "0px");
+          }
+        }
+        fix_position();
+        jQuery("#wpbfsb").css("display", "block");
+        jQuery(window).scroll(fix_position);
+   
+});
+
+
+<script type="text/javascript">
+ jQuery(document).ready(function() {var isMobile = window.matchMedia("only screen and (max-width: 760px)");
+ 
+
+    if (isMobile.matches) {
+      jQuery("a.myButton").attr('href', newurl_mobile);
+      jQuery("a.puradorlink").attr('href', newurl_mobile);  
+      jQuery("a.ayurveda").attr('href', newurl_mobile_kama); 
+
+      jQuery("body.open-right #mobilepopuphome_footer").css({"-webkit-transform":"translate3d(-240px,0,0)", "-webkit-animation":"openRight .4s ease-in-out", "-moz-transform":"translate3d(-240px,0,0)", "-moz-animation":"openRight .4s ease-in-out", "transform":"translate3d(-240px,0,0)", "animation":"openRight .4s ease-in-out"});
+      jQuery("#mobilepopuphome_footer").css("display", "block");
+           var fix_position = function(event) {
+            var scroll = jQuery(window).scrollTop();
+            if (scroll > 300) {
+              jQuery("#wpbfsb").prependTo("body");
+              jQuery("#wpbfsb").css("position", "fixed");
+        if(isAndroid && jQuery('#mobilepopuphome').is(':visible')) {    
+            jQuery("#wpbfsb").css ("top", "108px");
+        }else{
+            jQuery("#wpbfsb").css ("top", "50px");
+        }
+            } else {
+              jQuery("#wpbfsb").prependTo("#primary");
+              jQuery("#wpbfsb").css("position", "static");
+              jQuery("#wpbfsb").css ("top", "0px");
+            }
+        }
+        fix_position();
+        jQuery("#wpbfsb").css("display", "block");
+         jQuery(window).scroll(fix_position);
+    }else{
+      jQuery("a.myButton").attr('href', newurl_desktop);  
+      jQuery("a.puradorlink").attr('href', newurl_desktop);   
+      jQuery("a.ayurveda").attr('href', newurl_desktop_kama);
+     }
+});
+
+</script>
+
+****************************************************************
+
+<?php if (is_single(array(160276,185884))) { ?>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  var isMobile = window.matchMedia("only screen and (max-width: 760px)");
+    if (isMobile.matches) {
+    jQuery(".cover-image picture").hide();       
+        } else {
+        jQuery(".hide_exp_image").hide();
+       }
+});
+</script>
+
+<?php }?>
+
+****************************************************************
+
+
+<img class="aligncenter size-large wp-image-374976 hide_exp_image" style="display: none;" src="http://www.stylecraze.com/wp-content/uploads/2013/05/40-Very-Short-Hairstyles-That-You-Should-Definitely-Try-2-512x1024.jpg" alt="40-Very-Short-Hairstyles-That-You-Should-Definitely-Try," width="512" height="1024" />
+
+
+
+
+
+
+Are there skills (other than coding) that I can learn to get a well paid job?
+James Altucher 
+James Altucher, Blogger, author, social media, investor, wall street investor
+Written Nov 9, 2014 · Upvoted by Jessica Su, CS PhD student at Stanford
+
+
+I don't want to say coding is useless. I started off my career by coding. But then I realized there was a much more important skill. This is a skill that gets you jobs, that gets you investors, that gets you sales, and that ultimately gets you sold, so builds wealth for you. 
+
+You have to be able to deliver and convince while on an elevator ride. The famous "elevator pitch". 
+
+There are books about this. But don’t waste your time. They are all garbage.
+I’ve been on both sides of this equation. I’ve had people pitching me.
+
+But mostly, I’ve been scared and desperate and afraid to ask someone to give me, want me, love me, all in the space of an elevator ride or in the time it takes one to ride an elevator.
+
+Perhaps the hardest thing for me was when I was doing my “3am” web series for HBO.
+
+I had to walk up to random strangers at 3 in the morning on the streets of New York and convince them within 5 seconds to spill their most intimate secrets to me rather than kill me.
+
+Not quite an elevator pitch but the same basic idea. I had a lot of practice. I probably approached over 3000 people cold.
+
+In some cases people tried to kill me. In one case I was chased. In other cases people opened up their hearts and I am infinitely grateful to them.
+
+The ideas below have worked for me in the hundreds of times I’ve had to be persuasive. Either in writing, or in person. In business and in friendships and in love. I hope variations on it can work for you. You decide.
+
+A) WHO ARE YOU?
+People want to know they are talking to a good, honest, reliable person that they can trust and perhaps even like, or love.
+
+Yes, love.
+
+They won’t love you by looking at your resume.
+
+You have to do method acting. Imagine what your body would feel like if they already said “Yes” even before you open your mouth.
+
+You would be standing up straight, smiling, palms open, ready to close the deal. You have to method act at the beginning of your pitch.
+
+If you are slouched and your head is sticking out then your brain is not as well-connected to your nervous system and you won’t be in “flow”.
+
+I can drag out the science here but this is a Facebook status update and not a peer-reviewed scientific paper for the Justice League of America.
+
+The reality is: when you’re slouched over, not only are you not using the full potential of your brain, but you look untrustworthy.
+
+B) RELAX
+Think about how you breathe when you are anxious and nervous.
+I will tell you how I breathe: short, shallow breaths in my upper chest.
+So do the reverse before a ten second pitch.
+
+Breathe deep and in your stomach. Even three deep breaths in the stomach (and when you exhale try to imagine your stomach almost hitting your back) has been shown to totally relax the mind and body.
+
+People sense this. Again, this builds trust and relaxes you.
+
+Now, even though you haven’t said a single word, you’ve probably done the two most important things for persuading someone.
+
+C) UHHH. YEAH. UHHH. MMMM-HMMM. UH-HUH
+I have a hard time with this. It seems natural to say, “yup” or “right” or “uh-huh” or whatever.
+
+But here’s the facts (and, again, there’s been studies on this): people perceive you as stupid when you do this.
+
+Just keep quiet when someone is talking.
+
+Then, when someone is done speaking, wait for two seconds before responding. They might not be done yet. And it gives you time to think of a response. If you are thinking of a response while they are talking, then you aren’t listening to them.
+
+People unconsciously know when you are not listening to them. Then they say No to you.
+
+D) THE FOUR U’s
+FINALLY, now we’re getting to the heart of the matter. THE ACTUAL NUTS AND BOLTS OF PERSUASION
+
+By the way, I’ve googled “the 4 U’s” and each time I get a different set of 4. So I’m going to use 6 (!) that have worked for me the best.
+
+This is not BS. This is not a way to convince someone to do something they don’t want to do. This is a way for you to consolidate your vision into a sentence or two and then express it in a clear manner.
+
+This is the way to bond and connect with another person’s needs instead of just your own pathetic wants.
+
+You can use this in an elevator pitch, on a date, with your children, on your mother, whatever. But it works.
+
+Think about these things when talking:
+Urgency  
+Why the problem you solve is URGENT to your demographic. For example: “I can never get a cab when it rains!”
+Unique  
+Why is your solution unique: “We aggregate 100s of car services into one simple app. Nobody else does this.”
+Useful  
+Why is your solution useful to the lives of the people you plan on selling to or deliver your message to: “We get you there on time.”
+Ultra-Specific  
+This shows there is no fluff: “Our app knows where you are. Your credit card is pre-loaded. You hit a button and a car shows up in 4-5 minutes.”  Of course the example I give is for Uber but you can throw in any other example you want.  I’ll throw in a fifth “U”
+User-friendly
+In other words, make it as easy as possible for someone to say “yes”. Like a money back guarantee, for instance. Or a giveaway. Or higher equity. Or testimonials from people you both know. Etc.  OH! And before I forget, a sixth U
+Unquestionable Proof 
+This can be in the form of profits. Or some measurable statistic. Or testimonials. Or a good wing-man. Whatever it takes.
+E) DESIRE
+A lot of people say you have to satisfy the desires of the other person in order for them to say “yes”.
+
+As much as we would like to think otherwise, people primarily act out of self-interest.
+
+The less they know you, the more they will act of self-interest because to do otherwise could potentially put them in danger. We all know that kids shouldn’t take candy from strangers.
+
+In an elevator pitch, the investor is the kid, what you are asking is the candy, and you are the stranger. So their gut reflex, unless you make the candy super-sweet, is to say “no”.
+
+So make sure you make your candy sweeter by sprinkling in their desires.
+And what are their desires?
+recognition
+rejuvenation
+relaxation
+relief
+religion
+remuneration
+results
+revenge
+romance
+If you can help them solve these URGENT problems or desires, then you they are more likely to say “yes” to you.
+
+I don’t know what you are selling, but hopefully it’s not to satisfy their desire for revenge. But if it is, don’t do anything violent.
+
+The one time I had to sell romance on an elevator I had to do three things: tell her life would be ok, make sure I knew her address and last name, and send her a teddy bear and flowers the next day.
+
+But that’s for another story.
+
+BUT FIRST
+F) OBJECTIONS
+Everyone is going to have gut objections.
+
+They’ve been approached 1000s of times before.
+
+Do you know how many times I’ve been approached to have sex in an elevator?
+
+None.
+
+But probably many others have and you have to put up with their non-stop objection.
+
+I will list them and then give solutions in parentheses:
+No time
+(that’s ok. It’s on an elevator. So they have elevator-length time. The key here is to stand straight and act like someone who deserves to be listened to).
+No interest
+(you solve this by accurately expressing the urgency of the problem)
+No perceived difference
+(but you have your unique difference ready to go)
+No belief
+(offer unquestionable proof that this works)
+No decision
+(make their decision as user-friendly as possible)
+- – -
+With great power comes great responsibility.
+
+Most people don’t have the power of persuasion. They mess up on each of the points I’ve outlined above. It takes practice and hard work.
+
+But this is not just about persuasion. It’s about connection.
+
+It’s about two people, who are probably strangers, reaching through physical and mental space and trying to understand each other and reach common ground.
+
+It’s not about money. It’s not about the idea. It’s not about yes or no.
+
+It’s about two people falling in love.
+
+
+
+
+
+
+<script type='text/javascript'>
+head.ready("vidjs-ima", function() {
+    videojs("content_video_one").ready(function(){
+            var player = this;
+            player.videoLogo({
+                watermark: true,
+                logo: 'http://www.stylecraze.com/video_assets/logo.jpg',
+                homepage: 'http://www.stylecraze.com/',
+            });
+            player.ima({
+                id: 'content_video_one',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&description_url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&correlator='
+            });
+            // Remove controls from the player on iPad to stop native controls from stealing
+            // our click
+            var contentPlayer =  document.getElementById('content_video_one_html5_api');
+            if ((navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) &&
+                    contentPlayer.hasAttribute('controls')) {
+                contentPlayer.removeAttribute('controls');
+            }
+
+           
+            var startEvent = 'click';
+            if (navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) {
+                startEvent = 'touchend';
+            }
+
+            player.one(startEvent, function() {
+                player.ima.initializeAdDisplayContainer();
+                player.ima.requestAds();
+                player.play();
+            });
+        
+       });
+
+
+
+    videojs("content_video_two").ready(function(){
+            var player = this;
+            player.videoLogo({
+                watermark: true,
+                logo: 'http://www.stylecraze.com/video_assets/logo.jpg',
+                homepage: 'http://www.stylecraze.com/',
+            });
+            player.ima({
+                id: 'content_video_two',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&description_url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&correlator='
+            });
+            // Remove controls from the player on iPad to stop native controls from stealing
+            // our click
+            var contentPlayer =  document.getElementById('content_video_two_html5_api');
+            if ((navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) &&
+                    contentPlayer.hasAttribute('controls')) {
+                contentPlayer.removeAttribute('controls');
+            }
+
+           
+            var startEvent = 'click';
+            if (navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) {
+                startEvent = 'touchend';
+            }
+
+            player.one(startEvent, function() {
+                player.ima.initializeAdDisplayContainer();
+                player.ima.requestAds();
+                player.play();
+            });
+        
+       });
+
+
+    videojs("content_video_three").ready(function(){
+            var player = this;
+            player.videoLogo({
+                watermark: true,
+                logo: 'http://www.stylecraze.com/video_assets/logo.jpg',
+                homepage: 'http://www.stylecraze.com/',
+            });
+            player.ima({
+                id: 'content_video_three',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&description_url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&correlator='
+            });
+            // Remove controls from the player on iPad to stop native controls from stealing
+            // our click
+            var contentPlayer =  document.getElementById('content_video_three_html5_api');
+            if ((navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) &&
+                    contentPlayer.hasAttribute('controls')) {
+                contentPlayer.removeAttribute('controls');
+            }
+
+           
+            var startEvent = 'click';
+            if (navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) {
+                startEvent = 'touchend';
+            }
+
+            player.one(startEvent, function() {
+                player.ima.initializeAdDisplayContainer();
+                player.ima.requestAds();
+                player.play();
+            });
+        
+       });
+
+
+        videojs("content_video_four").ready(function(){
+            var player = this;
+            player.videoLogo({
+                watermark: true,
+                logo: 'http://www.stylecraze.com/video_assets/logo.jpg',
+                homepage: 'http://www.stylecraze.com/',
+            });
+            player.ima({
+                id: 'content_video_four',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&description_url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&correlator='
+            });
+            // Remove controls from the player on iPad to stop native controls from stealing
+            // our click
+            var contentPlayer =  document.getElementById('content_video_four_html5_api');
+            if ((navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) &&
+                    contentPlayer.hasAttribute('controls')) {
+                contentPlayer.removeAttribute('controls');
+            }
+
+           
+            var startEvent = 'click';
+            if (navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) {
+                startEvent = 'touchend';
+            }
+
+            player.one(startEvent, function() {
+                player.ima.initializeAdDisplayContainer();
+                player.ima.requestAds();
+                player.play();
+            });
+        
+       }); //end of fourth video
+
+
+      videojs("content_video_five").ready(function(){
+            var player = this;
+            player.videoLogo({
+                watermark: true,
+                logo: 'http://www.stylecraze.com/video_assets/logo.jpg',
+                homepage: 'http://www.stylecraze.com/',
+            });
+            player.ima({
+                id: 'content_video_five',
+                adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/25351654/SC_Video2&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&description_url=http%3A%2F%2Fwww.stylecraze.com%2Ftrending%2Fvideos-for-weight-loss%2F&correlator='
+            });
+            // Remove controls from the player on iPad to stop native controls from stealing
+            // our click
+            var contentPlayer =  document.getElementById('content_video_five_html5_api');
+            if ((navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) &&
+                    contentPlayer.hasAttribute('controls')) {
+                contentPlayer.removeAttribute('controls');
+            }
+
+           
+            var startEvent = 'click';
+            if (navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPad/i) ||
+                    navigator.userAgent.match(/Android/i)) {
+                startEvent = 'touchend';
+            }
+
+            player.one(startEvent, function() {
+                player.ima.initializeAdDisplayContainer();
+                player.ima.requestAds();
+                player.play();
+            });
+        
+       });
+
+
+
+
+
+  }); //end of head.ready.document
+    </script>
+
+
+
+<button type="button" class="btn btn-share btn-lg btn-block">Buy Now</button>
+
+
+excluded posts already in the admin: 340335,343811,343623,340290,343079,336867,333777,335808
+340335,343811,343623,340290,343079,336867,333777,335808,375004,375136,374923,374855,370557,374627,374412,372322
+340335,343811,343623,340290,343079,336867,333777,335808,375004,375136,374923,374855,370557,374627,374412,372322,341230,341242,341219,341267,341273,341271,341275,341277,341950
+
+
+version 4
+340335,343811,343623,340290,343079,336867,333777,335808,375004,375136,374923,374855,370557,374627,374412,372322,341230,341242,341219,341267,341273,341271,341275,341277,341950,362626,362635,364545,364546,364548,364669,367824,368261,368263,368323,368996,370095
+
+version 5
+340335,343811,343623,340290,343079,336867,333777,335808,375004,375136,374923,374855,370557,374627,374412,372322,341230,341242,341219,341267,341273,341271,341275,341277,341950,362626,362635,364545,364546,364548,364669,367824,368261,368263,368323,368996,370095,335300,335518,336833,375132
+
+Version 6:
+
+340335,343811,343623,340290,343079,336867,333777,335808,375004,375136,374923,374855,370557,374627,374412,372322,341230,341242,341219,341267,341273,341271,341275,341277,341950,362626,362635,364545,364546,364548,364669,367824,368261,368263,368323,368996,370095,335300,335518,336833,375132,178605,155628,187268,308434,97529,334773,335300,208103
+
+sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/babynames/baby-names.css"
+sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+
+/wp-content/themes/buddyboss-child/babynames/baby-names.css
+/wp-content/themes/buddyboss-child/css/buddyboss324.min.css
+
+/wp-content/themes/buddyboss-child/css/buddyboss324.min.css
+/wp-content/themes/buddyboss-child/homepage/css/momjunction.min.css
+
+sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/homepage/css/momjunction.min.css"
+sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+
+
+http://www.stylecraze.com/post-sitemap1.xml
+http://www.stylecraze.com/post-sitemap2.xml
+http://www.stylecraze.com/post-sitemap3.xml
+http://www.stylecraze.com/post-sitemap4.xml
+http://www.stylecraze.com/post-sitemap5.xml
+http://www.stylecraze.com/post-sitemap6.xml
+http://www.stylecraze.com/post-sitemap7.xml
+http://www.stylecraze.com/post-sitemap8.xml
+http://www.stylecraze.com/post-sitemap9.xml
+http://www.stylecraze.com/post-sitemap10.xml
+http://www.stylecraze.com/post-sitemap11.xml
+http://www.stylecraze.com/post-sitemap12.xml
+http://www.stylecraze.com/post-sitemap13.xml
+http://www.stylecraze.com/post-sitemap14.xml
+http://www.stylecraze.com/post-sitemap15.xml
+http://www.stylecraze.com/post-sitemap16.xml
+http://www.stylecraze.com/post-sitemap17.xml
+http://www.stylecraze.com/post-sitemap18.xml
+http://www.stylecraze.com/post-sitemap19.xml
+http://www.stylecraze.com/post-sitemap20.xml
+http://www.stylecraze.com/post-sitemap21.xml
+http://www.stylecraze.com/page-sitemap.xml
+http://www.stylecraze.com/category-sitemap.xml
+
+
+
+
+
+
+http://www.stylecraze.com/votre/
+http://www.stylecraze.com/nrgy-fish-oil-capsules/
+
+http://www.stylecraze.com/dafni/
+http://www.stylecraze.com/dafni-beauty-salon/
+http://www.stylecraze.com/dafni-occ/
+http://www.stylecraze.com/dafni-rich-premium/
+http://www.stylecraze.com/dafni-small-business-owners/
+http://www.stylecraze.com/dafni-travel/
+http://www.stylecraze.com/dafni-web-sales/
+http://www.stylecraze.com/dafni/women/
+http://www.stylecraze.com/dafni-phillips/ campaign 4 and 5
+http://www.stylecraze.com/dafni-panasonic/
+http://www.stylecraze.com/dafni-for-all-women/
+http://www.stylecraze.com/dafni1/
+http://www.stylecraze.com/dafni-offer/ optinmonster offer
+http://www.stylecraze.com/royal-indulgence-kumkumadi/
+
+http://www.stylecraze.com/lodhradi-skin-repair/
+http://www.stylecraze.com/lodhradi-skin-repair-offer/
+http://www.stylecraze.com/lodhradi-skin-repair-offer-y/
+http://www.stylecraze.com/lodhradi-skin-repair-men/
+http://www.stylecraze.com/lodhradi-skin-repair-men2/
+http://www.stylecraze.com/lodhradi-web-sales-men/
+http://www.stylecraze.com/lodhradi-web-sales/
+http://www.stylecraze.com/lodhadri-skin-repair-short/
+http://www.stylecraze.com/lodhradi-skin-repair-sg/
+http://www.stylecraze.com/lodhradi-skin-repair-singapore/
+http://www.stylecraze.com/lodhradi-skin-repair-sg1/
+http://www.stylecraze.com/lodhradi-skin-repair-sg2/
+http://www.stylecraze.com/lodhradi-skin-repair-sg3/
+http://www.stylecraze.com/lodhradi-skin-repair-sg4/
+
+http://www.stylecraze.com/pediklear-callous-remover/
+http://www.stylecraze.com/lodhradi-skin-repair-offer-expt/
+
+
+http://www.momjunction.com/fisher-price-toddler-rocker/
+http://www.momjunction.com/fisher-price-kick-and-play-piano/
+http://www.momjunction.com/super-baby/
+
+http://www.thebridalbox.com/kreabrush/
+http://www.thebridalbox.com/krea-web-sales/
+http://www.thebridalbox.com/comfymat
+
+http://courses.stylecraze.com/courses/yoga-course
+http://courses.stylecraze.com/courses/how-to-become-a-mehendi-expert-in-15-days
+
+http://www.stylecraze.com/gm-diet-plan/

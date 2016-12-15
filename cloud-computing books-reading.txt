@@ -1,0 +1,279 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What is Cloud?
+
+You can think of the cloud as coherent, large-scale, publicly accessible collection of compute, storage, and networking resources.
+
+These are allocated via web service calls(A programmable interface accessed via HTTP requests), and are available for short- or long-term use in exchange for payment based on actual actual resources consumed.
+
+SitePoint AWS Jeff Barr Bok
+Welcome to cloud computing
+Amazon Web Services Overview
+Tooling Up
+Storing Data with Amazon S3
+WebHosting with Amazon EC2
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+AWS Administration – The Definitive Guide
+Packt Publishing 
+Yohan Wadia
+First published: February 2016
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What is cloud Computing?
+Cloud computing as a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (for example, networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+
+
+Chapter 1, Introducing Amazon Web Services, covers the introductory concepts and general benefits of cloud computing along with an overview of Amazon Web Services and its overall platform. The chapter also walks you through your first AWS signup process, and finally ends with the configuration of the AWS CLI.
+
+1. Introducing Amazon Web Services
+	What is cloud computing?
+		Cloud computing features and benefits
+		Cloud computing use cases
+	Introducing Amazon Web Services
+		AWS architecture and components
+			Regions and availability zones
+			AWS platform overview
+				Compute
+				Storage
+				Databases
+				Networking
+				Distributed computing and analytics
+				Content distribution and delivery
+				Workflow and messaging
+				Monitoring
+				Identity and access management
+			Getting started with AWS
+			Introducing the AWS Management Console
+			Getting started with AWS CLI
+	Plan of attack!
+	Summary
+
+Chapter 2, Security and Access Management, discusses the overall importance of security and how you can achieve it using an AWS core service known as Identity and Access Management (IAM). The chapter walks you through the steps required to create and administer AWS users, groups, as well as how to create and assign permissions and policies to them.
+
+2. Security and Access Management
+	Security and clouds
+		Is AWS really secure
+		Shared responsibility model
+	Identity and Access Management
+		Business use case scenario
+		Getting started with the IAM Console
+			Creating users and groups
+			Understanding permissions and policies
+			Creating and assigning policies
+		Managing access and security using the AWS CLI
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 3, Images and Instances, provides hands-on knowledge about EC2 instances and images, and how you can create and manage them using both the AWS Management Console as well as the AWS CLI.
+3. Images and Instances
+	Introducing EC2!
+		EC2 use cases
+	Introducing images and instances
+		Understanding images
+			Amazon Linux AMI
+		Understanding instances
+		EC2 instance pricing options
+			On-demand instances
+			Reserved instances
+			Spot instances
+		Working with instances
+			Stage 1 – choose AMI
+			Stage 2 – choose an instance type
+			Stage 3 – configure instance details
+			Stage 4 – add storage
+			Stage 5 – tag instances
+			Stage 6 – configure security groups
+			Stage 7 – review instance launch
+		Connecting to your instance
+		Configuring your instances
+		Launching instances using the AWS CLI
+			Stage 1 – create a key pair
+			Stage 2 – create a security group
+			Stage 3 – add rules to your security group
+			Stage 4 – launch the instance
+	Cleaning up!
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 4, Security, Storage, Networking and Lots More!, discusses some of the key aspects that you can leverage to provide added security for your applications and instances. The chapter also provides an in-depth overview of EC2 instance storage as well as networking options followed by some recommendations and best practices.
+
+4. Security, Storage, Networking, and Lots More!
+	An overview of security groups
+	Understanding EC2 networking
+		Determining your instances IP addresses
+		Working with Elastic IP addresses
+			Create an Elastic IP address
+			Allocating Elastic IP addresses
+			Disassociating and releasing an Elastic IP address
+	Understanding EBS volumes
+		EBS volume types
+		Getting started with EBS Volumes
+			Creating EBS volumes
+			Attaching EBS volumes
+			Accessing volumes from an instance
+			Detaching EBS volumes
+		Managing EBS volumes using the AWS CLI
+		Backing up volumes using EBS snapshots
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 5, Building Your Own Private Clouds Using Amazon VPC, introduces you to the concept and benefits provided by AWS Virtual Private Cloud (VPC) service. The chapter also provides an in-depth look at various VPC deployment strategies and how you can best leverage them for your own environments.
+
+5. Building Your Own Private Clouds Using Amazon VPC
+	An overview of Amazon VPC
+		VPC concepts and terminologies
+			Subnets
+			Security groups and network ACLs
+			Routing tables
+			VPC endpoints
+			Internet Gateways
+			NAT instances
+			DNS and DHCP Option Sets
+		VPC limits and costs
+	Working with VPCs
+		VPC deployment scenarios
+		Getting started with the VPC wizard
+		Viewing VPCs
+		Listing out subnets
+		Working with route tables
+		Listing Internet Gateways
+		Working with security groups and Network ACLs
+	Launching instances in your VPC
+		Creating the web servers
+		Creating the database servers
+	Planning next steps
+	Best practices and recommendations
+	Summary
+
+	Chapter 6, Monitoring Your AWS Infrastructure, covers AWS's primary monitoring service, called as Amazon CloudWatch. In this chapter, you will learn how to effectively create and manage alerts, loggings, and notifications for your EC2 instances, as well as your AWS environment.
+
+Chapter 6, Monitoring Your AWS Infrastructure, covers AWS's primary monitoring service, called as Amazon CloudWatch. In this chapter, you will learn how to effectively create and manage alerts, loggings, and notifications for your EC2 instances, as well as your AWS environment.
+
+6. Monitoring Your AWS Infrastructure
+	An overview of Amazon CloudWatch
+		Concepts and terminologies
+			Metrics
+			Namespaces
+			Dimensions
+			Time stamps and periods
+			Units and statistics
+			Alarms
+		CloudWatch limits and costs
+	Getting started with CloudWatch
+		Monitoring your account's estimate charges using CloudWatch
+		Monitoring your instance's CPU Utilization using CloudWatch
+		Monitoring your instance's memory and disk utilization using CloudWatch Scripts
+			Creating CloudWatch access roles
+			Installing the CloudWatch monitoring scripts
+			Viewing the custom metrics from CloudWatch
+		Monitoring logs using CloudWatch Logs
+			CloudWatch Log concepts and terminologies
+			Getting Started with CloudWatch Logs
+			Viewing the logs
+			Creating metric filters and alarms
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 7, Manage Your Applications with Auto Scaling and Elastic Load Balancing, discusses some of the key AWS services that you should leverage to create a dynamically scalable and highly available web application.
+
+7. Manage Your Applications with Auto Scaling and Elastic Load Balancing
+	An overview of Auto Scaling
+		Auto scaling components
+			Auto scaling groups
+			Launch configurations
+			Scaling plans
+	Introducing the Elastic Load Balancer
+		Creating your first Elastic Load Balancer
+			Step 1 – Defining the Load Balancer
+			Step 2 – Assign security groups
+			Step 3 – configure security settings
+			Step 4 – Configure Health Check
+			Step 5 – Add EC2 instances
+			Step 6 – Add tags
+			Step 7 – Review and Create
+	Getting started with Auto Scaling
+		Creating the Launch Configuration
+			Step 1 – Choose AMI
+			Step 2 – Choose Instance type
+			Step 3 – Configure details
+			Step 4 – Add storage
+			Step 5 – Configure Security Group
+			Step 6 – Review
+		Creating the Auto Scaling Group
+			Step 1 – Configure Auto Scaling group details
+			Step 2 – Configure scaling policies
+			Step 3 – Configure notifications
+			Step 4 – Configure tags
+			Step 5 – Review
+		Verifying and testing Auto Scaling
+		Suspend, resume and delete Auto Scaling
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 8, Database-as-a-Service Using Amazon RDS, provides an in-depth look at how you can effectively design, create, manage, and monitor your RDS instances on AWS.
+
+8. Database-as-a-Service Using Amazon RDS
+	An overview of Amazon RDS
+		RDS instance types
+		Multi-AZ deployments and Read Replicas
+	Working with Amazon RDS
+		Getting started with MySQL on Amazon RDS
+			Creating a MySQL DB instance
+				Step 1 – Select Engine
+				Step 2 – Production?
+				Step 3: Specify DB Details
+				Step 4: Configure Advanced Settings
+			Connecting remotely to your DB instance
+			Testing your database
+			Modifying your DB instances
+			Backing up DB instances
+			Creating Read Replicas and promoting them
+			Logging and monitoring your DB instance
+			Cleaning up your DB instances
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 9, Working with Simple Storage Service, provides practical knowledge and design considerations that you should keep in mind when working with Amazon's infinitely scalable and durable object storage known as Amazon S3.
+
+9. Working with Simple Storage Service
+	Introducing Amazon S3
+	Getting started with S3
+		Creating buckets
+		Uploading your first object to a bucket
+		Viewing uploaded objects
+		Accessing buckets and objects using S3CMD
+		Managing an object's and bucket's permissions
+		Using buckets to host your websites
+		S3 events and notification
+		Bucket versioning and lifecycle management
+		Cross-Region Replication
+	Planning your next steps
+	Recommendations and best practices
+	Summary
+
+Chapter 10, Extended AWS Services for Your Application, provides a brief overview of add-on AWS services that you can leverage for enhancing your applications' performance and availability.
+
+10. Extended AWS Services for Your Applications
+	Introducing Amazon Route53
+		Working with Route53
+		Creating hosted zones
+		Getting started with traffic flow
+		Configuring health checks
+	Content delivery using Amazon CloudFront
+		Getting started with distributions
+		CloudFront recommendations and best practices
+	What's new in AWS?
+		Elastic Container Service
+		Elastic File System
+		Database migration made easy with Database Migration Service
+		Go serverless with AWS Lambda
+	Resources, recommendations, and best practices
+	Summary
+	Index

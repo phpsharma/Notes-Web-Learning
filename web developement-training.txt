@@ -1,0 +1,24 @@
+Web developement fundamentals
+
+If you're interested in being a Web Developer but you’re not sure where to start, we have just the course for you. In today’s fast-changing world of technology, navigating the languages, frameworks, platforms, and even the vocabulary can seem confusing. Clear up the confusion with Training experts as they walk you through the basic concepts of web development.
+ 
+Learn how a web application works, and get clarity on this potentially complex landscape. Find out what the various terms mean, from front end and back end to servers and scaling. Look at the pros and cons of different platforms, hear how to find engineers, and check out additional resources. If you’re exploring a career in web dev, or even if you just need to be able to speak the language, don’t miss this perfect first step.
+
+Fundamentals of Web
+
+FRONT END 
+
+HTML5
+CSS3
+JavaScript
+Jquery
+BootStrap
+
+BACK END
+PHP Core
+MYSQL
+PHP Advanced
+
+
+
+

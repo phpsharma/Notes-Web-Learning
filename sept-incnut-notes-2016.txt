@@ -1,0 +1,250 @@
+UPDATE wp_users SET user_pass= MD5('welcome') WHERE user_login = 'shakhi';
+select * from wp_users  where user_login = 'shakhi';
+
+===================================================
+
+
+
+DFP - Google
+
+<!------SC_Inline_Top------->
+
+<amp-ad width=336 height=280
+    type="doubleclick"
+    data-slot="/25351654/SC_Inline_Top_AMP">
+</amp-ad>
+
+<!------SC_Inline_Middle------->
+
+<amp-ad width=336 height=280
+    type="doubleclick"
+    data-slot="/25351654/SC_Inline_Middle_AMP">
+</amp-ad>
+
+<!------SC_Inline_End------->
+
+<amp-ad width=336 height=280
+    type="doubleclick"
+    data-slot="/25351654/SC_Inline_End_AMP">
+</amp-ad>
+
+
+			$inline1 = '<amp-ad width=336 height=280 type="doubleclick" data-slot="/25351654/SC_Inline_Top_AMP" json={"targeting":{"pagetype":"single","category":"trending","amp":"TRUE"}}></amp-ad>';
+			$inlinemiddle = '<amp-ad width=336 height=280 type="doubleclick" data-slot="/25351654/SC_Inline_Middle_AMP" json={"targeting":{"pagetype":"single","category":"trending","amp":"TRUE"}}>';
+			$inlineend = '<amp-ad width=336 height=280 type="doubleclick" data-slot="/25351654/SC_Inline_Middle_AMP" json={"targeting":{"pagetype":"single","category":"trending","amp":"TRUE"}}></amp-ad>';
+
+
+RevContent
+
+<div id="rcjsload_be01b1"></div>
+<script type="text/javascript">
+(function() {
+var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=46941&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_be01b1"); rcds.appendChild(rcel);
+})();
+</script>
+
+AMP Tag for RevContent:
+
+<amp-ad width=340 height=730 
+        type="revcontent"
+        data-wrapper="rcjsload_be01b1"
+        data-endpoint="trends.revcontent.com"
+        data-id="46941">
+</amp-ad>
+
+	<amp-ad heights="(min-width:1907px) 600px, (min-width:1200px) 600px, (min-width:780px) 600px, (min-width:480px) 850px, (min-width:360px) 900px, (min-width:320px) 900px, 600px" width="360" height="267" layout="responsive" type="revcontent" data-loading-strategy="responsive" data-wrapper="rcjsload_be01b1" data-endpoint="trends.revcontent.com" data-id="46941"></amp-ad>
+
+***********************************************
+shakhi@incnut.com
+shaki2016
+
+Shaki
+Das
+
+******************************************************************************
+head.js({	
+	{"style-hover":"//ht-styl.hoverr.media/js/tera_stylecraze.js"}
+});
+
+
+
+******************************************************************************
+
+SELECT u.displayname FROM $wpdb->users u INNER JOIN $wpdb->usermeta m ON m.user_id = u.ID WHERE m.meta_key = 'wp_capabilities' AND m.meta_value LIKE '%contributor%' ORDER BY u.displayname;
+
+
+
+
+SELECT u.ID, u.user_login, u.user_nicename, u.user_email
+FROM $wpdb->users u
+INNER JOIN $wpdb->usermeta m ON m.user_id = u.ID
+WHERE m.meta_key = 'wp_capabilities'
+AND m.meta_value LIKE '%supplier%'
+ORDER BY u.user_registered
+
+******************************************************************************
+******************************************************************************
+
+
+ cd /var/www/wp-content/cache/page_enhanced/
+ cd www.momjunction.com/
+ cd articles
+
+cd /var/www/wp-content/cache/page_enhanced/www.momjunction.com/articles/
+
+cd /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/articles/
+
+   sudo rm -R a*
+   sudo rm -R b*
+   sudo rm -R c*
+   sudo rm -R d*
+   sudo rm -R e*
+   sudo rm -R f*
+   sudo rm -R g*
+   sudo rm -R h*
+   sudo rm -R i*
+   sudo rm -R j*
+
+uptime
+watch uptime
+
+   sudo rm -R k*
+   sudo rm -R l*
+   sudo rm -R m*
+   sudo rm -R n*
+   sudo rm -R o*
+   sudo rm -R p*
+   sudo rm -R q*
+   sudo rm -R r*
+   sudo rm -R s*
+   sudo rm -R t*
+   sudo rm -R u*
+   sudo rm -R v*
+uptime
+watch uptime
+   sudo rm -R x*
+   sudo rm -R y*
+   sudo rm -R z*
+
+   ls
+   ls -lR | grep ^d | wc -l
+   clear
+   ls -lR | grep ^d | wc -l
+   sudo rm -R *
+   ls -lR | grep ^d | wc -l
+   sudo rm -R *
+   ls -lR | grep ^d | wc -l
+   exit
+   uptime
+   watch uptime
+
+
+   sudo varnishadm "ban req.url ~ /articles/a"
+   sudo varnishadm "ban req.url ~ /articles/b"
+   sudo varnishadm "ban req.url ~ /articles/c"
+   sudo varnishadm "ban req.url ~ /articles/d"
+   sudo varnishadm "ban req.url ~ /articles/e"
+   sudo varnishadm "ban req.url ~ /articles/f"
+   sudo varnishadm "ban req.url ~ /articles/g"
+   sudo varnishadm "ban req.url ~ /articles/h"
+   sudo varnishadm "ban req.url ~ /articles/i"
+   sudo varnishadm "ban req.url ~ /articles/j"
+   sudo varnishadm "ban req.url ~ /articles/k"
+   sudo varnishadm "ban req.url ~ /articles/l"
+   sudo varnishadm "ban req.url ~ /articles/m"
+   sudo varnishadm "ban req.url ~ /articles/n"
+   sudo varnishadm "ban req.url ~ /articles/o"
+   sudo varnishadm "ban req.url ~ /articles/p"
+   sudo varnishadm "ban req.url ~ /articles/q"
+   sudo varnishadm "ban req.url ~ /articles/r"
+   sudo varnishadm "ban req.url ~ /articles/s"
+   sudo varnishadm "ban req.url ~ /articles/t"
+   sudo varnishadm "ban req.url ~ /articles/u"
+   sudo varnishadm "ban req.url ~ /articles/v"
+   sudo varnishadm "ban req.url ~ /articles/w"
+   sudo varnishadm "ban req.url ~ /articles/y"
+   sudo varnishadm "ban req.url ~ /articles/z"
+   sudo varnishadm "ban req.url ~ /articles/"
+
+
+
+  sudo varnishadm "ban req.url ~ /trending/a"
+   sudo varnishadm "ban req.url ~ /trending/b"
+   sudo varnishadm "ban req.url ~ /trending/c"
+   sudo varnishadm "ban req.url ~ /trending/d"
+   sudo varnishadm "ban req.url ~ /trending/e"
+   sudo varnishadm "ban req.url ~ /trending/f"
+   sudo varnishadm "ban req.url ~ /trending/g"
+   sudo varnishadm "ban req.url ~ /trending/h"
+   sudo varnishadm "ban req.url ~ /trending/i"
+   sudo varnishadm "ban req.url ~ /trending/j"
+   sudo varnishadm "ban req.url ~ /trending/k"
+   sudo varnishadm "ban req.url ~ /trending/l"
+   sudo varnishadm "ban req.url ~ /trending/m"
+   sudo varnishadm "ban req.url ~ /trending/n"
+   sudo varnishadm "ban req.url ~ /trending/o"
+   sudo varnishadm "ban req.url ~ /trending/p"
+   sudo varnishadm "ban req.url ~ /trending/q"
+   sudo varnishadm "ban req.url ~ /trending/r"
+   sudo varnishadm "ban req.url ~ /trending/s"
+   sudo varnishadm "ban req.url ~ /trending/t"
+   sudo varnishadm "ban req.url ~ /trending/u"
+   sudo varnishadm "ban req.url ~ /trending/v"
+   sudo varnishadm "ban req.url ~ /trending/w"
+   sudo varnishadm "ban req.url ~ /trending/y"
+   sudo varnishadm "ban req.url ~ /trending/z"
+   sudo varnishadm "ban req.url ~ /trending/"
+
+   watch uptime
+   htop
+   watch uptime
+   exit
+   watch uptime
+   cd /var/www/wp-content/cache/page_enhanced/www.momjunction.com/articles
+   ls -lR | grep ^d | wc -l
+   exit
+   watch uptime
+   ls -lR | grep ^d | wc -l
+   cd /var/www/wp-content/cache/page_enhanced/www.momjunction.com/articles
+   ls -lR | grep ^d | wc -l
+
+
+
+1)clear cache directory in wp-content  step by step 2) check for watch uptime 3) clear varnishadm step by step, check for watch uptime 4) run screaming frog software from seo 5) after all above 4 confirmation clear cloudfront cache
+[4:09:22 PM] Sasank.styleCraze: so now screaming frog and cloudfront part are left
+
+
+   sudo rm -R a*
+   sudo rm -R b*
+   sudo rm -R c*
+   sudo rm -R d*
+   sudo rm -R e*
+   sudo rm -R f*
+   sudo rm -R g*
+   sudo rm -R h*
+   sudo rm -R i*
+   sudo rm -R j*
+   sudo rm -R k*
+   sudo rm -R l*
+   sudo rm -R m*
+   sudo rm -R n*
+   sudo rm -R o*
+   sudo rm -R p*
+   sudo rm -R q*
+   sudo rm -R r*
+   sudo rm -R s*
+   sudo rm -R t*
+   sudo rm -R u*
+   sudo rm -R v*
+   sudo rm -R x*
+   sudo rm -R y*
+   sudo rm -R z*
+******************************************************************************
+******************************************************************************
+******************************************************************************

@@ -1,0 +1,317 @@
+Chapter1: Object oriented JavaScript
+  A bit of history
+    Browser wars and renaissance
+    The present
+    The future
+  ECMASCript 5
+  Object-Oriented Programming
+  	Objects
+  	Classes
+  	Encapsulation
+  	Aggregation
+  	Inheritance
+  	Polymorphism
+  OOP summary
+  Setting up your training environment
+  	Webkit's Web Inspector
+  	JavaScriptcore on a Mac
+  	MOre consoles
+  Summary
+
+  Chapter 2: Primitive Data Types, Arrays, Loops, and Conditions
+
+  	Variables
+  	  Variables are case sensitive
+  	Operators
+  	Primitive data types
+  		Finding out the value type - the typeof operator
+  		Numbers
+	  		Octal and hexadecimal numbers
+	  		Exponent literals
+	  		Infinity
+	  			NaN
+  		Strings
+  		  String conversions
+  		  Special strings
+  		Booleans
+  		Logical Operators
+  		  Operator Precedence
+  		  Lazy evaluation
+  		Comparison
+  		  Undefined and null
+  		Primitive data types recap
+  		Arrays
+  		  Adding/updating array elements
+  		  Deleting elements
+  		  Arrays of Arrays
+  		Conditions and loops
+  		  The if condition
+  		  The else clause
+  		Code blocks
+  		  Checking if a variable exists
+  		  Alternative if syntax
+  		Switch
+  		Loops
+  		  While loops
+  		    Do-while loops
+  		  For loops
+  		  For-in loops
+  		Comments
+  		Summary
+  		Exercises
+Chapter 3: Functions
+	Calling a function
+	Parameters
+	Predefined functions
+	  parseInt()
+	  parseFloat()
+	  isNaN()
+	  isFinite()
+	  eval()
+	Scope of variables
+	  Variable hoisting
+	Functions are data
+	  Anonymous functions
+	  Callback functions
+	    Callback examples
+	  Immediate functions
+	  Inner(Private) functions
+	  Functions that return functions
+	  Function, rewrite thyself!
+	Closures
+	  Scope chain
+	  Braking the chain with a Closure
+	    closure # 1
+	    closure # 2
+	    A definition and closure #3
+	  Closures in a Loop
+	  Getter/Setter
+	  Iterator
+	Summary
+	Exercises
+
+Chapeter 4 Objects
+	From Arrays to Objects
+		Elements, Properties, methods, and members
+		Hashed and associative arrays
+		Accessing an object's properties
+		Calling and objects methods
+		Altering properties/methods
+		Using this value
+		Constructor Functions
+		The global object
+		The constructor property
+		The instanceof operator
+		Functions that return objects
+		passing objects
+		Comparing objects
+		Objects in the Webkit console
+			console.log
+
+	Built-in Objects
+		Object
+		Array
+		  A few array methods
+		Function
+		  Properties of function objects
+		  Methods of function objects
+		  the arguments object revisted
+		  Inferring Objects types
+		Boolean
+		Number
+		String
+		  A few methods of String objects		  
+		Math
+		Date
+		  Methods to work with date objects
+		RegExp
+		  Properties of RegExp objects
+		  Methods of RegExp objects
+		  String methods that accept regular expressionsas arguments
+		  search() and match()
+		  replace()
+		  Replace Callbacks
+		  split()
+		  Passing a string When a regexp is expected
+		  Error objects
+	Summary
+	Exercises
+
+Chapter 5 Prototype
+		The Prototype Property
+		  Adding methods and properties using the prototype
+		Using the prototype's methods and properties
+		  Own properties versus protottype properties
+		  Overwriting a prototype's property with own property
+		    Enumerating properties
+		  isPrototypeOf()
+		  The secret __proto__ link
+		Augmenting built-in objects
+		  Augmenting built-in objects - discussion
+		  Prototype gotchas
+		Summary
+		Exercises
+
+Chapter 6 Inheritance
+	Prototype chaining 
+	  Prototype chaining example
+	  Moving shared properties to the prototype
+	Inheriting the prototype only
+	  A temporary constructor - new F()
+	Uber - access to the parent from a child object
+	Isolating the ineritance part into a function
+	Copying properties
+	Heads-up when copying by reference
+	Objects inherit fro objects
+	Deep copy
+	object()
+	Using a mix of prototypal inheritance and copying properties
+	Multiple inheritance
+		Mixins
+	Parasitic inheritance
+	Borrowing a constructor
+	  Borrowing a constructor and copy its prototype
+	Summary
+	Case study -- drawing shapes
+		Analysis
+		Implementation
+		Testing
+	Exercises
+
+  Chapter 7 The Browser Environment
+
+  	Including Javascript in an HTML page
+  	BOM and DOM - an overview
+  	BOM
+  		The window object revisited
+  		window.navigator
+  		Your console is a cheat sheet
+  		window.location
+  		window.history
+  		window.frames
+  		wondow.screen
+  		window.open()/close()
+  		window.moveTo() and window.resizeTo()
+  		window.alert(), window.prompt(), and window.confirm()
+  		window.setTimeout() and window.setInterval()
+  		window.document
+  	DOM
+  		Core DOM and HTML DOM
+  		Accessing DOM nodes
+  			The document node
+  			documentElement
+  			Child nodes
+  			Attributes
+  			Accessing the content inside a tag
+  			DOM access shortcuts
+  			Siblings, body, first, and last child
+  			Walk the DOM
+  		Modifying DOM nodes
+  			Modifying styles
+  			Fun with forms
+  		Creating new nodes
+  			DOM-only method
+  			cloneNode()
+  			insertBefore()
+  		Removing nodes
+  		HTML-only DOM objects
+  			Primitive was to access the document
+  			document.write()
+  			Cookies,title, referrer, domain
+  		Events
+  			Inline HTML attributes
+  			Element Properties
+  			DOM event listeners
+  			Capturing and bubbling
+  			Stop Propagation
+  			Prevent default behavior
+  			Cross-browser event listeners
+  			Types of events
+  		XMLHttpRequest
+  			sending the request
+  			Processing the response
+  			Creating XML HttpRequest objects in IE prior to Version 7
+  			A is for Asynchronous
+  			X is for XML
+  			an example
+  		Summary
+  		Exercises
+
+  Chapter 8 Coding and Design Patterns
+  	Coding Patterns
+  	  Separating behavior
+  	  	Content
+  	  	Presentation
+  	  	Behavior
+  	  	Example of separating behavior
+  	  	Asynchronous JavaScript loading
+  	  Namespaces
+  	    An Object as a namespace
+  	    Namespaced constructors
+  	    A namespace() method
+  	  Init-time branching
+  	  Lazy definition
+  	  Configuration object
+  	  Private properties and methods
+  	  Privileged methods
+  	  Private functions as public methods
+  	  Immediate functions
+  	  Modules
+  	  chaining
+  	  JSON
+  	Design Patterns
+  		Singleton
+  		Singleton 2
+  		  Global Variable
+  		  property of the Constructor
+  		  In a private property
+  		Factory
+  		Decorator
+  		  Decorating a christmas tree
+  		Observer
+  		Summary
+
+ Appendix A: Reserved Words
+ -------------------------
+ 	Keywords
+ 	Future reserved words
+ 	Previously reserved words
+
+ Appedix B: Built-in Functions
+ -----------------------------
+ Appedix C: Built-in Objects
+ ----------------------------
+ Objects
+ 	Members of the Object constructor
+ 	The Object.prototype members
+ 	ECMAScript 5 additions to Object
+ Array
+ 	The Array.prototype members
+ 	ECMAScript 5 additions to Array
+ Function
+ 	The Function.prototype members
+ 	ECMAScript 5 additions to a function
+ Boolean
+ Number
+ 	Members of the Number construcotrs
+ 	The Number.prototype members
+ String
+ 	Members of the String constructor
+ 	The String.prototype members
+ 	ECMAScript 5 additions to a String
+ Date
+ 	Members of the Date constructor
+ 	The Date.prototype members
+ 	ECMAScriot 5 additions to Date
+ Math
+ 	Members og the Math object
+ RegExp
+ 	The RegExp.prototype members
+ Error objects
+ 	The Error.prototype members
+ JSON
+ 	Members of the JSON object
+
+ Appendix D: Regular Expressions
+ -------------------------------
+ Index

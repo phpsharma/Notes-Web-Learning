@@ -1,0 +1,1000 @@
+  995  exit 
+  996  sudo varnishadm 'ban req.url == /contactus' 
+  997  exit 
+  998  exit
+  999  sudo varnishadm 'ban req.url == /articles/les-24-avantages-de-sante-de-jus-de-carotte/' 
+ 1000  sudo varnishadm "ban req.url == /articles/patanjali-products-available-in-india/"
+ 1001  sudo varnishadm "ban req.url == /articles/immunity-boosting-products/"
+ 1002  exit
+ 1003  sudo varnishadm "ban req.url ~ /"
+ 1004  sudo varnishadm "ban.url ."
+ 1005  exit
+ 1006  sudo varnishadm "ban req.url == /articles/simple-and-easy-mehndi-designs-that-you-can-do-by-yourself/"
+ 1007  sudo varnishadm "ban req.url == /articles/simple-home-remedies-to-remove-pimples-overnight/"
+ 1008  sudo vi /etc/nginx/conf.d/default.conf 
+ 1009  exit
+ 1010  sudo varnishadm "ban req.url ~ /articles/amazing-benefits-of-carrot-juice/"
+ 1011  cd /tmp/
+ 1012  clear
+ 1013  sudo varnishadm "ban req.url ~ /articles/*"
+ 1014  exit
+ 1015  sudo varnishadm "ban req.url ~ /articles/immunity-boosting-products/"
+ 1016  sudo service svnserve restart 
+ 1017  exit
+ 1018  sudo rm -R /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/articles/treat-stretch-marks-loose-skin/
+ 1019  sudo varnishadm "ban req.url ~ /articles/treat-stretch-marks-loose-skin"
+ 1020  exit
+ 1021  sudo rm -R /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/articles/treat-stretch-marks-loose-skin/
+ 1022  sudo varnishadm "ban req.url ~ /articles/treat-stretch-marks-loose-skin"
+ 1023  exit
+ 1024  sudo service nginx restart 
+ 1025  sudo varnishadm "ban req.url ~ /about-us/"
+ 1026  sudo varnishadm "ban req.url ~ /contact-us/"
+ 1027  sudo varnishadm "ban req.url ~ /articles/buying-a-sunscreen/"
+ 1028  ls /var/www/
+ 1029  sudo chmod -R 775 /var/www/ayush/
+ 1030  sudo chown -R nginx:nginx /var/www/ayush/
+ 1031  sudo chmod -R 775 /var/www/ayush/
+ 1032  exit
+ 1033  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/combined1.min.css"
+ 1034  sudo varnishadm "ban req.url ~ /articles/simple-home-remedies-to-remove-pimples-overnight/"
+ 1035  sudo varnishadm "ban req.url ~ /articles/treat-stretch-marks-loose-skin/"
+ 1036  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/css/style.css"
+ 1037  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/js/weightloss-lead-335510.js"
+ 1038  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/css/style.css"
+ 1039  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/js/weightloss-lead-335510.js"
+ 1040  sudo varnishadm "ban req.url ~ /articles/treat-stretch-marks-loose-skin/"
+ 1041  sudo varnishadm "ban req.url ~ /articles/colourful-snow-flake-nail-art-design-tutorial/"
+ 1042  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/js/weightloss-lead-335510.js"
+ 1043  sudo service nginx reload
+ 1044  sudo varnishadm "ban req.url ~ /articles/8-tips-for-clear-skin/"
+ 1045  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/weightloss-lead/js/weightloss-lead-335510.js"
+ 1046  sudo service varnish restart 
+ 1047  exit
+ 1048  cd /var/www/wp-content/themes/buddyboss-child/css/
+ 1049  ls -la
+ 1050  sudo chmod 775 pura-style.css 
+ 1051  sudo chown nginx:nginx pura-style.css 
+ 1052  sudo varnishadm "ban req.url ~ /articles/28-powerful-home-remfor-hair-growth/"
+ 1053  sudo varnishadm "ban req.url ~ /articles/treat-stretch-marks-loose-skin"
+ 1054  sudo rm -R /var/www/wp-content/cache/page_enhanced/www.stylecraze.com/articles/treat-stretch-marks-loose-skin/
+ 1055  exit
+ 1056  cd /var/mobile/
+ 1057  ls
+ 1058  ls -al
+ 1059  vi newfile.php 
+ 1060  sudo cp tattoostats.php mehndistats.php
+ 1061  vi mehndistats.php 
+ 1062  exit
+ 1063  cd /var/mobile/
+ 1064  vi mehndistats.php 
+ 1065  sudo vi mehndistats.php 
+ 1066  sudo crontab -e
+ 1067  crontab -e
+ 1068  cd /var/mobile/
+ 1069  sudo vi mehndistats.php 
+ 1070  crontab -e
+ 1071  /usr/bin/php mehndistats.php 
+ 1072  crontab -e
+ 1073  /usr/bin/php mehndistats.php 
+ 1074  crontab -
+ 1075  /usr/bin/php /var/mobile/mehndistats.php 
+ 1076  /usr/bin/php /var/mobile/mehndistats.php  >/dev/null 2>&1
+ 1077  ls -al
+ 1078  sudo vi mehndistats.php 
+ 1079  /usr/bin/php /var/mobile/mehndistats.php 
+ 1080  sudo vi mehndistats.php 
+ 1081  sudo vi tattoostats.php 
+ 1082  sudo vi mehndistats.php 
+ 1083  /usr/bin/php /var/mobile/mehndistats.php 
+ 1084  sudo vi mehndistats.php 
+ 1085  /usr/bin/php /var/mobile/mehndistats.php 
+ 1086  crontab -e
+ 1087  ls
+ 1088  exit
+ 1089  sudo varnishadm 'ban req.url ==  /articles/amazing-tattoo-designs-and-their-meanings/'
+ 1090  sudo varnishadm 'ban req.url ==  /articles/top-best-places-to-get-your-tatoos-inked-in-bangalore/'
+ 1091  sudo varnishadm 'ban req.url ==  /articles/mom-dad-tattoo-designs/'
+ 1092  sudo varnishadm 'ban req.url ==  /articles/hebrew-tattoo-designs/'
+ 1093  sudo varnishadm 'ban req.url ==  /articles/mindblowing-tattoo-designs-for-girls/'
+ 1094  sudo varnishadm 'ban req.url ==  /articles/best-egyptian-tattoos-our-top/'
+ 1095  sudo varnishadm 'ban req.url ==  /articles/best-small-tattoo-designs-our-top-10/'
+ 1096  sudo varnishadm 'ban req.url ==  /articles/sanskrit-tattoo-designs/'
+ 1097  sudo varnishadm 'ban req.url ==  /articles/best-breast-tattoo-designs-our-top/'
+ 1098  sudo varnishadm 'ban req.url ==  /articles/angeline-jolie-tattoos-and-their-meanings/'
+ 1099  sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-a-tattoo-done-in-mumbai-our-top/'
+ 1100  sudo varnishadm 'ban req.url ==  /articles/safety-precautions-you-should-take-before-and-after-getting-a-tattoo/'
+ 1101  sudo varnishadm 'ban req.url ==  /articles/italian-tattoo-designs/'
+ 1102  sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-your-tattoo-in-kolkata-our-top/'
+ 1103  sudo varnishadm 'ban req.url ==  /articles/best-leo-tattoos-our-top/'
+ 1104  sudo varnishadm 'ban req.url ==  /articles/best-places-to-get-a-tattoo-done-in-chennai/'
+ 1105  sudo varnishadm 'ban req.url ==  /articles/top-tattoo-parlours-in-india/'
+ 1106  sudo varnishadm 'ban req.url ==  /articles/top-best-places-to-get-your-tatoos-inked-in-hyderabad/'
+ 1107  sudo varnishadm 'ban req.url ==  /articles/best-indian-tattoo-designs-our-top/'
+ 1108  sudo varnishadm 'ban req.url ==  /articles/best-om-tattoo-designs-our-top-10/'
+ 1109  sudo varnishadm 'ban req.url ==  /articles/pisces-tattoo-designs/'
+ 1110  sudo varnishadm 'ban req.url ==  /articles/rihanna-tattoos-and-their-meanings/'
+ 1111  sudo varnishadm 'ban req.url ==  /articles/mayan-tattoo-designs/'
+ 1112  sudo varnishadm 'ban req.url ==  /articles/8-tips-for-clear-skin/'
+ 1113  sudo varnishadm 'ban req.url ==  /articles/how-to-get-glowing-skin/'
+ 1114  sudo varnishadm 'ban req.url ==  /articles/treat-stretch-marks-loose-skin/'
+ 1115  sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1116  sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1117  sudo varnishadm 'ban req.url ==  /test-article-pubads-manu/'
+ 1118  clear
+ 1119  sudo varnishadm 'ban req.url ==  /articles/treat-stretch-marks-loose-skin/'
+ 1120  sudo varnishadm 'ban req.url ==  /wp-content/themes/buddyboss-child/weightloss-lead/js/weightloss-lead-335510.js'
+ 1121  sudo varnishadm 'ban req.url ==  /trending/easy-diy-hairstyles-for-v-day/'
+ 1122  sudo varnishadm 'ban req.url ==  /articles/treat-stretch-marks-loose-skin/'
+ 1123  sudo varnishadm 'ban req.url == /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1124  sudo varnishadm 'ban req.url == /articles/8-simple-nail-art-designs/'
+ 1125  sudo varnishadm 'ban req.url == /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1126  ls -la
+ 1127  cd /var/www/
+ 1128  ls -la
+ 1129  cd sponsored/
+ 1130  ls -la
+ 1131  sudo chmod 775 index.html 
+ 1132  cd ..
+ 1133  ls -la
+ 1134  sudo chmod  775 -r sponsored/
+ 1135  sudo chmod  775 -R sponsored/
+ 1136  sudo varnishadm 'ban req.url == /sponsored/'
+ 1137  sudo varnishadm 'ban req.url == /articles/amazing-benefits-uses-of-ginseng-tea/'
+ 1138  sudo varnishadm 'ban req.url == /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1139  sudo varnishadm 'ban req.url == /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1140  sudo varnishadm 'ban req.url == /wp-content/themes/buddyboss-child/css/pura-style.css'
+ 1141  sudo varnishadm 'ban req.url == /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1142  sudo varnishadm 'ban req.url == /wp-content/themes/buddyboss-child/css/pura-style.css'
+ 1143  sudo varnishadm 'ban req.url == /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1144  ls
+ 1145  sudo varnishadm 'ban req.url == /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1146  sudo varnishadm 'ban req.url == /articles/amazing-benefits-uses-of-ginseng-tea/'
+ 1147  sudo varnishadm 'ban req.url == /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1148  sudo varnishadm 'ban req.url == /articles/simple-and-safe-ways-to-remove-mehndi/'
+ 1149  sudo varnishadm 'ban req.url == /articles/8-yoga-poses-for-glowing-skin/'
+ 1150  sudo varnishadm 'ban req.url == /articles/how-to-get-rid-of-a-hickey/'
+ 1151  sudo vi /var/log/nginx/error.log.1
+ 1152  sudo varnishadm 'ban req.url == /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+ 1153  clear
+ 1154  cd /var
+ 1155  cd www
+ 1156  ll
+ 1157  ls
+ 1158  cd fb_integration/
+ 1159  ll
+ 1160  vi webhook1.php 
+ 1161  vi webhook.php 
+ 1162  ll
+ 1163  vi webhook.php 
+ 1164  sudo varnishadm 'ban req.url == /articles/gm-diet-have-an-india-version/'
+ 1165  sudo varnishadm 'ban req.url == /articles/get-gorgeous-skin-with-healthy-eating-habits/'
+ 1166  sudo varnishadm 'ban req.url == /articles/best-feminine-perfumes-you-can-try-right-now/'
+ 1167  sudo varnishadm 'ban req.url == /articles/funky-short-hairstyles-for-girls/'
+ 1168  sudo varnishadm 'ban req.url == /articles/5-flattering-hairstyles-for-round-face/'
+ 1169  sudo varnishadm 'ban req.url == /articles/clever-tricks-to-enlarge-your-eyes-with-makeup/'
+ 1170  sudo varnishadm 'ban req.url == /articles/simple-tips-for-fabulous-flawless-skin/'
+ 1171  sudo varnishadm 'ban req.url == /articles/healthy-foods-that-will-detoxify-your-liver/'
+ 1172  sudo varnishadm 'ban req.url == /articles/top-5-sunscreens-for-oily-skin-available-in-india/'
+ 1173  exit
+ 1174  sudo varnishadm 'ban req.url == /articles/funky-short-hairstyles-for-girls/'
+ 1175  exit
+ 1176  sudo varnishadm 'ban req.url == /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+ 1177  sudo varnishadm 'ban req.url == /sponsored/'
+ 1178  exit
+ 1179  sudo varnishadm 'ban req.url == /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+ 1180  sudo varnishadm 'ban req.url == /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1181  sudo varnishadm 'ban req.url ==  /articles/pictures-of-deepika-padukone-without-makeup/'
+ 1182  sudo varnishadm 'ban req.url ==  /articles/top-10-make-up-brands-in-india/'
+ 1183  sudo varnishadm 'ban req.url ==  /articles/10-puff-pony-hairstyles/' 
+ 1184  sudo varnishadm 'ban req.url ==  /articles/mom-dad-tattoo-designs/' 
+ 1185  sudo varnishadm 'ban req.url ==  /articles/creams-for-dark-spots-available-in-india/'
+ 1186  sudo varnishadm 'ban req.url ==  /articles/olive-oil-brands-available-in-india/'
+ 1187  sudo varnishadm 'ban req.url ==  /articles/best-baby-milk-powders-available-in-india/'
+ 1188  sudo varnishadm 'ban req.url ==  /articles/top-10-anti-hair-fall-shampoos-in-india/' 
+ 1189  sudo varnishadm 'ban req.url ==  /articles/top-10-skin-lightening-creams/'
+ 1190  sudo varnishadm 'ban req.url ==  /articles/top-10-skin-creams-for-indian-skin/' 
+ 1191  sudo varnishadm 'ban req.url ==  /articles/essential-makeup-items-in-the-bag-of-todays-woman/'
+ 1192  sudo varnishadm 'ban req.url ==  /articles/simple-ways-to-lose-tummy-without-exercising/'
+ 1193  sudo varnishadm 'ban req.url ==  /articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/'
+ 1194  sudo varnishadm 'ban req.url ==  /articles/14-daily-fitness-diet-tips-for-people-who-hate-working-out/'
+ 1195  sudo varnishadm 'ban req.url ==  /articles/natural-anti-aging-skin-care/'
+ 1196  sudo varnishadm 'ban req.url ==  /articles/news/easy-diy-hairstyles-for-v-day/'
+ 1197  sudo varnishadm 'ban req.url ==  /articles/10-yoga-exercises-for-slimming-your-face/'
+ 1198  sudo varnishadm 'ban req.url ==  /articles/7-simple-home-remedies-to-remove-tan-from-hands/'
+ 1199  sudo varnishadm 'ban req.url ==  /articles/simple-tips-to-lose-weight-in-10-days/'
+ 1200  sudo varnishadm 'ban req.url ==  /articles/effective-tips-to-get-rid-of-cellulite-fast/'
+ 1201  sudo varnishadm 'ban req.url ==  /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+ 1202  sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1203  exit
+ 1204  sudo varnishadm 'ban req.url ==  /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1205  sudo vi /home/svn/passwd 
+ 1206  exit
+ 1207  sudo varnishadm 'ban req.url == /sponsored/'
+ 1208  sudo vi /home/svn/passwd 
+ 1209  sudo varnishadm 'ban req.url ==  /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1210  sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1211  exit
+ 1212  cd /etc/nginx/conf.d/
+ 1213  ls
+ 1214  cat default.conf
+ 1215  exit
+ 1216  sudo varnishadm 'ban req.url ==  /articles/28-powerful-home-remedies-for-hair-growth/'
+ 1217  sudo varnishadm 'ban req.url ==  /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1218  clear
+ 1219  ls
+ 1220  cclear
+ 1221  clear
+ 1222  exit
+ 1223  sudo service varnish restart 
+ 1224  mysql -uroot -psconaws
+ 1225  sudo varnishadm 'ban req.url ==  /articles/powerful-home-remedies-for-hair-growth-that-work-wonders/'
+ 1226  sudo service varnish restart
+ 1227  exit
+ 1228  sudo varnishadm "ban req.url ~ /bariatric-call/"
+ 1229  exit
+ 1230  cd /etc/nginx/conf.d/
+ 1231  cat default.conf 
+ 1232  sudo varnishadm "ban req.url ~ /articles/amazing-benefits-of-white-tea-on-your-health/"
+ 1233  exit
+ 1234  sudo varnishadm "ban req.url ~ /bariatric-call/"
+ 1235  exit
+ 1236  sudo varnishadm "ban req.url ~ /bariatric-call/"
+ 1237  exit
+ 1238  sudo varnishadm 'ban req.url ==  /trending/videos-you-have-to-watch-if-youre-trying-to-lose-weight/'
+ 1239  sudo varnishadm 'ban req.url == /trending/diy-hair-masks-for-healthy-and-glossy-hair/'
+ 1240  sudo varnishadm "ban req.url ~ /bariatric-surgery-2/"
+ 1241  sudo varnishadm "ban req.url ~ /bariatric-surgery-2/*"
+ 1242  exit
+ 1243  sudo varnishadm "ban req.url ~ /asian-bariatric-surgery-call/"
+ 1244  exit
+ 1245  sudo varnishadm "ban req.url ~ /asian-bariatric-surgery-call/"
+ 1246  exit
+ 1247  sudo varnishadm "ban req.url ~ /asian-bariatric-surgery-call/"
+ 1248  sudo varnishadm "ban req.url ~ /articles/amazing-benefits-of-white-tea-on-your-health/"
+ 1249  exit
+ 1250  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-treat-cellulite/'
+ 1251  sudo varnishadm 'ban req.url ==  /articles/proven-tips-to-help-reduce-cellulite-formation/'
+ 1252  sudo varnishadm 'ban req.url ==  /articles/4-simple-beauty-tips-for-dull-skin/'
+ 1253  sudo varnishadm 'ban req.url ==  /articles/remove-tan-from-hands-in-one-night/'
+ 1254  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-get-white-teeth/'
+ 1255  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-for-yellow-teeth/'
+ 1256  sudo varnishadm 'ban req.url ==  /articles/white-smile/'
+ 1257  sudo varnishadm 'ban req.url ==  /articles/effective-ways-to-use-aloe-vera-for-weight-loss/'
+ 1258  sudo varnishadm 'ban req.url ==  /articles/party-hairstyles-for-long-hair/'
+ 1259  sudo varnishadm 'ban req.url ==  /articles/easy-ways-to-gain-weight-quickly/'
+ 1260  sudo varnishadm 'ban req.url ==  /articles/serious-side-effects-of-soy/'
+ 1261  sudo varnishadm 'ban req.url ==  /articles/right-way-to-use-a-primer/'
+ 1262  sudo varnishadm 'ban req.url ==  /articles/amazing-abdominal-exercises-for-women/'
+ 1263  sudo varnishadm 'ban req.url ==  /articles/fitness-expert-tips-to-lose-weight/'
+ 1264  sudo varnishadm 'ban req.url ==  /articles/9-best-and-effective-ways-to-lose-weight/'
+ 1265  sudo varnishadm 'ban req.url ==  /articles/extremely-effective-weight-loss-tips/'
+ 1266  sudo varnishadm 'ban req.url ==  /articles/kick-start-your-weight-loss-journey-health/'
+ 1267  sudo varnishadm 'ban req.url ==  /articles/tips-to-lose-weight-permanently/'
+ 1268  sudo varnishadm 'ban req.url ==  /articles/best-tips-to-keep-weight-off-for-good/'
+ 1269  sudo varnishadm 'ban req.url ==  /articles/are-you-really-ready-to-lose-weight/'
+ 1270  sudo varnishadm 'ban req.url ==  /articles/how-to-lose-weight-naturally-and-healthily/'
+ 1271  sudo varnishadm 'ban req.url ==  /articles/simple-effective-ways-to-lose-weight-everyday/'
+ 1272  sudo varnishadm 'ban req.url ==  /articles/fitness-experts-on-twitter-in-india/'
+ 1273  exit
+ 1274  sudo varnishadm "ban req.url ~ /articles/28-powerful-home-remedies-for-hair-growth/"
+ 1275  exit
+ 1276  sudo varnishadm "ban req.url ~ /articles/how-to-get-glowing-skin-in-7-days-with-day-by-day-instructions/"
+ 1277  sudo varnishadm "ban req.url ~ /articles/28-powerful-home-remedies-for-hair-growth/"
+ 1278  sudo varnishadm 'ban req.url ==  /articles/simple-home-remedies-for-removing-pregnancy-stretch-marks/'
+ 1279  sudo varnishadm 'ban req.url ==  /articles/home-remedies-to-treat-vaginal-odour-problem/'
+ 1280  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-get-rid-of-laryngitis/'
+ 1281  sudo varnishadm 'ban req.url ==  /articles/home-remedies-to-control-hair-fall/'
+ 1282  sudo varnishadm 'ban req.url ==  /articles/benefits-of-zucchini-for-skin-hair-and-health/'
+ 1283  sudo varnishadm 'ban req.url ==  /articles/fight-itchy-scalp-with-home-remedies/'
+ 1284  sudo varnishadm 'ban req.url ==  /articles/benefits-of-oxygen-facial-to-get-glowing-skin/'
+ 1285  sudo varnishadm 'ban req.url ==  /articles/health-benefits-of-chamomile-tea/'
+ 1286  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-cure-asthma/'
+ 1287  sudo varnishadm 'ban req.url ==  /articles/fishtail-braid-tutorial-picture-guide/'
+ 1288  sudo varnishadm 'ban req.url ==  /articles/get-rid-of-acne-scars-naturally/'
+ 1289  sudo varnishadm 'ban req.url ==  /articles/7-homemade-tips-to-cover-up-grey-hair/'
+ 1290  sudo varnishadm 'ban req.url ==  /articles/simple-tips-to-increase-height-naturally/'
+ 1291  sudo varnishadm 'ban req.url ==  /articles/effective-yoga-asanas-delivery-try/'
+ 1292  sudo varnishadm 'ban req.url ==  /articles/simple-home-remedies-to-remove-pimples-overnight/'
+ 1293  sudo varnishadm 'ban req.url ==  /articles/home-remedies-to-stop-peeling-fingertips/'
+ 1294  sudo varnishadm 'ban req.url ==  /articles/amazing-benefits-of-tea-tree-oil-for-skin-hair-and-health/'
+ 1295  sudo varnishadm 'ban req.url ==  /articles/the-lemonade-detox-diet-a-simple-recipe-for-weight-loss/'
+ 1296  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-treat-dry-nose/'
+ 1297  sudo varnishadm 'ban req.url ==  /articles/health-benefits-of-cardamom/'
+ 1298  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-for-hiccups/'
+ 1299  sudo crontab -l
+ 1300  exit
+ 1301  sudo varnishadm "ban req.url ~ /articles/amazing-benefits-uses-of-ginseng-tea/"
+ 1302  exit
+ 1303  sudo crontab -l
+ 1304  sudo s3cmd sync -r --encoding UTF-8 --exclude "w3tc/*" --exclude "backup-db/*" --exclude "cache/*" /var/www/ s3://backupthebridalbox/www-daily/
+ 1305  exit
+ 1306  sudo varnishadm 'ban req.url ==  articles/7-benefits-and-uses-of-honey/'
+ 1307  sudo varnishadm 'ban req.url ==  articles/benefits-of-ginger-for-skin-hair-and-health/'
+ 1308  sudo varnishadm 'ban req.url ==  articles/beauty-benefits-of-garlic/'
+ 1309  sudo varnishadm 'ban req.url ==  articles/benefits-of-dry-figs-for-skin-hair-and-health/'
+ 1310  sudo varnishadm 'ban req.url ==  articles/benefits-of-pumpkin-seeds-for-skin-hair-and-health/'
+ 1311  sudo crontab -l
+ 1312  sudo varnishadm "ban req.url ~ /articles/best-hair-transplant-centers-in-hyderabad/"
+ 1313  exit
+ 1314  sudo service varnish restart 
+ 1315  cd /etc/nginx/
+ 1316  ls
+ 1317  cd conf.d/
+ 1318  cat default.conf 
+ 1319  cat /var/www/nginx.conf 
+ 1320  ls
+ 1321  cat drop 
+ 1322  cat redirects 
+ 1323  cd /etc/varnish/
+ 1324  ls
+ 1325  cat default.vcl 
+ 1326  sudo service varnish restart 
+ 1327  clear
+ 1328  sudo varnishadm "ban req.url ~ /articles/28-powerful-home-remedies-for-hair-growth/"
+ 1329  sudo varnish -v
+ 1330  sudo varnishadm -v
+ 1331  varnishd -V
+ 1332  top
+ 1333  exit
+ 1334  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/js/single.min.js"
+ 1335  sudo varnishadm "ban req.url ~ /articles/*"
+ 1336  sudo service varnish restart 
+ 1337  sudo varnishadm "ban req.url ~ /"
+ 1338  sudo service varnish restart 
+ 1339  sudo varnishadm "ban req.url ~ /articles/top-10-acne-control-products/"
+ 1340  sudo varnishadm "ban req.url ~ /articles/best-handmade-soaps-available-in-india/"
+ 1341  sudo varnishadm "ban req.url ~ /articles/top-10-acne-control-products/"
+ 1342  sudo varnishadm "ban req.url ~ /articles/best-handmade-soaps-available-in-india/"
+ 1343  sudo varnishadm "ban req.url ~ /articles/"
+ 1344  sudo varnishadm "ban req.url ~ /trending/"
+ 1345  sudo varnishadm "ban req.url ~ /social/"
+ 1346  cd /var/www/wp-contents/themes/buddyboss-child/
+ 1347  cd /var/www/wp-content/themes/buddyboss-child/
+ 1348  htop
+ 1349  cd images/
+ 1350  ls
+ 1351  cd ..
+ 1352  cd images 
+ 1353  ls -la
+ 1354  cd ../
+ 1355  sudo cp -R images images_bak
+ 1356  ls
+ 1357  cd images
+ 1358  sudo apt-get install jpegoptim
+ 1359  sudo apt-get install optipng
+ 1360  find -type f -name "*.jpg" -exec jpegoptim --strip-all {} \;
+ 1361  find -type f -name "*.png" -exec optipng {} \;
+ 1362  find -type f -name "*.gif" -exec optipng {} \;
+ 1363  sudo chmod -R +r .
+ 1364  ls -la
+ 1365  pwd
+ 1366  mysql -uroot -psconaws
+ 1367  select count(*) from wp_options;
+ 1368  mysql -uroot -psconaws
+ 1369  sudo varnishadm 'ban req.url == /articles/effective-tips-to-get-rid-of-cellulite-fast/'
+ 1370  sudo varnishadm 'ban req.url == /articles/best-exercises-to-help-you-burn-2000-calories-a-day/'
+ 1371  sudo varnishadm 'ban req.url == /articles/simple-tips-to-lose-weight-in-10-days/'
+ 1372  sudo varnishadm 'ban req.url == /mobile/nailart/?ref=footer'
+ 1373  sudo varnishadm 'ban req.url == /mobile/nailart/'
+ 1374  sudo varnishadm 'ban req.url == /mobile/nailart/'
+ 1375  sudo varnishadm "ban req.url ~ /articles/hair-spa-products-and-benefits/"
+ 1376  sudo varnishadm "ban req.url ~ /articles/best-ponds-face-washes-available-in-india/"
+ 1377  exit
+ 1378  sudo varnishadm "ban req.url ~ /articles/*"
+ 1379  sudo varnishadm "ban req.url ~ /articles/best-ponds-face-washes-available-in-india/"
+ 1380  sudo varnishadm "ban req.url ~ /articles/hair-spa-products-and-benefits/"
+ 1381  sudo varnishadm "ban req.url ~ /articles/best-handmade-soaps-available-in-india/"
+ 1382  sudo varnishadm "ban req.url ~ /articles/top-10-acne-control-products/"
+ 1383  exit
+ 1384  sudo varnishadm "ban req.url ~ /articles/10-most-popular-bob-hairstyles/"
+ 1385  exit
+ 1386  sudo varnishadm "ban req.url ~ /articles/"
+ 1387  exit
+ 1388  sudo varnishadm "ban req.url ~ /articles/"
+ 1389  sudo varnishadm "ban req.url ~ /trending/"
+ 1390  sudo varnishadm "ban req.url ~ /social/"
+ 1391  sudo varnishadm "ban req.url ~ /articles/how-to-grow-hair-faster-15-tricks-that-worked-for-me/"
+ 1392  sudo varnishadm "ban req.url ~ /articles/weight-loss-smoothies-and-their-recipes/"
+ 1393  sudo varnishadm "ban req.url ~ /articles/effective-hair-masks-to-treat-hair-loss/"
+ 1394  sudo varnishadm "ban req.url ~ /articles/10-yoga-exercises-for-slimming-your-face/"
+ 1395  mysql
+ 1396  sudo service mysql restart
+ 1397  sudo service mysqld restart
+ 1398  sudo service mysql stop
+ 1399  sudo service mysql start
+ 1400  mysql
+ 1401  sudo varnishadm "ban req.url == /articles/simple-ways-to-remove-dark-circles-completely/"
+ 1402  sudo varnishadm "ban req.url ~ /articles/awesome-hairstyles-for-girls-with-long-hair/"
+ 1403  exit
+ 1404  sudo varnishadm "ban req.url ~ /articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/"
+ 1405  sudo tar cvzf sc424wp-core.tar.gz /var/www/*.php /var/www/*.txt 
+ 1406  sudo tar cvzf sc424wp-includes.tar.gz /var/www/wp-includes/
+ 1407  sudo tar cvzf sc424wp-admin.tar.gz /var/www/wp-admin/
+ 1408  ls -la
+ 1409  wget https://wordpress.org/latest.tar.gz
+ 1410  ls -la
+ 1411  tar -xvf latest.tar.gz 
+ 1412  ls -la
+ 1413  mv wordpress/ wordpress442/
+ 1414  cd wordpress442/
+ 1415  l
+ 1416  ls
+ 1417  ls -la
+ 1418  rm -f wp-config-sample.php 
+ 1419  clear
+ 1420  ls -la
+ 1421  rm -f wp-content/
+ 1422  rm -fr wp-content/
+ 1423  ls -la
+ 1424  sudo varnishadm "ban req.url ~ free-hair-transplant-consultation/
+ 1425  sudo varnishadm "ban req.url ~ free-hair-transplant-consultation/
+ 1426  ;
+ 1427  sudo varnishadm "ban req.url ~ free-hair-transplant-consultation/
+ 1428  sudo varnishadm "ban req.url ~ /free-hair-transplant-consultation/"
+ 1429  ;
+ 1430  sudo varnishadm "ban req.url ~ /free-hair-transplant-consultation/"
+ 1431  sudo varnishadm "ban req.url ~ /call-hairloss"
+ 1432  exit
+ 1433  cd /var/www/
+ 1434  sudo mv -r wp-admin/ wp-admin422/
+ 1435  sudo mv  wp-admin/ wp-admin422/
+ 1436  sudo mv wp-includes/ wp-includes422/
+ 1437  sud cp /home/ubuntu/wordpress442/wp-admin/ .
+ 1438  sudo cp /home/ubuntu/wordpress442/wp-admin/ .
+ 1439  sudo cp /home/ubuntu/wordpress442/wp-admin/ /var/www/
+ 1440  sudo cp -avr /home/ubuntu/wordpress442/wp-admin/ /var/www/
+ 1441  sudo cp -avr /home/ubuntu/wordpress442/wp-includes/ /var/www/
+ 1442  cp /home/ubuntu/wordpress442/*.php /var/www/
+ 1443  ls -la
+ 1444  sudo chown nginx:nginx -R wp-admin/
+ 1445  sudo chown nginx:nginx -R wp-includes/
+ 1446  cd wordpress442/
+ 1447  ls
+ 1448  mkdir wp-content
+ 1449  cd wp-content/
+ 1450  mkdir plugins
+ 1451  cd plugins/
+ 1452  wget https://downloads.wordpress.org/plugin/wordpress-seo.3.1.2.zip
+ 1453  ls -la
+ 1454  unzip wordpress-seo.3.1.2.zip 
+ 1455  l -la
+ 1456  sudo chown nginx:nginx -R wordpress-seo/
+ 1457  cd wordpress-seo/
+ 1458  ls -la
+ 1459  cd ..
+ 1460  sudo chmod -R 775 wordpress-seo/
+ 1461  cd wordpress-seo/
+ 1462  ls -la
+ 1463  cd ..
+ 1464  sudo mysqldump -u root -p stylecraze > stylecraze-march-29-2016.sql
+ 1465  sudo tar cvzf sc424wp-plugins.tar.gz /var/www/wp-content/plugins/
+ 1466  sudo tar cvzf sc424wp-themes.tar.gz /var/www/wp-content/themes/
+ 1467  clear
+ 1468  ls -la
+ 1469  mkdir bkps422
+ 1470  mkdir plugins
+ 1471  cd plugins/
+ 1472  cd ..
+ 1473  rmdir plugins/
+ 1474  cd bkps422/
+ 1475  mkdir plugins
+ 1476  cd plugins/
+ 1477  mv /var/www/wp-content/plugins/wordpress-seo/ /home/ubuntu/bkps422/plugins/
+ 1478  cd /home/ubuntu/
+ 1479  cd wordpress442/wp-content/plugins/
+ 1480  ls -la
+ 1481  cp -R wordpress-seo/ /var/www/wp-content/plugins/
+ 1482  cd /var/www/wp-content/plugins/
+ 1483  ls -la
+ 1484  exit
+ 1485  cd /var/log/nginx/
+ 1486  ls
+ 1487  tail -n 25 error.log
+ 1488  tail -n 25 access.log
+ 1489  tail -n 25 error.log.1
+ 1490  sudo varnishadm "ban req.url ~ /articles/trendy-and-quirky-rihannas-bob-hairstyles/"
+ 1491  htop
+ 1492  sudo varnishadm "ban req.url ~ /articles/"
+ 1493  sudo varnishadm "ban req.url ~ /trending/"
+ 1494  sudo varnishadm "ban req.url ~ /social/"
+ 1495  exit
+ 1496  htop
+ 1497  cd /etc/varnish/
+ 1498  cat default.vcl 
+ 1499  exit
+ 1500  sudo varnishadm 'ban req.url ==  /articles/home-remedies-to-treat-ear-congestion/'
+ 1501  sudo varnishadm 'ban req.url ==  /articles/effective-home-remedies-to-cure-constipation/'
+ 1502  sudo varnishadm 'ban req.url ==  /articles/how-to-get-rid-of-a-hickey/'
+ 1503  sudo varnishadm 'ban req.url ==  /articles/effective-tips-to-get-rid-of-cellulite-fast/'
+ 1504  sudo varnishadm 'ban req.url ==  /articles/easy-ways-to-get-rid-of-blackheads-on-nose/'
+ 1505  ls -la
+ 1506  cd wordpress442/
+ 1507  cd wp-content/plugins/
+ 1508  ls
+ 1509  wget https://downloads.wordpress.org/plugin/buddypress.2.5.1.zip
+ 1510  unzip buddypress.2.5.1.zip 
+ 1511  ls -la
+ 1512  sudo chown -R nginx:nginx buddypress/ 
+ 1513  exit
+ 1514  cd wordpress442/wp-content/plugins/
+ 1515  ls
+ 1516  wget https://downloads.wordpress.org/plugin/buddypress-followers.1.2.2.zip
+ 1517  unzip buddypress-followers.1.2.2.zip 
+ 1518  ls -la
+ 1519  sudo chown -R nginx:nginx buddypress-followers/
+ 1520  cd /etc/varnish/
+ 1521  cat default.vcl 
+ 1522  exit
+ 1523  sudo service nginx reload
+ 1524  exit
+ 1525  sudo varnishadm 'ban req.url ==  /articles/tayberry-best-health-benefits-and-nutritional-value/'
+ 1526  sudo varnishadm 'ban req.url ==  /articles/milk-protein-chart/'
+ 1527  sudo varnishadm 'ban req.url ==  /articles/amazing-health-benefits-of-currant-fruit/'
+ 1528  sudo varnishadm 'ban req.url ==  /articles/benefits-of-brown-cardamom-for-skin-hair-and-health/'
+ 1529  sudo varnishadm 'ban req.url ==  /articles/best-nutritional-videos/'
+ 1530  sudo varnishadm 'ban req.url ==  /articles/nutrition-foods-for-toddlers/'
+ 1531  sudo varnishadm 'ban req.url ==  /articles/instant-techniques-to-grow-tall-faster/'
+ 1532  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-plumeria-flowers/'
+ 1533  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-ixora-flowers/'
+ 1534  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-iris-flowers/'
+ 1535  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-oleander-flowers/'
+ 1536  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-pansy-flowers/'
+ 1537  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-dahlia-flowers/'
+ 1538  sudo varnishadm 'ban req.url ==  /articles/hollyhocks-benefits-for-skin-hair-and-health/'
+ 1539  sudo varnishadm 'ban req.url ==  /articles/fruits-and-vegetables-rich-in-potassium/'
+ 1540  sudo varnishadm 'ban req.url ==  /articles/health-benefits-of-bryony-roots/'
+ 1541  sudo varnishadm 'ban req.url ==  /articles/minerals-to-augment-the-vigour-of-your-skin-hair-and-health/'
+ 1542  sudo varnishadm 'ban req.url ==  /articles/health-benefits-of-organic-vegetables/'
+ 1543  sudo varnishadm 'ban req.url ==  /articles/how-to-prepare-soy-milk-soap/'
+ 1544  sudo varnishadm 'ban req.url ==  /articles/serious-effects-of-eating-too-much-sugar/'
+ 1545  sudo varnishadm 'ban req.url ==  /articles/studies-show-dark-chocolate-lowers-cholesterol/'
+ 1546  sudo varnishadm 'ban req.url ==  /articles/is-borage-oil-good-for-skin/'
+ 1547  sudo varnishadm 'ban req.url ==  /articles/therapeutic-nutrition-and-its-benefits/'
+ 1548  sudo varnishadm 'ban req.url ==  /articles/organic-foods-nutritious/'
+ 1549  sudo varnishadm 'ban req.url ==  /articles/amazing-uses-of-pumpkin-butter/'
+ 1550  sudo varnishadm 'ban req.url ==  /articles/is-olive-oil-good-for-scalp/'
+ 1551  sudo varnishadm 'ban req.url ==  /articles/how-to-make-lip-balm-with-cocoa-butter/'
+ 1552  sudo varnishadm 'ban req.url ==  /articles/mc-donalds-food-items-and-their-nutrition-facts/'
+ 1553  sudo varnishadm 'ban req.url ==  /articles/simple-ways-to-prepare-oat-soap/'
+ 1554  sudo varnishadm 'ban req.url ==  /articles/are-bilberries-good-for-your-eyes/'
+ 1555  sudo varnishadm 'ban req.url ==  /articles/best-natural-food-sources-folic-acid/'
+ 1556  sudo varnishadm 'ban req.url ==  /articles/natural-antibiotics-hiding-in-your-kitchen-cabinet/'
+ 1557  sudo varnishadm 'ban req.url ==  /articles/amazing-benefits-honey-bath/'
+ 1558  sudo varnishadm 'ban req.url ==  /articles/reasons-why-flaxseed-is-good-for-diabetics/'
+ 1559  sudo varnishadm 'ban req.url ==  /articles/nutritional-habits-that-you-should-cultivate/'
+ 1560  sudo varnishadm 'ban req.url ==  /articles/benefits-of-deadly-nightshade-for-skin-hair-and-health/'
+ 1561  sudo varnishadm 'ban req.url ==  /articles/interesting-uses-of-evaporated-milk/'
+ 1562  sudo varnishadm 'ban req.url ==  /articles/how-to-make-butter-tea-and-what-are-its-benefits/'
+ 1563  sudo varnishadm 'ban req.url ==  /articles/health-benefits-of-maiz-morado/'
+ 1564  sudo vi /etc/varnish/default.vcl 
+ 1565  exit
+ 1566  htop
+ 1567  sudo varnishadm 'ban req.url ==  /trending/easy-and-simple-mehndi-design-ideas/'
+ 1568  sudo varnishadm 'ban req.url ==  /trending/videos-that-make-the-ultimate-bridal-guide-for-skin-hair/'
+ 1569  sudo varnishadm 'ban req.url ==  /articles/top-most-beautiful-pakistani-women/'
+ 1570  sudo varnishadm 'ban req.url ==  /articles/most-beautiful-women-in-india/'
+ 1571  sudo varnishadm 'ban req.url ==  /trending/videos-featuring-the-best-bridal-mehendi-designs/'
+ 1572  sudo varnishadm 'ban req.url ==  /trending/exercise-and-diet-videos-that-can-be-your-weightloss-guide/'
+ 1573  sudo varnishadm 'ban req.url ==  /articles/simple-tips-to-increase-height-after-25-years-of-age/'
+ 1574  sudo varnishadm 'ban req.url ==  /reviews/himalaya-herbals-clarina-anti-acne-cream-review/'
+ 1575  sudo varnishadm 'ban req.url ==  /reviews/ashwini-hair-oil-review/'
+ 1576  clear
+ 1577  htop
+ 1578  screen
+ 1579  screen -ls
+ 1580  screen -r 28980
+ 1581  exit
+ 1582  sudo s3cmd sync -r -v --encoding UTF-8 --cache-file "/tmp/aws-local-md5" /var/www/wp-content/uploads/ s3://stylecrazeimagebk/13042016/
+ 1583  sudo s3cmd sync -r -v --encoding UTF-8  /var/www/wp-content/uploads/ s3://stylecrazeimagebk/13042016/
+ 1584  cd /
+ 1585  ls
+ 1586  ls -la
+ 1587  ls -a
+ 1588  cd /home/
+ 1589  ls
+ 1590  exit
+ 1591  screen
+ 1592  sudo s3cmd
+ 1593  sudo varnishadm "ban req.url ~ /articles/yoga-asanas-to-cure-tinnitus-hearing-problems/"
+ 1594  sudo varnishadm "ban req.url ~ /articles/amazing-benefits-of-tadasana-yoga-for-your-body/"
+ 1595  sudo varnishadm "ban req.url ~ /articles/effective-ramdev-yoga-asans-to-cure-rheumatoid-arthritis/"
+ 1596  sudo varnishadm "ban req.url ~ /articles/fight-away-white-hair-with-7-yoga-poses/"
+ 1597  sudo varnishadm "ban req.url ~ /articles/7-yoga-exercises-for-black-and-healthy-hair/"
+ 1598  sudo varnishadm "ban req.url ~ /new-design/"
+ 1599  sudo varnishadm 'ban req.url ==  /reviews/himalaya-herbals-protein-conditioner-repair-and-regeneration-review/'
+ 1600  sudo varnishadm 'ban req.url ==  /reviews/bajaj-brahmi-amla-hair-oil-review/'
+ 1601  sudo varnishadm 'ban req.url ==  /reviews/vaadi-herbals-anti-acne-soap-review/'
+ 1602  sudo varnishadm 'ban req.url ==  /reviews/keo-karpin-non-sticky-hair-oil-review/'
+ 1603  sudo varnishadm 'ban req.url ==  /reviews/himalaya-herbals-acne-n-pimple-cream/'
+ 1604  sudo varnishadm 'ban req.url ==  /reviews/garnier-white-complete-multi-action-fairness-cream-review/'
+ 1605  sudo varnishadm 'ban req.url ==  /reviews/banjaras-multani-with-aloe-vera-face-pack-review/'
+ 1606  sudo varnishadm 'ban req.url ==  /trending/baking-gifs-that-are-simply-satisfying-to-the-soul/'
+ 1607  sudo varnishadm 'ban req.url ==  /articles/hair-spa-products-and-benefits/'
+ 1608  sudo varnishadm 'ban req.url ==  /articles/top-10-acne-control-products/'
+ 1609  sudo varnishadm 'ban req.url ==  /articles/best-handmade-soaps-available-in-india/'
+ 1610  sudo varnishadm 'ban req.url ==  /articles/best-ponds-face-washes-available-in-india/'
+ 1611  sudo service nginx reload
+ 1612  sudo varnishadm 'ban req.url ==  /reviews/lakme-eyeconic-kajal-review-swatch/'
+ 1613  exit
+ 1614  sudo varnishadm "ban req.url ~ /articles/"
+ 1615  sudo service mysql status
+ 1616  exit
+ 1617  htop
+ 1618  exit
+ 1619  sudo varnishadm "ban req.url == /"
+ 1620  sudo varnishadm "ban req.url ~ /articles/"
+ 1621  exit
+ 1622  sudo varnisadm "ban req.url ~ /articles/"
+ 1623  sudo varnishadm "ban req.url ~ /articles/"
+ 1624  sudo varnishadm "ban req.url ~ /articles/effective-home-remedies-for-treating-headache/"
+ 1625  exit
+ 1626  cd /etc/varnish/
+ 1627  ls
+ 1628  cat default
+ 1629  cat default.vcl 
+ 1630  vim default.vcl 
+ 1631  exit
+ 1632  htop
+ 1633  htop
+ 1634  cd /var/www/wp-content/
+ 1635  ls
+ 1636  cd /var/log/
+ 1637  cd nginx/
+ 1638  ls
+ 1639  tail error.log
+ 1640  tail error.log.1
+ 1641  htop
+ 1642  screen -r
+ 1643  screen -list
+ 1644  screen -r
+ 1645  exit
+ 1646  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/combined1.min.css"
+ 1647  sudo varnishadm "ban req.url ~ /articles/"
+ 1648  sudo varnishadm "ban req.url ~ /articles/kiss-skin-woes-good-bye-homemade-face-packs-with-besan/"
+ 1649  exit
+ 1650  sudo varnishadm 'ban req.url == /contactus' 
+ 1651  exit 
+ 1652  sudo varnishadm 'ban req.url ==  /articles/best-sunscreens-available-in-india-our-top-10/'
+ 1653  sudo varnishadm 'ban req.url ==  /articles/best-mac-foundations/'
+ 1654  sudo varnishadm 'ban req.url ==  /articles/best-sunscreen-lotions-for-oily-skin/'
+ 1655  sudo varnishadm 'ban req.url ==  /articles/best-tan-removal-creams-available-in-india/'
+ 1656  sudo varnishadm 'ban req.url ==  /articles/best-mac-matte-lipstick-shades/'
+ 1657  sudo varnishadm 'ban req.url ==  /articles/top-6-foundations-for-oily-skin/'
+ 1658  sudo varnishadm 'ban req.url ==  /articles/top-5-compact-powders-for-oily-skin/'
+ 1659  sudo varnishadm 'ban req.url ==  /articles/kryolan-makeup-kits-available-in-india/'
+ 1660  sudo varnishadm 'ban req.url ==  /articles/best-selling-tom-ford-perfumes/'
+ 1661  sudo varnishadm 'ban req.url ==  /articles/best-face-creams-to-use-during-winters/'
+ 1662  exit
+ 1663  mysql -h client.incnut.com
+ 1664  mysql -h 52.76.249.12
+ 1665  mysql -h client.incnut.com
+ 1666  sudo varnishadm 'ban req.url ==  /articles/best-selling-tom-ford-perfumes/'
+ 1667  mysql -h client.incnut.com
+ 1668  mysql -h client.incnut.com -uroot -p
+ 1669  mysql -h client.incnut.com -ustylecraze -p
+ 1670  sudo varnishadm 'ban req.url ==  /articles/7-benefits-and-uses-of-honey/'
+ 1671  sudo varnishadm 'ban req.url ==  /articles/benefits-of-ginger-for-skin-hair-and-health/'
+ 1672  sudo varnishadm 'ban req.url ==  /articles/beauty-benefits-of-garlic/'
+ 1673  sudo service svnserve restart
+ 1674  sudo service svnserve stop
+ 1675  sudo service svnserve kill
+ 1676  sudo service svnserve stop
+ 1677  sudo service svnserve start
+ 1678  exit
+ 1679  sudo varnishadm "ban req.url ~ /trending/amazing-videos-on-how-to-make-detox-water/"
+ 1680  exit
+ 1681  cd /var/log/nginx
+ 1682  tail -n 25 error.log
+ 1683  tail -n 25 error.log.1
+ 1684  sudo varnishadm "ban req.url ~ /articles/"
+ 1685  sudo varnishadm "ban req.url ~ /trending/"
+ 1686  sudo varnishadm "ban req.url ~ /social/"
+ 1687  sudo varnishadm "ban req.url ~ /articles/top-6-foundations-for-oily-skin/"
+ 1688  exit
+ 1689  sudo varnishadm 'ban req.url ==  /articles/benefits-of-dry-figs-for-skin-hair-and-health/'
+ 1690  sudo varnishadm 'ban req.url ==  /articles/benefits-of-pumpkin-seeds-for-skin-hair-and-health/'
+ 1691  crontab -l
+ 1692  su root
+ 1693  su -
+ 1694  sudo crontab -l
+ 1695  cd /etc/cron.daily/
+ 1696  ls
+ 1697  cat backupToS3 
+ 1698  sudo service svnserve restart 
+ 1699  exit
+ 1700  sudo mysqldump -u root -p nxdb > /tmp/nxdb.sql
+ 1701  mysqldump -u root -p nxdb > /tmp/nxdb.sql
+ 1702  exit
+ 1703  sudo varnishadm "ban req.url == /trending/"
+ 1704  exit
+ 1705  sudo varnishadm 'ban req.url ==  /articles/25-most-beautiful-indian-bridal-looks/'
+ 1706  sudo varnishadm 'ban req.url ==  /articles/5-exercises-and-5-foods-to-reduce-belly-fat/'
+ 1707  sudo varnishadm 'ban req.url ==  /articles/yoga-asanas-to-reduce-belly-fat/'
+ 1708  sudo varnishadm 'ban req.url ==  /articles/best-yoga-asanas-for-losing-weight-quickly-and-easily/'
+ 1709  sudo varnishadm 'ban req.url ==  /articles/types-brain-waves-effects-meditation/'
+ 1710  sudo varnishadm 'ban req.url ==  /articles/is-colon-cleanse-the-best-weight-loss-therapy/'
+ 1711  exit
+ 1712  sudo varnishadm "ban req.url ~ /articles/"
+ 1713  sudo varnishadm 'ban req.url ==  /articles/pimple-problem-problem-acne-proof-skin/'
+ 1714  sudo varnishadm 'ban req.url ==  /articles/blackheads-and-whiteheads-beginning-of-acne/'
+ 1715  sudo varnishadm 'ban req.url ==  /articles/healthy-facial-skin-tips-for-you/'
+ 1716  sudo varnishadm 'ban req.url ==  /articles/beauty-tips-for-winter/'
+ 1717  sudo varnishadm 'ban req.url ==  /articles/5-must-consider-organic-skin-care-tips/'
+ 1718  sudo varnishadm 'ban req.url ==  /articles/easy-tips-to-protect-your-hair-from-humidity/'
+ 1719  sudo varnishadm 'ban req.url ==  /articles/monsoon-skin-care-tips/'
+ 1720  sudo varnishadm 'ban req.url ==  /articles/conditioners-why-use/'
+ 1721  sudo varnishadm 'ban req.url ==  /articles/summer-skin-care/'
+ 1722  sudo varnishadm 'ban req.url ==  /articles/latest-beauty-benefits-now-possible-due-to-modern-technology/'
+ 1723  sudo varnishadm 'ban req.url ==  /articles/regular-hair-care-tips/'
+ 1724  sudo varnishadm 'ban req.url ==  /articles/what-affects-your-skin/'
+ 1725  sudo varnishadm 'ban req.url ==  /articles/tips-for-basic-hair-care/'
+ 1726  sudo varnishadm 'ban req.url ==  /articles/4-simple-ways-to-salvage-a-bad-hair-day/'
+ 1727  sudo varnishadm 'ban req.url ==  /articles/skin-screams-no-alcohol-please/'
+ 1728  sudo varnishadm 'ban req.url ==  /articles/natures-goodness-for-your-skin/'
+ 1729  sudo varnishadm 'ban req.url ==  /articles/natural-forumaltions-to-treat-dandruff/'
+ 1730  sudo varnishadm 'ban req.url ==  /articles/home-remedies-for-healthy-skin/'
+ 1731  sudo varnishadm 'ban req.url ==  /articles/skin-care-at-every-age-best-home-remedies-that-can-be-used-for-skin-care-no-matter-what-the-age/'
+ 1732  sudo varnishadm 'ban req.url ==  /articles/help-yourself-home-remedies/'
+ 1733  sudo varnishadm 'ban req.url ==  /articles/hack-alert-getting-rid-stinky-armpits-matter-seconds/'
+ 1734  sudo varnishadm 'ban req.url ==  /articles/looking-for-beauty-tips-that-can-save-you-money-we-have-25-such-tips/'
+ 1735  sudo varnishadm 'ban req.url ==  /articles/most-common-skin-problems-you-face-during-summers-and-their-solutions/'
+ 1736  sudo varnishadm 'ban req.url ==  /articles/music-therapy-for-better-health/'
+ 1737  sudo varnishadm 'ban req.url ==  /articles/meditation-dance-and-its-benefits/'
+ 1738  sudo varnishadm 'ban req.url ==  /articles/bedazzled/'
+ 1739  sudo varnishadm 'ban req.url ==  /articles/6-must-haves-in-your-closet/'
+ 1740  sudo varnishadm 'ban req.url ==  /articles/the-big-no-nos-of-hair-styling/'
+ 1741  sudo varnishadm 'ban req.url ==  /articles/best-of-lakme-fashion-week-summer-resort-2013-part-1/'
+ 1742  sudo varnishadm 'ban req.url ==  /articles/9-biggest-bridal-hair-mistakes/'
+ 1743  sudo varnishadm 'ban req.url ==  /articles/best-of-india-international-jewellery-week-2013-my-take/'
+ 1744  sudo varnishadm 'ban req.url ==  /articles/entwined-in-braid-hairstyles/'
+ 1745  sudo varnishadm 'ban req.url ==  /articles/10-top-trending-funky-wavy-hairstyles/'
+ 1746  sudo varnishadm 'ban req.url ==  /articles/ultimate-garlic-peeling-trick/'
+ 1747  sudo varnishadm 'ban req.url ==  /articles/sweet-recipes-for-raksha-bandhan/'
+ 1748  sudo varnishadm 'ban req.url ==  /articles/simple-diet-tips-for-college-going-women/'
+ 1749  sudo varnishadm 'ban req.url ==  /articles/how-to-lose-weight-by-cutting-down-on-dairy-products-and-nuts/'
+ 1750  sudo varnishadm 'ban req.url ==  /articles/benefits-of-winter-walking/'
+ 1751  sudo varnishadm 'ban req.url ==  /articles/8-beauty-products-that-you-should-always-carry-in-your-gym-bag/'
+ 1752  sudo varnishadm 'ban req.url ==  /articles/why-should-we-not-skip-the-warmup/'
+ 1753  sudo varnishadm 'ban req.url ==  /articles/simple-tricks-to-fight-early-morning-blues/'
+ 1754  sudo varnishadm 'ban req.url ==  /articles/peel-orange-like-boss/'
+ 1755  sudo varnishadm 'ban req.url ==  /articles/be-fit-with-me-fitness-week-1-fitness-workout-2-walking/'
+ 1756  sudo varnishadm 'ban req.url ==  /articles/the-one-snack-you-need-to-stop-buying-now/'
+ 1757  sudo varnishadm 'ban req.url ==  /articles/pms-diet-a-complete-guide/'
+ 1758  sudo varnishadm 'ban req.url ==  /articles/best-lunch-break-workouts-for-a-healthy-you/'
+ 1759  sudo varnishadm 'ban req.url ==  /articles/simple-steps-to-practice-jacobson-relaxation-technique/'
+ 1760  sudo varnishadm 'ban req.url ==  /articles/can-reflexology-help-infertility/'
+ 1761  sudo varnishadm 'ban req.url ==  /articles/amazing-benefits-of-10-minutes-brisk-workout/'
+ 1762  sudo varnishadm 'ban req.url ==  /articles/dorm-room-workouts/'
+ 1763  sudo varnishadm 'ban req.url ==  /articles/courses-on-udemy-for-weight-loss/'
+ 1764  sudo varnishadm 'ban req.url ==  /articles/courses-on-udemy-for-fitness/'
+ 1765  sudo varnishadm 'ban req.url ==  /articles/courses-on-udemy-for-diet/'
+ 1766  sudo varnishadm 'ban req.url ==  /articles/things-naturally-fit-people-do-differently/'
+ 1767  sudo varnishadm 'ban req.url ==  /articles/30-minute-interval-training-workout-to-burn-fat-fast/'
+ 1768  sudo varnishadm 'ban req.url ==  /articles/lazy-ways-to-flatten-your-tummy/'
+ 1769  sudo varnishadm "ban req.url ~ /articles/best-perfume-for-women-our-top-10/"
+ 1770  sudo varnishadm "ban req.url ~ /articles/best-selling-tom-ford-perfumes/"
+ 1771  cd /var/www/fb_integration/
+ 1772  sudo vim webhook.php 
+ 1773  sudo varnishadm "ban req.url ~ /trending/"
+ 1774  sudo varnishadm "ban req.url ~ /social/"
+ 1775  date
+ 1776  sudo varnishadm "ban req.url ~ /trending/"
+ 1777  sudo varnishadm "ban req.url ~ /social/"
+ 1778  sudo varnishadm "ban req.url ~ /articles/"
+ 1779  sudo varnishadm "ban req.url ~ /trending/"
+ 1780  sudo varnishadm "ban req.url ~ /articles/"
+ 1781  sudo varnishadm "ban req.url ~ /trending/"
+ 1782  sudo varnishadm "ban req.url ~ /social/"
+ 1783  sudo varnishadm "ban req.url ~ /*"
+ 1784  ls -a /var/www/wp-content/
+ 1785  eit
+ 1786  exit
+ 1787  sudo service mysql restart
+ 1788  sudo service mysql restart 
+ 1789  sudo service php5-fpm restart
+ 1790  sudo service nginx restart
+ 1791  history | grep "mysql"
+ 1792  sudo mysqldump -u root -p stylecraze > sc_db_17-05-2016.sql
+ 1793  exit 
+ 1794  tar -cvzf db-17-05.tat.gz sc_db_17-05-2016.sql 
+ 1795  ls -lh
+ 1796  mv db-17-05.tat.gz db-17-05.tar.gz 
+ 1797  exit
+ 1798  ls -lh
+ 1799  sudo varnishadm "ban req.url ~ /dafni/"
+ 1800  sudo varnishadm "ban req.url  == /dafni/"
+ 1801  exit
+ 1802  sudo varnishadm "ban req.url  == /articles/amazing-benefits-of-bone-broth/"
+ 1803  exit
+ 1804  sudo
+ 1805  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1806  sudo varnishadm "ban req.url ~ /articles/special-k-diet-and-it-help-in-losing-weight/"
+ 1807  sudo varnishadm "ban req.url ~ /articles/"
+ 1808  sudo varnishadm "ban req.url ~ /trending/"
+ 1809  sudo varnishadm "ban req.url ~ /socia"
+ 1810  sudo varnishadm "ban req.url ~ /social/"
+ 1811  sudo varnishadm "ban req.url ~ /articles/"
+ 1812  sudo varnishadm "ban req.url ~ /social/"
+ 1813  sudo varnishadm "ban req.url ~ /trending/"
+ 1814  sudo varnishadm "ban req.url  == /votre/"
+ 1815  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1816  sudo varnishadm "ban req.url  == /dafni/"
+ 1817  exit
+ 1818  sudo varnishadm "ban req.url  == /votre/"
+ 1819  sudo varnishadm "ban req.url  == /dafni/"
+ 1820  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1821  sudo varnishadm "ban req.url ~ /articles/"
+ 1822  sudo varnishadm "ban req.url ~ /trending/"
+ 1823  sudo varnishadm "ban req.url ~ /social/"
+ 1824  sudo  service varnish restart
+ 1825  sudo varnishadm "ban req.url  == /dafni"
+ 1826  sudo varnishadm "ban req.url  == /dafni/"
+ 1827  sudo varnishadm "ban req.url  ~ /dafni"
+ 1828  sudo varnishadm "ban req.url  == /dafni/"
+ 1829  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1830  sudo varnishadm "ban req.url  == /votre/"
+ 1831  exit
+ 1832  sudo varnishadm "ban req.url  == /dafni/"
+ 1833  sudo varnishadm "ban req.url  ~ /dafni"
+ 1834  sudo varnishadm "ban req.url  == /votre/"
+ 1835  sudo varnishadm "ban req.url ~ /votre"
+ 1836  sudo varnishadm "ban req.url  ~ /dafni/"
+ 1837  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1838  sudo varnishadm "ban req.url  == /dafni-incredibly-fast"
+ 1839  sudo varnishadm "ban req.url  == /votre/"
+ 1840  sudo varnishadm "ban req.url  == /votre"
+ 1841  sudo varnishadm "ban req.url  ~ /dafni/"
+ 1842  sudo varnishadm "ban req.url  == /votre"
+ 1843  sudo varnishadm "ban req.url  == /votre/"
+ 1844  sudo varnishadm "ban req.url  == /dafni-incredibly-fast"
+ 1845  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1846  sudo varnishadm "ban req.url  == /votre/"
+ 1847  sudo varnishadm "ban req.url  == /dafni-incredibly-fast/"
+ 1848  sudo varnishadm "ban req.url  ~ /dafni/"
+ 1849  sudo varnishadm "ban req.url ~ /dafni/"
+ 1850  sudo varnishadm "ban req.url ~ /dafni-incredibly-fast/"
+ 1851  sudo varnishadm "ban req.url ~ /dafni/"
+ 1852  exi
+ 1853  exit
+ 1854  sudo varnishadm "ban req.url ~ /articles/what-is-kukkutasana-yoga-and-benefits/"
+ 1855  sudo varnishadm "ban req.url ~ /trending/this-woman-bakes-cakes-youd-never-want-to-cut/"
+ 1856  sudo varnishadm "ban req.url ~ /trending/how-to-make-this-brilliant-rainbow-smoothie/"
+ 1857  exit
+ 1858  sudo varnishadm "ban req.url ~ /articles/"
+ 1859  sudo varnishadm "ban req.url ~ /dafni-incredibly-fast/"
+ 1860  sudo varnishadm "ban req.url ~ /dafni/"
+ 1861  sudo varnishadm "ban req.url ~ /dafni-incredibly-fast/"
+ 1862  exit
+ 1863  history | grep "min.css"
+ 1864  ls -la
+ 1865  wget https://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.1.zip
+ 1866  cd w3totalcache/
+ 1867  ls
+ 1868  cd ..
+ 1869  ls -la
+ 1870  cd /var/www/wp-content/plugins/
+ 1871  ls -la
+ 1872  cd w3-total-cache/
+ 1873  ls -la
+ 1874  cd var/www/wp-content/plugins/
+ 1875  sudo varnishadm "ban req.url ~ /dafni-incredibly-fast/"
+ 1876  sudo varnishadm "ban req.url ~ /dafni/"
+ 1877  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/Dafni/images/amazon.png"
+ 1878  sudo varnishadm "ban req.url ~ dafni"
+ 1879  sudo varnishadm "ban req.url ~ /dafni/"
+ 1880  sudo varnishadm "ban req.url ~ /dafni-incredibly-fast/"
+ 1881  exit
+ 1882  cd /etc/nginx/conf.d/
+ 1883  ls
+ 1884  cat default.conf 
+ 1885  ls
+ 1886  exit
+ 1887  sudo varnishadm "ban req.url ~ /solutions/"
+ 1888  exit
+ 1889  sudo varnishadm "ban req.url ~ /solutions/"
+ 1890  sudo varnishadm "ban req.url ~ /dafni/"
+ 1891  sudo varnishadm "ban req.url ~ /trending/"
+ 1892  sudo varnishadm "ban req.url ~ /articles/"
+ 1893  sudo varnishadm "ban req.url ~ /social/"
+ 1894  exit
+ 1895  sudo varnishadm "ban req.url ~ /dafni"
+ 1896  sudo varnishadm "ban req.url ~ /trending/"
+ 1897  sudo varnishadm "ban req.url ~ /social/"
+ 1898  sudo varnishadm "ban req.url ~ /articles/"
+ 1899  history | grep "min.css"
+ 1900  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/combined1.min.css"
+ 1901  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/css/combined1.min.css"
+ 1902  sudo varnishadm "ban req.url ~ /dafni/"
+ 1903  tar -czvf stylecraze-4.4.2-live-file-wp-admin.tar.gz /var/www/wp-admin/
+ 1904  tar -czvf stylecraze-4.4.2-live-file-wp-includes.tar.gz /var/www/wp-includes/
+ 1905  clear
+ 1906  ls
+ 1907  ls
+ 1908  ls -la
+ 1909  ls
+ 1910  ls -a
+ 1911  ls -la
+ 1912  ls
+ 1913  cd sharma
+ 1914  ls -la
+ 1915  cd wordpress/
+ 1916  ls
+ 1917  ls -la
+ 1918  cd ..
+ 1919  cd wp-includes/
+ 1920  ls -la
+ 1921  cd ..
+ 1922  ls -la
+ 1923  cp ~/sharma/wordpress/wp-admin/ /var/www/
+ 1924  ls
+ 1925  ls -la
+ 1926  sudo varnishadm "ban req.url ~ /wp-api/"
+ 1927  cd /var/www/wp-content/themes/buddyboss-child/
+ 1928  ls
+ 1929  cd dafnistore/
+ 1930  ls
+ 1931  history | grep "jpg"
+ 1932  find -type f -name "*.jpg" -exec jpegoptim --strip-all {} \;
+ 1933  sudo chmod -R +r .
+ 1934  ls
+ 1935  cd images/
+ 1936  ls
+ 1937  ls -la
+ 1938  sudo varnishadm "ban req.url ~ dafnistore"
+ 1939  sudo varnishadm "ban req.url ~ /articles/simple-ways-to-lose-weight-from-thighs/"
+ 1940  sudo varnishadm "ban req.url ~ /solutions/"
+ 1941  cd  /var/www/solutions
+ 1942  l -la
+ 1943  ls -la
+ 1944  cd ..
+ 1945  ls -la
+ 1946  sudo vi index.php
+ 1947  sudo varnishadm "ban req.url ~ /solutions/"
+ 1948  sudo vi /etc/nginx/conf.d/redirects
+ 1949  sudo service nginx reload
+ 1950  exit
+ 1951  ls
+ 1952  ls clca.sh 
+ 1953  sudo varnishadm "ban req.url ~ /dafni/"
+ 1954  sudo varnishadm "ban req.url ~ /articles/*"
+ 1955  sudo varnishadm "ban req.url ~ /trending/*"
+ 1956  sudo varnishadm "ban req.url ~ /social/*"
+ 1957  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/dafnistore/images/*"
+ 1958  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/dafnistore/css/*"
+ 1959  ls
+ 1960  ls -a
+ 1961  ls -la
+ 1962  cd ..
+ 1963  cd dafnistore/images/
+ 1964  ls -la
+ 1965  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/dafnistore/images/*"
+ 1966  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/dafnistore/css/*"
+ 1967  cd /etc/nginx/conf.d/
+ 1968  ls
+ 1969  cat default.conf 
+ 1970  vim default.conf 
+ 1971  exit
+ 1972  cd /etc/nginx/conf.d/
+ 1973  cat default.conf 
+ 1974  cd /etc/nginx/conf.d/
+ 1975  sudo vim default.conf 
+ 1976  sudo service nginx restart
+ 1977  sudo varnishadm "ban req.url ~ wp-api"
+ 1978  cd /var/log/
+ 1979  ls
+ 1980  cd nginx/
+ 1981  ls
+ 1982  tail -n 15 error.log
+ 1983  watch tail -n 15 error.log
+ 1984  tail -n 15 access.log
+ 1985  watch tail -n 15 access.log
+ 1986  cat access.log | grep "wp-api"
+ 1987  cat access.log | grep "wp-api" | tail -n 15
+ 1988  watch cat access.log | grep "wp-api" | tail -n 15
+ 1989  watch cat access.log | grep "wp-api"
+ 1990  cat access.log | grep "wp-api"
+ 1991  watch cat access.log | grep "wp-api"
+ 1992  exit
+ 1993  sudo varnishadm "ban req.url ~ /trending/how-to-use-egg-white-to-remove-upper-lip-hair/"
+ 1994  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/*"

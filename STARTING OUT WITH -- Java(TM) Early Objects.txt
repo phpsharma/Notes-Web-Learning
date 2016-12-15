@@ -1,0 +1,50 @@
+STARTING OUT WITH -- Java(TM) Early Objects
+FIFTH EDITION
+Author: Tony Gaddis
+Haywood Community College
+
+Chapter 1 Introdution to Computers and Java
+
+1.1 Introduction
+1.2 Why Program
+1.3 Computer Systems: Hardware and Software
+1.4 Programming Language
+1.5 What is a Program Made of?
+1.6 The Programming Process
+1.7 Object Oriented Programming
+1.8 Review Questions and Exercises
+1.9 Programming Challenges
+
+Chapter 2 Java Fundamentals
+
+2.1 The Parts of a Java Program
+2.2 The System.out.print and System.out.println Methods, and JAVA API
+2.3 Variables and Literals
+2.4 Primitive Data Types
+2.5 Arthmetic Operators
+2.6 Combined  Assignment Operators
+2.7 Conversion between Primitive Data Types
+2.8 Creating Named Constants with final 
+2.9 The string Class
+2.10 Scope
+2.11 Comments
+2.12 Programming Style
+2.13 Reading Keyboard Input
+2.14 Dialog Boxes
+2.15 The System.out.printf Method
+2.16 Common Errors to avoid
+
+
+Chapter 3 A First Look at Classes and Objects
+3.1 Classes
+3.2 More about Passing Arguments
+3.3 Instance Fields and Methods
+3.4 Constructors
+3.5 A BankAccount Class
+3.6 Classes, Variables, and Scope
+3.7 Packages and import Statements
+3.8 Focus on Object Oriented Design: Finding the Classes and their Responsibilities
+3.9 Common Errors to Avoid
+3.10 Review Questions and Exercises 
+3.11 Programming challenges
+3.12 

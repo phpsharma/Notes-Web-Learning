@@ -1,0 +1,1000 @@
+  952  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+  953  exit
+  954  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/css/combined1.min.css"
+  955  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/tools/css/style.css"
+  956  exit
+  957  ls -la
+  958  sudo varnishadm "ban req.url == /articles/common-problems-of-adolescence_00381378/"
+  959  exit
+  960  sudo varnishadm "ban.url ."
+  961  sudo varnishadm "ban req.url ~ /"
+  962  exit
+  963  sudo varnishadm "ban req.url == /articles/caribou-coloring-pages_00374108/"
+  964  exit
+  965  sudo varnishadm "ban req.url ~ /print-coloring-image/"
+  966  exit
+  967  htop
+  968  sudo varnishadm "ban req.url ~ /baby/"
+  969  sudo varnishadm "ban req.url == /success/"
+  970  exit
+  971  ls
+  972  exit
+  973  sudo varnishadm "ban req.url == /about-us/"
+  974  sudo varnishadm "ban req.url == /contact-us/"
+  975  exit
+  976  htop
+  977  exit
+  978  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/tools/css/style.css"
+  979  exit
+  980  sudo varnishadm "ban req.url == /articles/9th-week-pregnancy-symptoms-baby-development_0074/"
+  981  exit
+  982  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/tools/css/style.css"
+  983  sudo varnishadm "ban req.url == /articles/scientific-methods-of-gender-determination_0095722/"
+  984  sudo varnishadm "ban req.url == /articles/ring-on-a-string-gender-prediction-what-are-you-having_00111745/"
+  985  sudo varnishadm "ban req.url == /articles/3rd-month-pregnancy-care-expect-dos-donts_0076764/"
+  986  sudo varnishadm "ban req.url == /articles/5th-month-pregnancy-care-expect-dos-donts_0078434/"
+  987  sudo varnishadm "ban req.url == /articles/everything-you-need-to-pack-in-your-hospital-bag-for-a-c-section_00328019/"
+  988  sudo varnishadm "ban req.url == /articles/9th-week-pregnancy-symptoms-baby-development_0074/"
+  989  cd /etc/php5/fpm/conf.d/
+  990  ls
+  991  cd /var/log/nginx/
+  992  ls
+  993  tail error.log
+  994  watch tail -n 15 error.log
+  995  tail -n 25 error.log
+  996  sudo varnishadm "ban req.url ~ /wp-json/"
+  997  exit
+  998  clear
+  999  tail -n 25 error.log
+ 1000  cd /var/log/nginx/
+ 1001  tail -n 25 error.log
+ 1002  watch tail -n 15 error.log
+ 1003  sudo varnishadm "ban req.url == /articles/is-it-safe-to-eat-watermelon-during-pregnancy_00354868/"
+ 1004  sudo varnishadm "ban req.url == /articles/health-benefits-of-pumpkin-and-pumpkin-seeds_00355471/"
+ 1005  sudo varnishadm "ban req.url == /articles/safe-eat-oranges-pregnancy_0081702/"
+ 1006  sudo varnishadm "ban req.url == /articles/is-it-safe-to-eat-grapes-during-pregnancy_00355498/"
+ 1007  sudo varnishadm "ban req.url == /articles/safe-eat-mango-pregnancy_0074563/"
+ 1008  sudo varnishadm "ban req.url == /articles/safe-use-heating-pad-pregnancy_0078218/"
+ 1009  sudo varnishadm "ban req.url == /articles/eating-pineapple-help-induce-labor_0076273/"
+ 1010  sudo varnishadm "ban req.url == /articles/is-it-safe-to-eat-watermelon-during-pregnancy_00354868/"
+ 1011  sudo varnishadm "ban req.url == /articles/health-benefits-of-pumpkin-and-pumpkin-seeds_00355471/"
+ 1012  sudo varnishadm "ban req.url == /articles/safe-eat-oranges-pregnancy_0081702/"
+ 1013  sudo varnishadm "ban req.url == /articles/is-it-safe-to-eat-grapes-during-pregnancy_00355498/"
+ 1014  sudo varnishadm "ban req.url == /articles/safe-eat-mango-pregnancy_0074563/"
+ 1015  sudo varnishadm "ban req.url == /articles/safe-use-heating-pad-pregnancy_0078218/"
+ 1016  sudo varnishadm "ban req.url == /articles/eating-pineapple-help-induce-labor_0076273/"
+ 1017  sudo varnishadm "ban req.url == /articles/preschools-in-chicago-for-your-little-one_00388062/"
+ 1018  sudo varnishadm "ban req.url == /articles/fun-and-creative-spring-activities-for-toddlers_00379936/"
+ 1019  sudo varnishadm "ban req.url == /articles/rainbow-craft-ideas-for-kids_00377845/"
+ 1020  exit
+ 1021  sudo varnishadm "ban req.url == /articles/teen-pregnancy-and-statistics_00361369/"
+ 1022  sudo varnishadm "ban.url ."
+ 1023  sudo varnishadm "ban req.url ~ /"
+ 1024  top
+ 1025  free
+ 1026  uptime
+ 1027  sudo service tomcat6 status
+ 1028  sudo service tomcat6 start
+ 1029  htop
+ 1030  mysql
+ 1031  mysql -uroot
+ 1032  history | grep "mysql"
+ 1033  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1034  sudo service mysql restart
+ 1035  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1036  htop
+ 1037  exit
+ 1038  top
+ 1039  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1040  sudo varnishadm "ban req.url == /name/haadiya/"
+ 1041  exit
+ 1042  sudo varnishadm "ban req.url == /articles/colorful-rainbow-coloring-pages-for-your-little-ones_0082124/"
+ 1043  sudo varnishadm "ban req.url == /articles/is-it-safe-to-do-aerobics-during-pregnancy_0097422/"
+ 1044  sudo varnishadm "ban req.url == /articles/sponsored_00352888/"
+ 1045  exit
+ 1046  sudo varnishadm "ban req.url == /articles/leaking-amniotic-fluid-during-pregnancy_00330901/"
+ 1047  sudo varnishadm "ban req.url == /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1048  sudo varnishadm "ban req.url == /forums/"
+ 1049  ls 7-F*
+ 1050  ls -la 7-F*
+ 1051  ls -la
+ 1052  clear
+ 1053  top
+ 1054  clear
+ 1055  exit
+ 1056  htop
+ 1057  sudo kill -9 13487
+ 1058  htop
+ 1059  sudo kill -9 14596
+ 1060  htop
+ 1061  sudo kill -9 13594
+ 1062  htop
+ 1063  sudo service mysql restart
+ 1064  sudo service php5-fpm restart
+ 1065  sudo service nginx restart
+ 1066  sudo service mysql restart
+ 1067  sudo service php5-fpm restart
+ 1068  sudo service nginx restart
+ 1069  exit
+ 1070  htop
+ 1071  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1072  htop
+ 1073  cd /var/www/
+ 1074  ls
+ 1075  cd log
+ 1076  cd logs
+ 1077  cd ../
+ 1078  cd logs
+ 1079  ls
+ 1080  cd log
+ 1081  ls
+ 1082  tail php5-fpm.log
+ 1083  sudo tail php5-fpm.log
+ 1084  cd nginx/
+ 1085  ls
+ 1086  sudo tail access.log
+ 1087  sudo watch tail access.log
+ 1088  tail -n 50 access.log
+ 1089  exit
+ 1090  sudo varnishadm "ban req.url ~ /articles/"
+ 1091  exit
+ 1092  htop
+ 1093  sudo service mysql restart
+ 1094  sudo service php5-fpm restart
+ 1095  sudo service nginx restart
+ 1096  sudo service mysql restart
+ 1097  sudo service php5-fpm restart
+ 1098  sudo service mysql restart
+ 1099  sudo service nginx restart
+ 1100  tail -n 50 access.log
+ 1101  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1102  top
+ 1103  sudo service mysql restart
+ 1104  sudo varnishadm "ban req.url ~ /toddler/sleep/"
+ 1105  sudo service mysql restart
+ 1106  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1107  clear
+ 1108  exit
+ 1109  htop
+ 1110  history
+ 1111  sudo varnishadm "ban req.url ~ /articles/"
+ 1112  exit
+ 1113  sudo varnishadm "ban req.url ~ /articles/*"
+ 1114  exit
+ 1115  sudo varnishadm "ban req.url ~ /articles/breathtaking-photos-babies-born-in-amniotic-sac_00391253/"
+ 1116  exit
+ 1117  cd /var/log/nginx/
+ 1118  ls
+ 1119  tail -n 50 error.log
+ 1120  watch tail -n 50 error.log
+ 1121  watch tail -n 25 error.log
+ 1122  sudo varnishadm "ban req.url ~ /articles/disney-coloring-pages_0086350/"
+ 1123  sudo varnishadm "ban req.url ~ /articles/*"
+ 1124  top
+ 1125  htop
+ 1126  sudo varnishadm "ban req.url ~ /articles/eating-pineapple-help-induce-labor_0076273/"
+ 1127  exit
+ 1128  sudo varnishadm "ban req.url ~ /articles/*"
+ 1129  exit
+ 1130  htop
+ 1131  exit
+ 1132  crontab -l
+ 1133  cat /etc/crontab 
+ 1134  cat /etc/anacrontab
+ 1135  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1136  exit
+ 1137  htop
+ 1138  htop
+ 1139  sudo crontab -l
+ 1140  crontab -l
+ 1141  cd /etc/cron.daily/
+ 1142  ls
+ 1143  cat upstart
+ 1144  cat backupToS3 
+ 1145  cd /tmp/
+ 1146  ls
+ 1147  /usr/bin/mysqldump -v -u momjunction --password=mjonaws -h localhost -r mj_back.sql momjunction
+ 1148  /usr/bin/mysqldump -v -u wp_user --password=mjonaws -h localhost -r mj_back.sql momjunction
+ 1149  gzip mj_back.sql 
+ 1150  ls
+ 1151  s3cmd put mj_back.sql.gz s3://backupmomjunction/db/test/
+ 1152  cd /var/log/
+ 1153  ls
+ 1154  cat /etc/syslog.conf
+ 1155  grep CRON /var/log/syslog
+ 1156  grep -i CRON /var/log/syslog
+ 1157  zgrep -i cron.daily /var/log/syslog*
+ 1158  sudo status cron
+ 1159  sudo s3cmd put mj_back.sql.gz s3://backupmomjunction/db/test/
+ 1160  cd /tmp
+ 1161  sudo s3cmd put mj_back.sql.gz s3://backupmomjunction/db/test/
+ 1162  su root
+ 1163  sudo -i
+ 1164  who
+ 1165  htop
+ 1166  date
+ 1167  sudo crontab -l
+ 1168  cat /etc/crontab
+ 1169  test -x /usr/bin/anacron
+ 1170  s3cmd -v
+ 1171  s3cmd --version
+ 1172  sudo apt-get update s3cmd
+ 1173  sudo apt-get upgrade s3cmd
+ 1174  pip
+ 1175  pip install
+ 1176  pip help install
+ 1177  sudo pip install -U s3cmd
+ 1178  s3cmd --version
+ 1179  s3cmd-1.6.1
+ 1180  sudo s3cmd --version
+ 1181  sudo -i
+ 1182  exit
+ 1183  sudo kill -9 21353
+ 1184  htop
+ 1185  exit
+ 1186  sudo kill -9 20758
+ 1187  sudo kill -9 21463
+ 1188  sudo kill -9 21608
+ 1189  htop
+ 1190  sudo kill -9 21363
+ 1191  htop
+ 1192  sudo crontab -e
+ 1193  cd /tmp
+ 1194  ls
+ 1195  cd ~
+ 1196  ls
+ 1197  sudo crontab -e
+ 1198  exit
+ 1199  htop
+ 1200  sudo -i
+ 1201  sudo -i
+ 1202  mysqldump momjunction > database_name.sql
+ 1203  sudo mysqldump momjunction > database_name.sql
+ 1204  sudo mysqldump -uroot -p momjunction > database_name.sql
+ 1205  ls -la
+ 1206  pwd
+ 1207  sudo tar cvzf momjunction.tgz database_name.sql 
+ 1208  ls -la *.tgz
+ 1209  exit
+ 1210  sudo crontab -e
+ 1211  sudo varnishadm "ban req.url ~ /articles/*"
+ 1212  exit
+ 1213  sudo crontab -l
+ 1214  cd /var/www/wp-content/uploads/
+ 1215  ls
+ 1216  sudo s3cmd sync -r --cache-file=/tmp/cache_md5 --encoding UTF-8 --exclude "w3tc/*" --exclude "backup-db/*" /var/www/ s3://backupmomjunction/www/
+ 1217  sudo s3cmd sync -r --cache-file=/tmp/cache_md5 --encoding UTF-8 --exclude "w3tc/*" --exclude "backup-db/*" /var/www/ s3://backupmomjunction/www/ &
+ 1218  htop
+ 1219  exit
+ 1220  htop
+ 1221  cd /tmp
+ 1222  ls
+ 1223  ls -la
+ 1224  sudo -i
+ 1225  sudo kill -9 17610
+ 1226  htop
+ 1227  sudo kill -9 17611
+ 1228  htop
+ 1229  sudo service mysqld restart
+ 1230  sudo service mysql restart
+ 1231  sudo service php5-fpm restart
+ 1232  sudo service nginx restart
+ 1233  htop
+ 1234  sudo varnishadm 'ban req.url == /articles/learning-activities-for-your-toddlers_0077807/'
+ 1235  sudo varnishadm 'ban req.url == /articles/tips-enhance-pre-reading-skills-toddler-toddler-development_0074188/'
+ 1236  sudo varnishadm 'ban req.url == /articles/simple-ways-handle-toddler-home_0015831/'
+ 1237  exit
+ 1238  cd /var/log/nginx/
+ 1239  ls
+ 1240  tail error.log
+ 1241  sudo varnishadm "ban req.url ~ /articles/"
+ 1242  exit
+ 1243  sudo varnishadm "ban req.url ~ /articles/fun-and-interesting-tennis-facts-for-kids_00349607/"
+ 1244  sudo varnishadm "ban req.url ~ /articles/"
+ 1245  exit
+ 1246  sudo varnishadm "ban req.url ~ /articles/"
+ 1247  exit
+ 1248  sudo varnishadm "ban req.url ~ /pregnancy-due-date-calculator/"
+ 1249  exit
+ 1250  sudo varnishadm "ban req.url ~ /articles/"
+ 1251  sudo varnishadm "ban req.url ~ /pregnancy-due-date-calculator/your-report/03-01-2016/"
+ 1252  exit
+ 1253  htop
+ 1254  exit
+ 1255  sudo varnishadm "ban req.url ~ /articles/"
+ 1256  exit
+ 1257  sudo varnishadm "ban req.url ~ /ovulation-calculator/"
+ 1258  sudo varnishadm "ban req.url ~ /articles/"
+ 1259  sudo varnishadm 'ban req.url ==  /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/'
+ 1260  sudo varnishadm 'ban req.url ==  /articles/enema-labour-everything-need-know_00100383/'
+ 1261  sudo varnishadm 'ban req.url ==  /articles/natural-effective-ways-to-speed-up-your-labor_0093408/'
+ 1262  sudo varnishadm 'ban req.url ==  /articles/ways-to-prevent-preterm-labour_0079292/'
+ 1263  sudo varnishadm 'ban req.url ==  /articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/'
+ 1264  exit
+ 1265  sudo varnishadm "ban req.url ~ /articles/"
+ 1266  exit
+ 1267  sudo varnishadm "ban req.url = /"
+ 1268  sudo varnishadm "ban req.url == /"
+ 1269  exit
+ 1270  htop
+ 1271  exit
+ 1272  htop
+ 1273  sudo service mysqld restart
+ 1274  sudo service mysql restart
+ 1275  sudo service php5-fpm restart
+ 1276  sudo service nginx restart
+ 1277  htop
+ 1278  sudo service mysql restart
+ 1279  sudo service php5-fpm restart
+ 1280  sudo service nginx restart
+ 1281  sudo varnishadm 'ban req.url ==  /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/'
+ 1282  sudo varnishadm 'ban req.url ==  /articles/enema-labour-everything-need-know_00100383/'
+ 1283  sudo varnishadm 'ban req.url ==  /articles/natural-effective-ways-to-speed-up-your-labor_0093408/'
+ 1284  sudo varnishadm 'ban req.url ==  /articles/ways-to-prevent-preterm-labour_0079292/'
+ 1285  sudo varnishadm 'ban req.url ==  /articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/'
+ 1286  exit
+ 1287  aws
+ 1288  aws help
+ 1289  sudo varnishadm 'ban req.url ==  /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+ 1290  sudo varnishadm 'ban req.url ==  /articles/enema-labour-everything-need-know_00100383/
+ 1291  sudo varnishadm 'ban req.url ==  /articles/natural-effective-ways-to-speed-up-your-labor_0093408/
+ 1292  sudo varnishadm 'ban req.url ==  /articles/ways-to-prevent-preterm-labour_0079292/
+ 1293  sudo varnishadm 'ban req.url ==  /articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/
+ 1294  sudo varnishadm 'ban req.url ==  /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+ 1295  sudo varnishadm 'ban req.url ==  /articles/enema-labour-everything-need-know_00100383/
+ 1296  sudo varnishadm 'ban req.url ==  /articles/natural-effective-ways-to-speed-up-your-labor_0093408/
+ 1297  sudo varnishadm 'ban req.url ==  /articles/ways-to-prevent-preterm-labour_0079292/
+ 1298  sudo varnishadm 'ban req.url ==  /articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/
+ 1299  sudo varnishadm 'ban req.url ==  /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/'
+ 1300  sudo varnishadm 'ban req.url ==  /articles/enema-labour-everything-need-know_00100383/'
+ 1301  sudo varnishadm 'ban req.url ==  /articles/natural-effective-ways-to-speed-up-your-labor_0093408/'
+ 1302  sudo varnishadm 'ban req.url ==  /articles/ways-to-prevent-preterm-labour_0079292/'
+ 1303  sudo varnishadm 'ban req.url ==  /articles/2nd-week-pregnancy-symptoms-baby-development-tips-body-changes_0075530/'
+ 1304  clear
+ 1305  aws cloudfront create-invalidation --distribution-id ER71GUPRJKOVC \ --paths /articles/tips-to-deal-with-cellulite-during-pregnancy_00101761/
+ 1306  ls
+ 1307  sudo aws cloudfront create-invalidation --cli-input-json invbatch.json 
+ 1308  ls -la
+ 1309  aws cloudfront create-invalidation --cli-input-json file://invbatch.json
+ 1310  exit
+ 1311  aws cloudfront create-invalidation --cli-input-json file://invbatch.json
+ 1312  exit
+ 1313  http://www.stylecraze.com/articles/best-sunscreens-available-in-india-our-top-10/
+ 1314  http://www.stylecraze.com/articles/best-mac-foundations/
+ 1315  http://www.stylecraze.com/articles/best-sunscreen-lotions-for-oily-skin/
+ 1316  http://www.stylecraze.com/articles/best-tan-removal-creams-available-in-india/
+ 1317  http://www.stylecraze.com/articles/best-mac-matte-lipstick-shades/
+ 1318  http://www.stylecraze.com/articles/top-6-foundations-for-oily-skin/
+ 1319  http://www.stylecraze.com/articles/top-5-compact-powders-for-oily-skin/
+ 1320  http://www.stylecraze.com/articles/kryolan-makeup-kits-available-in-india/
+ 1321  http://www.stylecraze.com/articles/best-selling-tom-ford-perfumes/
+ 1322  exit
+ 1323  cd /var/log
+ 1324  ls
+ 1325  cd nginx/
+ 1326  ls
+ 1327  tail -n 100 error.log
+ 1328  vim error.log
+ 1329  cd /
+ 1330  cd /var/log
+ 1331  ls
+ 1332  tail -n 15 php5-fpm.log
+ 1333  sudo tail -n 15 php5-fpm.log
+ 1334  sudo tail -n 15 php5-fpm.log.
+ 1335  sudo tail -n 15 php5-fpm.log.1
+ 1336  htop
+ 1337  exit
+ 1338  sudo varnishadm "ban req.url ~ /articles/ghetto-baby-names-for-girls-and-boys_00398172/"
+ 1339  htop
+ 1340  sudo service mysqld restart
+ 1341  sudo service mysql restart
+ 1342  sudo service php5-fpm restart
+ 1343  sudo service nginx restart
+ 1344  exit
+ 1345  htop
+ 1346  sudo service mysql restart
+ 1347  sudo service php5-fpm restart
+ 1348  sudo service nginx restart
+ 1349  top
+ 1350  htop
+ 1351  sudo varnishadm "ban req.url ~ /articles/"
+ 1352  htop
+ 1353  sudo service mysql restart
+ 1354  sudo service php5-fpm restart
+ 1355  htop
+ 1356  sudo service mysql restart
+ 1357  htop
+ 1358  clear
+ 1359  sudo service php5-fpm 
+ 1360  sudo service mysql restart
+ 1361  htop
+ 1362  sudo service mysql restart
+ 1363  sudo service php5-fpm restart
+ 1364  sudo service nginx restart
+ 1365  history
+ 1366  history | grep "process"
+ 1367  history | grep "SHOW"
+ 1368  watch "mysql -uroot -pmjonaws -e 'SHOW PROCESSLIST'"
+ 1369  htop
+ 1370  htop
+ 1371  sudo service mysql restart
+ 1372  sudo service mysql start
+ 1373  who
+ 1374  htop
+ 1375  sudo service mysql restart
+ 1376  sudo service php5-fpm restart 
+ 1377  sudo service tomcat6 start
+ 1378  htop
+ 1379  sudo kill -9 1354
+ 1380  htop
+ 1381  sudo service tomcat6 stop
+ 1382  mysql -uroot -p
+ 1383  history | grep "mysqltuner"
+ 1384  mysqltuner
+ 1385  mysql -uroot -p
+ 1386  mysqltuner
+ 1387  mysql -uroot -p
+ 1388  mysqltuner
+ 1389  cd /etc/mysql/
+ 1390  ls
+ 1391  cat my.cndf
+ 1392  cat my.cnf
+ 1393  htop
+ 1394  cd /var/log/mysql/
+ 1395  ls
+ 1396  vim mysql-slow.log
+ 1397  mysqltuner
+ 1398  sudo varnishadm "ban req.url ~ /articles/"
+ 1399  htop
+ 1400  sudo service tomcat6 start
+ 1401  sudo varnishadm "ban req.url ~ /names/"
+ 1402  sudo varnishadm "ban req.url ~ /articles/pcos-pregnancy-causes-symptoms-treatment_0020/"
+ 1403  sudo varnishadm "ban req.url ~ /articles/healthy-diet-tips-and-a-plan-for-your-teenage-girl_0079914/"
+ 1404  sudo varnishadm "ban req.url ~ /articles/home-remedies-to-treat-constipation-in-teens_00352422/"
+ 1405  exit
+ 1406  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1407  exit
+ 1408  sudo mysqldump -u root -p sconaws momjunction > momjunction-may-26-2016.sql
+ 1409  ls
+ 1410  ls -la
+ 1411  exit
+ 1412  ls -la
+ 1413  sudo varnishadm "ban req.url ~ /articles/unicorn-coloring-pages-for-toddlers_00400588/"
+ 1414  sudo varnishadm "ban req.url ~ /articles/unicorn-coloring-pages_00120300/"
+ 1415  exit
+ 1416  sudo varnishadm "ban req.url ~ /articles/useful-tips-successful-single-parent_0022450/"
+ 1417  ls
+ 1418  clear
+ 1419  cd /var/log/nginx/
+ 1420  ls
+ 1421  vim error.log
+ 1422  sudo varnishadm "ban req.url ~ /articles/*"
+ 1423  exit
+ 1424  sudo varnishadm "ban req.url ~ /articles/*"
+ 1425  htop
+ 1426  sudo service mysql restart
+ 1427  sudo service php5-fpm restart
+ 1428  sudo service nginx restart
+ 1429  htop
+ 1430  sudo service tomcat6 restart
+ 1431  htop
+ 1432  sudo service tomcat6 stop
+ 1433  htop
+ 1434  sudo service mysql restart
+ 1435  htop
+ 1436  sudo service mysql stop
+ 1437  htop
+ 1438  sudo service php5-fpm stop
+ 1439  htop
+ 1440  sudo service mysql start
+ 1441  htop
+ 1442  sudo service php5-fpm start
+ 1443  htop
+ 1444  sudo service tomcat6 start
+ 1445  htop
+ 1446  free -h
+ 1447  clear
+ 1448  sudo service php5-fpm start
+ 1449  sudo service php5-fpm restart 
+ 1450  sudo service mysql restart
+ 1451  sudo service nginx restart
+ 1452  ls
+ 1453  ls -la
+ 1454  exit
+ 1455  clear
+ 1456  exit
+ 1457  sudo -i
+ 1458  top
+ 1459  free -f
+ 1460  free -h
+ 1461  top
+ 1462  vi /var/www/nginx.conf 
+ 1463  top
+ 1464  cd /var/log/nginx/
+ 1465  who
+ 1466  htop
+ 1467  history
+ 1468  export HISTTIMEFORMAT="%d/%m/%y %T "
+ 1469  history
+ 1470  export HISTTIMEFORMAT=""
+ 1471  history
+ 1472  htop
+ 1473  cd /etc/mysql/
+ 1474  ls
+ 1475  my.cnf
+ 1476  htop
+ 1477  ls
+ 1478  sudo vim my.cnf
+ 1479  sudo service mysql restart
+ 1480  htop
+ 1481  free -h
+ 1482  mysql -uroot -pmjonaws
+ 1483  vim /var/www/nginx.conf 
+ 1484  sudo service nginx restart
+ 1485  cd /var/www/wp-content
+ 1486  ls
+ 1487  cd cache
+ 1488  ls
+ 1489  cd page_enhanced
+ 1490  ls
+ 1491  cd www.momjunction.com/
+ 1492  ls
+ 1493  cd articles/
+ 1494  ls
+ 1495  ls -ah
+ 1496  ls -la
+ 1497  cd /etc/nginx/
+ 1498  cd conf.d/
+ 1499  ls
+ 1500  sudo vim default.conf 
+ 1501  sudo service nginx restart
+ 1502  htop
+ 1503  free -g
+ 1504  free -h
+ 1505  sudo service mysql restart
+ 1506  hto
+ 1507  htop
+ 1508  free -h
+ 1509  htop
+ 1510  cat /etc/php5/fpm/pool.d/www.conf 
+ 1511  vim /etc/sysctl.conf
+ 1512  sysctl -A
+ 1513  ulimit -n
+ 1514  cd ~
+ 1515  hisotry | grep "mysqldump"
+ 1516  history | grep "mysqldump"
+ 1517  sudo mysqldump -uroot -pmjonaws momjunction > momjunction_160620161136.sql
+ 1518  ls
+ 1519  history | grep "tar"
+ 1520  sudo tar cvzf momjunction_160620161138.tgz momjunction_160620161136.sql 
+ 1521  ls
+ 1522  ls -lah
+ 1523  mysql -uroot -p
+ 1524  cat /etc/sysctl.conf 
+ 1525  vim /etc/sysctl.conf
+ 1526  exit
+ 1527  ls
+ 1528  exit
+ 1529  ls
+ 1530  cd sharma-jun-2016/
+ 1531  ls
+ 1532  ls -la
+ 1533  cd buddyboss
+ 1534  clear
+ 1535  ls -la
+ 1536  clear
+ 1537  cd ..
+ 1538  exit
+ 1539  clear
+ 1540  ls
+ 1541  cd ..
+ 1542  ls
+ 1543  ls-la
+ 1544  cd ..
+ 1545  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1546  ls
+ 1547  ls -la
+ 1548  ls
+ 1549  ls -la
+ 1550  cd wp-admin
+ 1551  ls
+ 1552  cd ..
+ 1553  ls -la
+ 1554  cd ..
+ 1555  ls -la
+ 1556  cd ..
+ 1557  ls -la
+ 1558  clear
+ 1559  ls -la
+ 1560  sudo varnishadm "ban req.url ~ ^/$"
+ 1561  cd ..
+ 1562  cd /var/www/wp-content/
+ 1563  ls
+ 1564  cd backup-db/
+ 1565  ls
+ 1566  history | grep "mysqldump"
+ 1567  sudo mysqldump -uroot -pmjonaws momjunction > 220620160347_momjunction.sql
+ 1568  cd /tmp
+ 1569  sudo mysqldump -uroot -pmjonaws momjunction > 220620160347_momjunction.sql
+ 1570  history | grep "tar"
+ 1571  sudo tar cvzf 2206160347_momjunction.tgz 220620160347_momjunction.sql 
+ 1572  ls
+ 1573  ls -lah
+ 1574  sudo rm 220620160347_momjunction.sql 
+ 1575  ls -lah
+ 1576  ls
+ 1577  cd /var/www/
+ 1578  ls
+ 1579  exit
+ 1580  htop
+ 1581  sudo service mysql start
+ 1582  sudo service mysql restart
+ 1583  htop
+ 1584  top
+ 1585  free -h
+ 1586  mysql -uroot -pmjonaws
+ 1587  cd /var/www/
+ 1588  cat wp-config.php 
+ 1589  mysql -uwp_user -pmjonaws
+ 1590  sudo varnisadm "ban req.url ~ wp-admin"
+ 1591  sudo varnishadm "ban req.url ~ wp-admin"
+ 1592  sudo varnishadm "ban req.url = /"
+ 1593  sudo varnishadm "ban req.url == /"
+ 1594  who
+ 1595  htop
+ 1596  sudo varnishadm "ban.req.url ~ "
+ 1597  sudo varnishadm "ban.req.url ~ http://www.momjunction.com/baby/baby-care"
+ 1598  sudo varnishadm "ban.req.url ~ <http://www.momjunction.com/baby/baby-care>"
+ 1599  clear
+ 1600  ls
+ 1601  exit
+ 1602  sudo service tomcat6 restrt
+ 1603  sudo service tomcat6 restart
+ 1604  sudo varnishadm "ban.req.url ~http://www.momjunction.com/baby/baby-care"
+ 1605  sudo varnishadm "ban.req.url ~ /baby/baby-care/"
+ 1606  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1607  sudo varnishadm "ban req.url ~/unique-nicknames-pet-names-for-your-babby_0089481"
+ 1608  sudo varnishadm "ban req.url ~/article/unique-nicknames-pet-names-for-your-babby_0089481/"
+ 1609  sudo varnishadm "ban req.url ~ /article/unique-nicknames-pet-names-for-your-babby_0089481/"
+ 1610  sudo varnishadm "ban req.url ~ /baby/"
+ 1611  exit
+ 1612  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1613  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1614  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1615  sudo varnishadm "ban req.url ~ /sitemap_index.xml"
+ 1616  exit
+ 1617  sudo varnishadm "ban req.url ~ sitemap_index.xml"
+ 1618  sudo varnishadm "ban req.url ~ /sitemap_index.xml"
+ 1619  sudo varnishadm "ban req.url ~ /main-sitemap.xsl""
+ 1620  sudo varnishadm "ban req.url ~ /main-sitemap.xsl"
+ 1621  sudo varnishadm "ban req.url ~ /main-sitemap.xsl"
+ 1622  sudo varnishadm "ban req.url ~ main-sitemap.xsl"
+ 1623  exit
+ 1624  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1625  ls
+ 1626  cd ...
+ 1627  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1628  sudo varnishadm "ban req.url == /baby/baby-care/"
+ 1629  exit
+ 1630  htop
+ 1631  cd /var/www/wp-content/cache/page_enhanced/
+ 1632  ls
+ 1633  cd www.momjunction.com
+ 1634  ls
+ 1635  cd baby
+ 1636  ls
+ 1637  cd baby-care/
+ 1638  ls
+ 1639  cd ..
+ 1640  sudo rm -rf baby-care
+ 1641  sudo varnishadm "ban req.url == /baby/baby-care"
+ 1642  sudo varnishadm "ban req.url ~ /baby/"
+ 1643  sudo varnishadm "ban req.url ~ /baby/baby-care/"
+ 1644  free -h
+ 1645  sudo apt-get update
+ 1646  sudo apt-get upgrade
+ 1647  sudo apt-get dist-upgrade
+ 1648  sudo reboot
+ 1649  sudo service tomcat6 start
+ 1650  free -h
+ 1651  ls
+ 1652  cd ..
+ 1653  cd wordpress/
+ 1654  ls
+ 1655  ls -la
+ 1656  ls -lla
+ 1657  ls
+ 1658  sudo  mv plugins/ ~/sharma-jun-2016/plugins-sc-move-mj/
+ 1659  ls
+ 1660  cd ..
+ 1661  ls
+ 1662  cd plugins-sc-move-mj/
+ 1663  ls
+ 1664  ls -la
+ 1665  ls
+ 1666  cd mj-29062016-plugins-live/
+ 1667  cd ..
+ 1668  ls -la
+ 1669  cd..
+ 1670  cd ..
+ 1671  free -h
+ 1672  htop
+ 1673  exit
+ 1674  sudo varnishadm "ban req.url ~ "
+ 1675  sudo varnishadm "ban req.url ~ /articles/cute-monkey-coloring-pages-your-toddler-will-love_0091601/"
+ 1676  exit
+ 1677  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1678  exit
+ 1679  cd /var/www/wp-content/cache/page_enhanced/
+ 1680  ls
+ 1681  exit
+ 1682  sudo vim /etc/varnish/default.vcl 
+ 1683  sudo /etc/init.d/varnish reload
+ 1684  cd /
+ 1685  sudo mkdir nonexistent
+ 1686  sudo chmod +r nonexistent
+ 1687  cd nonexistent/
+ 1688  sudo mkdir .aws
+ 1689  sudo chmod +r .aws
+ 1690  cd .aws
+ 1691  sudo vim credentials
+ 1692  sudo chmod +r credentials 
+ 1693  cd /var/www
+ 1694  wget http://www.thebridalbox.com/purger.tar.gz
+ 1695  tar -zxvf purger.tar.gz
+ 1696  cd purger/
+ 1697  vim purge.php 
+ 1698  history | grep "process"
+ 1699  history | grep "SHOW"
+ 1700  history | grep "mysql"
+ 1701  history | grep "mysqltuner"
+ 1702  sudo service varnish status
+ 1703  cd /etc/nginx/
+ 1704  ls
+ 1705  cd sites-available/
+ 1706  ls
+ 1707  vi scrum.stylecraze.com 
+ 1708  exit
+ 1709  cd /etc/nginx/conf.d/
+ 1710  vim default.conf 
+ 1711  history | grep "varnish"
+ 1712  exit
+ 1713  history | grep "varnish"
+ 1714  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1715  exit
+ 1716  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1717  exit
+ 1718  sudo varnishadm 'ban req.url ==  /pregnancy-weight-gain-calculator/"
+ 1719  sudo varnishadm 'ban req.url ==  /bmi-calculator/"
+ 1720  sudo varnishadm 'ban req.url ==  /period-calculator/"
+ 1721  sudo varnishadm 'ban req.url ==  /baby-eye-color-calculator/"
+ 1722  sudo varnishadm 'ban req.url ==  /implantation-calculator/"
+ 1723  sudo varnishadm 'ban req.url ==  /breast-milk-calculator/"
+ 1724  sudo varnishadm 'ban req.url ==  /contraction-calculator/"
+ 1725  sudo varnishadm 'ban req.url ==  /pregnancy-weight-gain-calculator/'
+ 1726  sudo varnishadm 'ban req.url ==  /bmi-calculator/'
+ 1727  sudo varnishadm 'ban req.url ==  /period-calculator/'
+ 1728  sudo varnishadm 'ban req.url ==  /baby-eye-color-calculator/'
+ 1729  sudo varnishadm 'ban req.url ==  /implantation-calculator/'
+ 1730  sudo varnishadm 'ban req.url ==  /breast-milk-calculator/'
+ 1731  sudo varnishadm 'ban req.url ==  /contraction-calculator/'
+ 1732  uptime
+ 1733  htop
+ 1734  EXIT
+ 1735  sshsc
+ 1736  exi
+ 1737  exit
+ 1738  cd /etc/php5/fpm/pool.d/
+ 1739  cat www.conf
+ 1740  cd /etc/nginx
+ 1741  cat default
+ 1742  ls
+ 1743  cd conf.d
+ 1744  ls
+ 1745  cat default.conf 
+ 1746  exit
+ 1747  history | grep "SHOW"
+ 1748  sudo varnishadm "ban req.url ~ /wp-content/themes/buddyboss-child/css/buddyboss324.min.css"
+ 1749  exit
+ 1750  history | grep "SHOW"
+ 1751  mysql -uroot -p
+ 1752  uptime
+ 1753  free -h
+ 1754  uptime
+ 1755  free -h
+ 1756  cd /var/www/wp-content/cache/page_enhanced/
+ 1757  ls
+ 1758  mkdir /var/cache-repo
+ 1759  sudo mkdir /var/cache-repo
+ 1760  cd www.momjunction.com/
+ 1761  ls
+ 1762  cd articles
+ 1763  ls
+ 1764  cd ..
+ 1765  ls | wc -l
+ 1766  sudo cp -R artcles /var/cache-repo/
+ 1767  sudo cp -R articles /var/cache-repo/
+ 1768  sudo varnishadm "ban req.url ~ /articles/"
+ 1769  uptime
+ 1770  sudo varnishadm 'ban req.url ==  /pregnancy-due-date-calculator/'
+ 1771  sudo mysql status
+ 1772  sudo service mysql status
+ 1773  sudo service ngnix status
+ 1774  sudo service nginix status
+ 1775  sudo service nginx status
+ 1776  exit
+ 1777  sudo service nginx status
+ 1778  sudo service mysql status
+ 1779  exit;
+ 1780  sudo varnishadm "ban req.url ~ /articles/"
+ 1781  exit
+ 1782  uptime
+ 1783  cd /var/www/wp-content/cache/page_enhanced/
+ 1784  ls
+ 1785  sudo rm -R z*
+ 1786  sudo rm -R yahoo.com/
+ 1787  sudo rm -R www.260zz.com
+ 1788  sudo rm -R www.baidu.com
+ 1789  sudo rm -R www.cdn2.momjunction.com
+ 1790  sudo rm -R www.ctrip.com
+ 1791  sudo rm -R www.dwx2.com
+ 1792  sudo rm -R www.elong.com
+ 1793  sudo rm -R wwwgoo.momjunction.com
+ 1794  sudo rm -R www.haoav17.com
+ 1795  sudo rm -R www.mafengwo.cn
+ 1796  sudo rm -R www.mingjingnews.com
+ 1797  sudo rm -R _www.momjunction.com
+ 1798  sudo rm -R www.w5a8ww.momjunction.com
+ 1799  sudo rm -R www.w87b6ww.momjunction.com
+ 1800  sudo rm -R wwww.momjunction.com
+ 1801  sudo rm -R xsso.cdn2.momjunction.com
+ 1802  sudo rm -R xsso.www.momjunction.com
+ 1803  sudo rm -R yahoo.com
+ 1804  sudo rm -R zgtfheibzzzzbiehftgz.momjunction.com
+ 1805  sudo rm -R zimbra.momjunction.com
+ 1806  ls
+ 1807  clear
+ 1808  ls
+ 1809  sudo rm -R www.w5a8ww.momjunction.com
+ 1810  sudo rm -R www.w87b6ww.momjunction.com
+ 1811  sudo rm -R wwww.momjunction.com
+ 1812  sudo rm -R xsso.cdn2.momjunction.com
+ 1813  sudo rm -R xsso.www.momjunction.com
+ 1814  sudo rm -R yahoo.com
+ 1815  sudo rm -R zgtfheibzzzzbiehftgz.momjunction.com
+ 1816  sudo rm -R zimbra.momjunction.com
+ 1817  ls
+ 1818  sudo rm -R www.260zz.com
+ 1819  sudo rm -R ww
+ 1820  ls
+ 1821  sudo rm -R a*
+ 1822  sudo rm -R b*
+ 1823  sudo rm -R c*
+ 1824  sudo rm -R d*
+ 1825  sudo rm -R e*
+ 1826  sudo rm -R f*
+ 1827  sudo rm -R g*
+ 1828  sudo rm -R h*
+ 1829  sudo rm -R i*
+ 1830  sudo rm -R j*
+ 1831  sudo rm -R k*
+ 1832  sudo rm -R l*
+ 1833  sudo rm -R m*
+ 1834  sudo rm -R n*
+ 1835  sudo rm -R o*
+ 1836  sudo rm -R p*
+ 1837  sudo rm -R r*
+ 1838  sudo rm -R s*
+ 1839  sudo rm -R t*
+ 1840  sudo rm -R u*
+ 1841  sudo rm -R v*
+ 1842  sudo rm -R x*
+ 1843  sudo rm -R y*
+ 1844  sudo rm -R z*
+ 1845  sudo rm -R q*
+ 1846  ls
+ 1847  sudo rm -R 1*
+ 1848  sudo rm -R 2*
+ 1849  sudo rm -R 3*
+ 1850  sudo rm -R 5*
+ 1851  ls
+ 1852  sudo rm -R web*
+ 1853  clear
+ 1854  ls
+ 1855  sudo rm -R wwq*
+ 1856  sudo rm -R ww.momjunction.com/
+ 1857  sudo rm -R ww2*
+ 1858  sudo rm -R ww4*
+ 1859  ls
+ 1860  sudo rm -R w.momjunction.com/
+ 1861  sudo rm -R w5a8ww.momjunction.com/
+ 1862  ls
+ 1863  sudo rm -R ww5*
+ 1864  sudo rm -R w8*
+ 1865  ls
+ 1866  sudo rm -R www1*
+ 1867  ls
+ 1868  cd www.momjunction.com/
+ 1869  ls
+ 1870  cd articles
+ 1871  cd ..
+ 1872  sudo rm -R articles
+ 1873  cd articles
+ 1874  sudo rm -R a*
+ 1875  sudo rm -R b*
+ 1876  sudo rm -R c*
+ 1877  sudo rm -R d*
+ 1878  sudo rm -R e*
+ 1879  sudo rm -R f*
+ 1880  sudo rm -R g*
+ 1881  sudo rm -R h*
+ 1882  sudo rm -R i*
+ 1883  sudo rm -R j*
+ 1884  sudo rm -R k*
+ 1885  sudo rm -R l*
+ 1886  sudo rm -R m*
+ 1887  sudo rm -R n*
+ 1888  sudo rm -R o*
+ 1889  sudo rm -R p*
+ 1890  sudo rm -R r*
+ 1891  sudo rm -R s*
+ 1892  sudo rm -R t*
+ 1893  sudo rm -R u*
+ 1894  sudo rm -R v*
+ 1895  sudo rm -R x*
+ 1896  sudo rm -R y*
+ 1897  sudo rm -R z*
+ 1898  sudo rm -R q*
+ 1899  ls
+ 1900  ls -lR | grep ^d | wc -l
+ 1901  clear
+ 1902  ls -lR | grep ^d | wc -l
+ 1903  sudo rm -R *
+ 1904  ls -lR | grep ^d | wc -l
+ 1905  sudo rm -R *
+ 1906  ls -lR | grep ^d | wc -l
+ 1907  exit
+ 1908  uptime
+ 1909  watch uptime
+ 1910  sudo varnishadm "ban req.url ~ /articles/a"
+ 1911  watch uptime
+ 1912  sudo varnishadm "ban req.url ~ /articles/b"
+ 1913  watch uptime
+ 1914  sudo varnishadm "ban req.url ~ /articles/c"
+ 1915  sudo varnishadm "ban req.url ~ /articles/d"
+ 1916  sudo varnishadm "ban req.url ~ /articles/e"
+ 1917  watch uptime
+ 1918  sudo varnishadm "ban req.url ~ /articles/f"
+ 1919  sudo varnishadm "ban req.url ~ /articles/g"
+ 1920  sudo varnishadm "ban req.url ~ /articles/h"
+ 1921  sudo varnishadm "ban req.url ~ /articles/i"
+ 1922  sudo varnishadm "ban req.url ~ /articles/j"
+ 1923  sudo varnishadm "ban req.url ~ /articles/"
+ 1924  sudo varnishadm "ban req.url ~ /articles/k"
+ 1925  sudo varnishadm "ban req.url ~ /articles/l"
+ 1926  sudo varnishadm "ban req.url ~ /articles/m"
+ 1927  sudo varnishadm "ban req.url ~ /articles/n"
+ 1928  sudo varnishadm "ban req.url ~ /articles/o"
+ 1929  sudo varnishadm "ban req.url ~ /articles/p"
+ 1930  sudo varnishadm "ban req.url ~ /articles/q"
+ 1931  sudo varnishadm "ban req.url ~ /articles/r"
+ 1932  sudo varnishadm "ban req.url ~ /articles/s"
+ 1933  sudo varnishadm "ban req.url ~ /articles/t"
+ 1934  sudo varnishadm "ban req.url ~ /articles/u"
+ 1935  sudo varnishadm "ban req.url ~ /articles/v"
+ 1936  sudo varnishadm "ban req.url ~ /articles/w"
+ 1937  sudo varnishadm "ban req.url ~ /articles/y"
+ 1938  sudo varnishadm "ban req.url ~ /articles/z"
+ 1939  sudo varnishadm "ban req.url ~ /articles/"
+ 1940  watch uptime
+ 1941  htop
+ 1942  watch uptime
+ 1943  exit
+ 1944  watch uptime
+ 1945  cd /var/www/wp-content/cache/page_enhanced/www.momjunction.com/articles
+ 1946  ls -lR | grep ^d | wc -l
+ 1947  exit
+ 1948  watch uptime
+ 1949  ls -lR | grep ^d | wc -l
+ 1950  cd /var/www/wp-content/cache/page_enhanced/www.momjunction.com/articles
+ 1951  ls -lR | grep ^d | wc -l

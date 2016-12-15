@@ -1,0 +1,44 @@
+WROX - SHELL SCRITPTING
+EXPERT RECIPIES FOR LINUX, BASH AND MORE
+
+Author: Steve Parker
+
+INTRODUNCTION
+PART 1 ABOUT INGREDIENTS
+
+CHAPTER 1 The History of UNIX, GNU, and Linux
+CHAPTER 2 Getting Started 
+CHAPTER 3 Variables
+CHAPTER 4 Wildcard Expansion
+CHAPTER 5 Conditional Execution
+CHAPTER 6 Flow Control Using Loops
+CHAPTER 7 Variables Continued
+CHAPTER 8 Functions and Libraries
+CHAPTER 9 Arrays 
+CHAPTER 10 Processes
+CHAPTER 11 Choosing and Using Shells
+
+PART 2 RECIPIES FOR USING AND EXTENDING SYSTEM TOOLS
+
+CHAPTER 12 File Manipulation
+CHAPTER 13 Text Manipulation
+CHAPTER 14 Tools for Systems Administration
+
+PART 3 RECIPIES FOR SYSTEM ADMINISTRATION
+
+CHAPTER 15 Shell Features
+CHAPTER 16 System Administration
+CHAPTER 17 Presentation
+CHAPTER 18 Data Storage and Retrieval
+CHAPTER 19 Numbers 
+CHAPTER 20 Processes
+CHAPTER 21 Internationalization
+
+PART 4 REFERENCE
+
+APPENDIX Further Reading
+GLOSSARY
+
+INDEX...............
+
+
